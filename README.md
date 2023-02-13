@@ -1,180 +1,34 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Webová stránka Roberta Maříka
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+Učím matematiku na LDF MENDELU v Brně. Myslím si, že matematika pomáhá studentům lépe proniknout do oblasti jejich odborných zájmů, ať se jedná o dřevařství, krajinářství, arboristiku či cokoliv jiného. Jsem hrdý na to, že můžu studentům, budoucím odborníkům na dřevo, na stromy či na krajinu, pomoct získat aspoň základní přehled, jaké nástroje se dají využít k tomu, abychom složitému světu okolo sebe rozuměli co nejlépe.
 
-## Demo
+Pokud studujete na LDF asi se zajímáte o ty nejhezčí objekty: stromy, dřevo, lesy, krajinu. To jsou i objekty nejhůře uchopitelné kvantitativními metodami. Vskutku, dřevo je silně anizotropní a nelineární materiál a do stromu nebo pod zem nevidíme. Proto jsou matematické metody v těchto oborech opravdovou výzvou, proto jsou úlohy mnohem těžší než běžné fyzikální úlohy a proto bychom se měli soustředit zejména na teorii a souvislosti než na konkrétní příklady.
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+Takový výpočet nosníku, ze kterého má strojař nebo stavař radost a je pro ně užitečný, je málo zajímavý pro dřevaře. Dřevař pracuje s přírodním materiálem, který má v různých směrech různé vlastnosti a chová se jinak v tahu a tlaku a nemůžeme si jej namíchat podle potřeby, jako ocel nebo beton. Proto se musíme zaměřit na obecné využití nástrojů pro výpočty. Konkrétní realistické a prakticky zajímavé výpočty bývají tak složité, že je svěřujeme počítačům. Musíme však umět data pro počítačovou simulaci připravit a posoudit, zda předpřipravený model je vhodný pro naše zamýšlené využití. Jinými slovy: dost často stačí vědět, co je potřeba počítat a co se dá spočítat z jakých dat. Reálný výpočet udělá někdo jiný. Mějte toto během studia na paměti.
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
-## Why Jekyll with GitBook
+## Rozcestník
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
 
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+* [Matematika](../mt) pro první ročníky bakalářského studia. Základy vysokoškolské matematiky.
+* [Aplikovaná matematika](../am) a Inženýrská matematika pro první ročníky magisterského studia. Navazuje na předchozí matematiku.
+* [Dynamické modely populací](https://robert-marik.github.io/dmp). Poprvé se bude učí od jara 2023. 
+* [Věda, výzkum](../research). Publikace, konference, vědecké počiny.
 
-## How to Get Started
+## Zamyšlení
 
-This theme can be used just as other [Jekyll themes][1] and support [remote theme][12],
-see [the official guide][13] as well.
-
-You can introduce this jekyll theme into your own site by either
-
-- [Fork][3] this repository and add your markdown posts to the `_posts` folder.
-- Use as a remote theme in your [`_config.yml`][14](just like what we do for this
-  site itself),
-
-```yaml
-remote_theme: sighingnow/jekyll-gitbook
-```
-
-### Deploy Locally with Jekyll Serve
-
-This theme can be ran locally using Ruby and Gemfiles.
-
-[Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) - GitHub
-
-## Full-text search
-
-The search functionality in jekyll-gitbook theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
-
-[https://sighingnow.github.io/jekyll-gitbook/?q=generated](https://sighingnow.github.io/jekyll-gitbook/?q=generated)
-
-## Code highlight
-
-The code highlight style is configurable the following entry in `_config.yaml`:
-
-```yaml
-syntax_highlighter_style: colorful
-```
-
-The default code highlight style is `colorful`, the full supported styles can be found from [the rouge repository][6]. Customized
-style can be added to [./assets/gitbook/rouge/](./assets/gitbook/rouge/).
-
-## How to generate TOC
-
-The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the *Contents* for the page.
-The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
-configuration in `_config.yml`:
-
-```yaml
-toc:
-    enabled: true
-    h_min: 1
-    h_max: 3
-```
-
-## Google Analytics, etc.
-
-The jekyll-gitboook theme supports embedding the [Google Analytics][7], [CNZZ][8] and [Application Insights][9] website analytical tools with the following
-minimal configuration in `_config.yaml`:
-
-```yaml
-tracker:
-  google_analytics: "<YOUR GOOGLE ANALYTICS KEY, e.g, UA-xxxxxx-x>"
-```
-
-Similarly, CNZZ can be added with the following configuration in `_config.yaml`
-
-```yaml
-tracker:
-  cnzz: "<YOUR CNZZ ANALYTICS KEY, e.g., xxxxxxxx>"
-```
-
-Application Insights can be added with the following configuration in `_config.yaml`
-
-```yaml
-tracker:
-  application_insights: "<YOUR APPLICATION INSIGHTS CONNECTION STRING>"
-```
-
-## Extra StyleSheet or Javascript elements
-
-You can add extra CSS or JavaScript references using configuration collections:
-
-- extra_css: for additional style sheets. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-- extra_header_js: for additional scripts to be included in the `<head>` tag, after the `extra_css` has been added. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-- extra_footer_js: for additional scripts to be included at the end of the HTML document, just before the site tracking script. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-
-## Customizing font settings
-
-The fonts can be customized by modifying the `.book.font-family-0` and `.book.font-family-1` entry in [`./assets/gitbook/custom.css`][10],
-
-```css
-.book.font-family-0 {
-    font-family: Georgia, serif;
-}
-.book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-```
-
-## Tips, Warnings and Dangers blocks
-
-The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip }`, `{: .block-warning }`,
-`{: .block-danger }`) like that displayed in [the discord.js website][11]. The marker can be used like
-
-```markdown
-> ##### TIP
+> #### Neučte se matematiku bez souvislostí 
 >
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
+>[V. I. Arnold v zamyšlení O výuce matematiky](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
+>
+  * Matematika je součástí fyziky. Fyzika je experimentální věda, část přírodních věd. Matematika je součást fyziky s levnými experimenty.
+  * V polovině 20. století proběhl pokus oddělit matematiku a fyziku. Následky se ukázaly jako katastrofické. Celé generace matematiků vyrostly bez ovládnutí poloviny své vědy a s úplnou  ignorací věd ostatních. Začaly studenty učit svoji strašnou scholastickou pseudomatematiku...
+  * Složité modely jsou málokdy užitečné (kromě psaní vlastní disertace).
+  * Učitel matematiky, který se neseznámil alespoň s některými částmi kurzu od Landaua a Lifšice (slavný kurz teoretické fyziky, pozn. překl.), se stane reliktem stejně jako ten, kdo nezná rozdíl mezi otevřenou a uzavřenou množinou.
 {: .block-tip }
-```
 
-Rendered page can be previewed from
 
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html)
-
-## Cover image inside pages
-
-The jekyll-gitbook theme supports adding a cover image to a specific page by adding
-a `cover` field to the page metadata:
-
-```diff
-  ---
-  title: Page with cover image
-  author: Tao He
-  date: 2022-05-24
-  category: Jekyll
-  layout: post
-+ cover: /assets/jekyll-gitbook/dinosaur.gif
-  ---
-```
-
-The effect can be previewed from
-
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
-
-## License
-
-This work is open sourced under the Apache License, Version 2.0.
-
-Copyright 2019 Tao He.
-
-[1]: https://pages.github.com
-[2]: https://pages.github.com/themes
-[3]: https://github.com/sighingnow/jekyll-gitbook/fork
-[4]: https://github.com/allejo/jekyll-toc
-[5]: https://github.com/gitbook-plugins/gitbook-plugin-search-pro
-[6]: https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes
-[7]: https://analytics.google.com/analytics/web/
-[8]: https://www.cnzz.com/
-[9]: https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
-[10]: https://github.com/sighingnow/jekyll-gitbook/blob/master/gitbook/custom.css
-[11]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
-[12]: https://rubygems.org/gems/jekyll-remote-theme
-[13]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-[14]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
