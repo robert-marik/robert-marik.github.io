@@ -1,7 +1,7 @@
             "sharing": {
                 "facebook": false,
                 "google": false,
-                "github": true,
+                "github": false,
                 "github_link": "https://github.com/robert-marik/",
                 "telegram": false,
                 "telegram_link": "https://t.me",
