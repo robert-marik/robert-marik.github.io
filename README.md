@@ -19,6 +19,11 @@ Takový výpočet nosníku, ze kterého má strojař nebo stavař radost a je pr
 * [Dynamické modely populací](/pages/dmp). Poprvé se učí od jara 2023. 
 * [Věda, výzkum](/pages/research). Publikace, konference, vědecké počiny.
 
+## Starý web
+
+Starý málo spolehlivý web, který se sem později přesune, je stále k dispozici na <https://user.mendelu.cz/marik>
+
+
 ## Zamyšlení
 
 > #### Neučte se matematiku bez souvislostí 
