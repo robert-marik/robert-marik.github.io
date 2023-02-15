@@ -1,7 +1,11 @@
-  ol li img {float:right;}
-  ol li {clear:both;}
+---
+---
 
-/*  https://www.456bereastreet.com/archive/201105/styling_ordered_list_numbers/ */
+h1, h2 {color: gray}
+
+ol li img {float:right;}
+ol li {clear:both;}
+
 ol {
     counter-reset:li -1; /* Initiate a counter */
     margin-left:0; /* Remove the default left margin */
@@ -37,6 +41,7 @@ ol > li:before {
     font-family:"Helvetica Neue", Arial, sans-serif;
     text-align:center;
 }
+
 li ol,
 li ul {margin-top:6px;}
 ol ol li:last-child {margin-bottom:0;}
