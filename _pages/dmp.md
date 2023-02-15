@@ -74,32 +74,29 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
 
 <!-- -->
 
--   1\. týden semestru (týden od 13.2.2023)
-    -   Cvičení: [Úvod do
+* 1\. týden semestru (týden od 13.2.2023)
+  * Cvičení: [Úvod do
         předmětu](https://robert-marik.github.io/dmp/intro.html) a
         [první kroky v
         Pythonu](https://robert-marik.github.io/dmp/Prvni_kroky.html)
-    -   Přednáška: [Funkce a vlastnosti
+  * Přednáška: [Funkce a vlastnosti
         funkcí](https://robert-marik.github.io/dmp/prednaska/01.html)
--   2\. týden semestru (týden od 20.2.2023)
-    -   Cvičení: [Úvod do jazyka
-        Python](https://robert-marik.github.io/dmp/Prvni_kroky.html)
-    -   Přednáška: [Derivace a
-        integrál](https://robert-marik.github.io/dmp/prednaska/02.html)
--   3\. týden semestru (týden od 27.2.2023)
--   4\. týden semestru (týden od 6.3.2023)
--   5\. týden semestru (týden od 13.3.2023)
--   6\. týden semestru (týden od 20.3.2023)
--   7\. týden semestru (týden od 27.3.2023)
--   8\. týden semestru (týden od 3.4.2023)
--   9\. týden semestru (týden od 10.4.2023)
--   10\. týden semestru (týden od 17.4.2023)
--   11\. týden semestru (týden od 24.4.2023)
--   12\. týden semestru (týden od 1.5.2023) Výuka se nekoná, hlavní
-    cvičení.
--   13\. týden semestru (týden od 8.8.2023) Výuka se nekoná, hlavní
-    cvičení.
--   14\. týden semestru (týden od 15.5.2023)
+  * [Video ke cvičení](https://youtu.be/9TORLQb0m-E)
+* 2\. týden semestru (týden od 20.2.2023)
+  * Cvičení: [Úvod do jazyka Python](https://robert-marik.github.io/dmp/Prvni_kroky.html)
+  * Přednáška: [Derivace a integrál](https://robert-marik.github.io/dmp/prednaska/02.html)
+* 3\. týden semestru (týden od 27.2.2023)
+* 4\. týden semestru (týden od 6.3.2023)
+* 5\. týden semestru (týden od 13.3.2023)
+* 6\. týden semestru (týden od 20.3.2023)
+* 7\. týden semestru (týden od 27.3.2023)
+* 8\. týden semestru (týden od 3.4.2023)
+* 9\. týden semestru (týden od 10.4.2023)
+* 10\. týden semestru (týden od 17.4.2023)
+* 11\. týden semestru (týden od 24.4.2023)
+* 12\. týden semestru (týden od 1.5.2023) Výuka se nekoná, hlavní cvičení.
+* 13\. týden semestru (týden od 8.8.2023) Výuka se nekoná, hlavní cvičení.
+* 14\. týden semestru (týden od 15.5.2023)
 
 ## Kombinovaná forma, harmonogram semestru
 
