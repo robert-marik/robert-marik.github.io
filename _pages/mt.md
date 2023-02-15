@@ -70,9 +70,7 @@ příručka ke zkoušce.
 > #### Výuka konzultační formou, LS 2022/2023 
 >
 > Materiály jsou ze zimního semestru. Proto jsou organizovány stejně, jako
-> byly nachystány na výuku - tj. cvičení zaostává týden za přednáškou. K
-> úlohám za cvičení jsou přidány úlohy z přednášky tak, aby to k sobě
-> tematicky pasovalo. Proto se domácí úloha zpravidla vztahuje k přednášce
+> byly nachystány na výuku - tj. cvičení zaostává týden za přednáškou. Proto se domácí úloha zpravidla vztahuje k přednášce
 > z minulého týdne a cvičení z aktuálního týdne. Ale není to pravidlem, je
 > to prostě uděláno stejně, jako to probíhalo minulý semestr.
 {: .block-tip }
@@ -283,34 +281,29 @@ vyd. Praha: Grada Publishing, a.s., 2014. 304 s. ISBN 978-80-247-5322-5.
 * Skripta Rádl, P., Černá, B., Stará, L, Základy vyšší matematiky, 3.
 vyd. Brno: Mendelova univerzita v Brně, 2014. 176 s. ISBN
 978-80-7509-110-9. 
-* [Vzorce a triky pro derivace a
-integrály](/marik/mt/vzorce.pdf) 
-* [Playlist s domácími úkoly z roku
-2020](<https://www.youtube.com/playlist?list=PLTcG-zIT2ivXZpHu2yL2oqsdKRCF87QjL>),
+* [Vzorce a triky pro derivace a integrály](https://user.mendelu.cz/marik/mt/vzorce.pdf) 
+* [Playlist s domácími úkoly z roku 2020](<https://www.youtube.com/playlist?list=PLTcG-zIT2ivXZpHu2yL2oqsdKRCF87QjL>),
 kdy byly úlohy ve WeBWorKu velice podobné tomu, co je zadáváno letos. 
 
 
 ## Ukončení
 
--   Během semestru budou zadávány domácí úlohy v systému
+* Během semestru budou zadávány domácí úlohy v systému
     [WeBWorK](http://um.mendelu.cz/webwork2/MTK_2023_LS). Nejsou povinné,
     ale mohou značně pomoci u zkoušky.
--   Zápočty se neudělují, vše se rozhoduje u zkoušky. Přihlašování na
+* Zápočty se neudělují, vše se rozhoduje u zkoušky. Přihlašování na
     zkoušky přes univerzitní informační systém. Počet pokusů dle
     [studijního a zkušebního
     řádu](https://is.mendelu.cz/dok_server/slozka.pl?download=265502)
     (jeden řádný a dva opravné pokusy). Termíny budou oznámeny podle
     studijního a zkušebního řádu nejpozději dva týdny před začátkem
     zkouškového.
--   **Závěrečná písemná zkouška na 50 bodů.** Je možné používat
+* **Závěrečná písemná zkouška na 50 bodů.** Je možné používat
     literaturu, není možné používat přístup na Internet ani elektronické
     nosiče informací. Musí být splněny současně dvě následující
-    podmínky.
-
-
-
-* Písemku je nutno napsat alespoň na 15 bodů.
-* Součet bodů za písemku a bonusových bodů za domácí úkoly musí být alespoň 25  bodů.
+     podmínky.
+   * Písemku je nutno napsat alespoň na 15 bodů.
+   * Součet bodů za písemku a bonusových bodů za domácí úkoly musí být alespoň 25  bodů.
 * **Bonus za domácí úkoly je nevýše 20 bodů.** Součet za všechny úlohy je 160 bodů, body vidíte ve [WeBWorKu](https://um.mendelu.cz/webwork2/MTK_2023_LS/grades/) v levém panelu pod položkou Hodnocení ve sloupci "Celkem". (Sloupce s procenty a celkovým maximem budou sedět až budou otevřeny všechny úlohy.) Bonusy jsou přidělovány následovně:
     * 20 bonusových bodů za hodnocení alespoň 90% bodů z domácích úloh, tj. alespoň 144 bodů,
     * 15 bonusových bodů za alespoň 70% bodů z domácích úloh, tj. alespoň 112 bodů,
@@ -318,21 +311,21 @@ kdy byly úlohy ve WeBWorKu velice podobné tomu, co je zadáváno letos.
     * 6 bonusových bodů za alespoň 50% bodů z domácích úloh, tj. alespoň 80 bodů.
     * 4 bonusové body za alespoň 33% bodů z domácích úloh, tj. alespoň 53 bodů.
 * Antiplagiátorská a antighostwritingová ochrana: podle možností, epidemiologické situace a dalších okolností bude vybrané části zkoušky v některých případech nutno obhájit krátkým rozhovorem (ústní zkoušení). Teprve tímto bude potvrzena známka podle následujícího klíče.
-         * **Hodnocení A (56-70 bodů),**
-         * **Hodnocení B (48-55 bodů),**
-         * **Hodnocení C (41-47 bodů),**
-         * **Hodnocení D (33-40 bodů),**
-         * **Hodnocení E (25-32 bodů),**
-         * **Hodnocení F - nevyhověl/a.**
+    * **Hodnocení A (56-70 bodů),**
+    * **Hodnocení B (48-55 bodů),**
+    * **Hodnocení C (41-47 bodů),**
+    * **Hodnocení D (33-40 bodů),**
+    * **Hodnocení E (25-32 bodů),**
+    * **Hodnocení F - nevyhověl/a.**
 * Příklady a ukázky hodnocení	   
-         * Pokud student neplnil domácí úlohy, počítají se jenom body z písemky. Například zisk 40 bodů na písemku znamená hodnocení D.
-         * Pokud student má za domácí úlohy 10 bonusových bodů a za písemku 15 bodů, je celkové hodnocení E (25 bodů celkem).
-         * Pokud student má za domácí úlohy 20 bonusových bodů a za písemku 10 bodů, je celkové hodnocení F (není dosažena minimální hranice písemky)
-         * Pokud má student za domácí úlohy 20 bonusových bodů, stačí mu písemku napsat na minimum 15 bodů. Známka bude přinejhorším D. Méně než 15 bodů znamená F.
+    * Pokud student neplnil domácí úlohy, počítají se jenom body z písemky. Například zisk 40 bodů na písemku znamená hodnocení D.
+    * Pokud student má za domácí úlohy 10 bonusových bodů a za písemku 15 bodů, je celkové hodnocení E (25 bodů celkem).
+    * Pokud student má za domácí úlohy 20 bonusových bodů a za písemku 10 bodů, je celkové hodnocení F (není dosažena minimální hranice písemky)
+    * Pokud má student za domácí úlohy 20 bonusových bodů, stačí mu písemku napsat na minimum 15 bodů. Známka bude přinejhorším D. Méně než 15 bodů znamená F.
 * Materiály ke zkoušce
-         * Zde na webu, doporučená literatura zde na webu a v sylabu
-         * Přímý odkaz na přednášky v [PDF](http://user.mendelu.cz/marik/mtk/mat-slidy/mat_slidy_all.pdf)
-         * Přímý odkaz na cvičení v [PDF](https://user.mendelu.cz/marik/mtk/mat-slidy/cviceni.pdf)
+    * Zde na webu, doporučená literatura zde na webu a v sylabu
+    * Přímý odkaz na přednášky v [PDF](http://user.mendelu.cz/marik/mtk/mat-slidy/mat_slidy_all.pdf)
+    * Přímý odkaz na cvičení v [PDF](https://user.mendelu.cz/marik/mtk/mat-slidy/cviceni.pdf)
 
 ## Obsah zkoušky
 
