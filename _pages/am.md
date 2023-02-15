@@ -430,5 +430,5 @@ Následující nástroje mohou být vaši pomocníci
     studia. Měli byste znát derivace, integrály a operace s maticemi
     (definice a využití). Měli byste umět derivovat a integrovat
     polynomy, počítat determinanty třetího řádu. Tyto znalosti je možné
-    načerpat nebo si zopakovat [zde](https:/user.mendelu.cz/marik/mt).
+    načerpat nebo si zopakovat [zde](https://robert-marik.github.io/pages/mt/).
 
