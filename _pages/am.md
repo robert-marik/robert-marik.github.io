@@ -427,4 +427,3 @@ Následující nástroje mohou být vaši pomocníci
     polynomy, počítat determinanty třetího řádu. Tyto znalosti je možné
     načerpat nebo si zopakovat [zde](https:/user.mendelu.cz/marik/mt).
 
-
