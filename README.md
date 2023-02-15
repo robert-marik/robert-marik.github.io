@@ -16,7 +16,7 @@ Takový výpočet nosníku, ze kterého má strojař nebo stavař radost a je pr
 
 * [Matematika](/pages/mt) pro první ročníky bakalářského studia. Základy vysokoškolské matematiky.
 * [Aplikovaná matematika](/pages/am) a Inženýrská matematika pro první ročníky magisterského studia. Navazuje na předchozí matematiku.
-* [Dynamické modely populací](https://robert-marik.github.io/dmp). Poprvé se bude učí od jara 2023. 
+* [Dynamické modely populací](/pages/dmp). Poprvé se učí od jara 2023. 
 * [Věda, výzkum](/pages/research). Publikace, konference, vědecké počiny.
 
 ## Zamyšlení

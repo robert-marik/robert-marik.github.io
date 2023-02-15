@@ -3,7 +3,7 @@ title: Aplikovaná matematika
 author: Robert Mařík
 date: 2023-02-05
 category: Jekyll
-layout: predmet
+layout: post
 ---
 
 
@@ -111,6 +111,11 @@ Týden 11, prednaska + cviceni 11: v priprave
 
 Data v harmonogramu odpovídají úterní přednášce. Cvičení je o den
 později ve středu.
+
+
+{::options parse_block_html="true" /}
+
+<div class="predmet">
 
 1. ![00.jpg](/images/am/00.jpg) *Základy matematické gramotnosti. Práce
 se systémem WeBWorK.* Vyzkoušejte si systém pro domácí úlohy.
@@ -245,7 +250,7 @@ diferenciálních rovnic, například při studiu rovnice vedení tepla.*
 Diskretizace a nondimenzionalizace diferenicálních rovnic. 
 1. 16.5.2023 Bude doplněno. Závěrečné shrnutí.
 
-
+</div>
 
 <!--
 

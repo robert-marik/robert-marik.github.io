@@ -3,7 +3,7 @@ title: Matematika
 author: Robert Mařík
 date: 2023-02-01
 category: Jekyll
-layout: predmet
+layout: post
 ---
 
 

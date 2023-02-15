@@ -280,15 +280,15 @@
 
 h1, h2 {color: gray}
 
-ol li img {float:right;}
-ol li {clear:both;}
+.predmet ol li img {float:right;}
+.predmet ol li {clear:both;}
 
-ol {
+.predmet ol {
     counter-reset:li -1; /* Initiate a counter */
     margin-left:0; /* Remove the default left margin */
     padding-left:0; /* Remove the default left padding */
 }
-ol > li {
+.predmet ol > li {
     position:relative; /* Create a positioning context */
     margin:0 0 6px 2em; /* Give each list item a left margin to make room for the numbers */
     padding:4px 8px; /* Add some spacing around the content */
@@ -296,7 +296,7 @@ ol > li {
     border-top:2px solid #666;
     background:#f6f6f6;
 }
-ol > li:before {
+.predmet ol > li:before {
     content:counter(li); /* Use the counter as content */
     counter-increment:li; /* Increment the counter by 1 */
     /* Position and style the number */
@@ -319,7 +319,15 @@ ol > li:before {
     text-align:center;
 }
 
-li ol,
-li ul {margin-top:6px;}
-ol ol li:last-child {margin-bottom:0;}
+.predmet li ol, .predmet li ul {margin-top:6px;}
+.predmet ol ol li:last-child {margin-bottom:0;}
 	
+
+@media (max-width: 600px)
+{
+.book-summary {
+  width: 300px;
+  bottom: 0;
+  left: -300px;
+}
+}
