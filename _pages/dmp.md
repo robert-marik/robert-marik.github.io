@@ -83,7 +83,7 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
         funkcí](https://robert-marik.github.io/dmp/prednaska/01.html)
   * [Video ke cvičení](https://youtu.be/9TORLQb0m-E)
 * 2\. týden semestru (týden od 20.2.2023)
-  * Cvičení: [Úvod do jazyka Python](https://robert-marik.github.io/dmp/Prvni_kroky.html)
+  * Cvičení: [Úvod do jazyka Python](https://robert-marik.github.io/dmp/cviceni/cviceni_01.html)
   * Přednáška: [Derivace a integrál](https://robert-marik.github.io/dmp/prednaska/02.html)
 * 3\. týden semestru (týden od 27.2.2023)
 * 4\. týden semestru (týden od 6.3.2023)
