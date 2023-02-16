@@ -331,3 +331,8 @@ h1, h2 {color: gray}
   left: -300px;
 }
 }
+
+
+.highlight, .highlight .w {
+    color: #333;
+}
