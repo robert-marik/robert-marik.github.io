@@ -3,6 +3,7 @@ title: Které online kurzy?
 author: Robert Mařík
 date: 2023-02-15
 layout: post
+permalink: vyuka_online
 ---
 
 

@@ -3,6 +3,7 @@ title: Mám se učit podle Wikipedie?
 author: Robert Mařík
 date: 2020-02-15
 layout: post
+permalink: wiki
 ---
 
 #### Nepochopitelnost matematických článků?
