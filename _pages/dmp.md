@@ -47,12 +47,12 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
     studovali na přednášce. Modifikace by měla být netriviální, ale není
     nutné se pouštět do komplikovaných věcí. V případě potřeby můžete se
     mnou nejprve nápad prodebatovat. Pokud se Vám nebude dařit vhodný
-    model ke studu najít, kontaktujte mne a já vám něco doporučím.
+    model ke studiu najít, kontaktujte mne a já vám něco doporučím.
 -   **Ukázka seminární práce** je na JupterHub serveru ve sdíleném
     adresáři `my_shared_folder` pod názvem
     `seminarni_prace_marik.ipynb`. Je nasdílena i [zde](https://gist.github.com/robert-marik/5f16044072d78c730ee13d58bcd24ff9). Na konci obsahuje vhodné nápady pro téma seminární práce. 
 -   Kdo si není jistý formou nebo rozsahem seminární práce, může ji
-    nejprve probrat a vyučujícím.
+    nejprve probrat s vyučujícím.
 -   Dokument musí být uložen ve Vašem hlavním adresáři na serveru
     jupyter.mendelu.cz. Název dokumentu bude
     `seminarni_prace_login.ipynb` kde místo `login` bude Váš login,
@@ -141,3 +141,11 @@ online.
 Přístup k literatuře může být omezen a literatura nemusí být přístupná
 ze sítě mimo MENDELU. V takovém případě použijte
 [proxy](http://proxy.mendelu.cz).
+
+## Další zdroje informací
+
+Matematiky moc používat nebudeme, naprostá většina věcí okolo modelů je krásně vysvětlena v publikaci prof. Tkadlece, úzkým hrdlem budou proto asi IT skills.
+
+* Nejlepší tutoriál Pythonu na světě je <https://www.w3schools.com/python/>. Obsahuje i matplotlib, NumPy, Pandas. 
+* Pro LaTeX stačí umět psát základní matematické výrazy. Pomůže například [nápověda pro Wikpedii](https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Matematick%C3%A9_vzorce), která používá stejný mechanismus. Případně [tento přehled](https://user.mendelu.cz/marik/am/slidy/latex/).
+* Nejlepší servery, kam se chodí pro rady ohledně rozbitého a nefungujícího kódu a pro rady jak něco udělat v Pythonu nebo LaTeXu, jsou <https://stackoverflow.com/questions/tagged/python> a <https://stackexchange.com>. Můžete například kopírovat chybové hlášky do Google vyhledávače a preferovat odkazy směřující na tyto servery.
