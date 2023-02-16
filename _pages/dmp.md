@@ -50,8 +50,9 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
     model ke studu najít, kontaktujte mne a já vám něco doporučím.
 -   **Ukázka seminární práce** je na JupterHub serveru ve sdíleném
     adresáři `my_shared_folder` pod názvem
-    `seminarni_prace_marik.ipynb`. Na konci obsahuje vhodné nápady pro
-    téma semináríní práce.
+    `seminarni_prace_marik.ipynb`. Je nasdílena i [zde](https://gist.github.com/robert-marik/5f16044072d78c730ee13d58bcd24ff9). Na konci obsahuje vhodné nápady pro téma seminární práce. 
+-   Kdo si není jistý formou nebo rozsahem seminární práce, může ji
+    nejprve probrat a vyučujícím.
 -   Dokument musí být uložen ve Vašem hlavním adresáři na serveru
     jupyter.mendelu.cz. Název dokumentu bude
     `seminarni_prace_login.ipynb` kde místo `login` bude Váš login,
@@ -85,6 +86,7 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
 * 2\. týden semestru (týden od 20.2.2023)
   * Cvičení: [Úvod do jazyka Python](https://robert-marik.github.io/dmp/cviceni/cviceni_01.html)
   * Přednáška: [Derivace a integrál](https://robert-marik.github.io/dmp/prednaska/02.html)
+  * [Video o práci se soubory](https://youtu.be/-Uq0pUT-n1U)
 * 3\. týden semestru (týden od 27.2.2023)
 * 4\. týden semestru (týden od 6.3.2023)
 * 5\. týden semestru (týden od 13.3.2023)
@@ -95,7 +97,7 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
 * 10\. týden semestru (týden od 17.4.2023)
 * 11\. týden semestru (týden od 24.4.2023)
 * 12\. týden semestru (týden od 1.5.2023) Výuka se nekoná, hlavní cvičení.
-* 13\. týden semestru (týden od 8.8.2023) Výuka se nekoná, hlavní cvičení.
+* 13\. týden semestru (týden od 8.5.2023) Výuka se nekoná, hlavní cvičení.
 * 14\. týden semestru (týden od 15.5.2023)
 
 ## Kombinovaná forma, harmonogram semestru
