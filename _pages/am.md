@@ -46,6 +46,12 @@ kurzů, které jsou nejčastější a je k nim nejvíce literatury. Jinak
 ale jak tuto derivaci můžeme použít k popisu dějů a jevů ve dřevě, v
 materiálech obecně, nebo v přírodě okolo nás.
 
+## Aktuality
+
+>* 17.2.2023: Termíny odevzdání úloh na parciální derivace a na gradient posunuty po konzultaci se cvičící o týden. (Čas na vypracování se nikdy nebude zkracovat, ale v některých případech může být prodloužen, tak jako teď. Informace bude vždy zde v aktualitách.)
+{: .block-danger }
+
+
 ## Rozcestník elektronických informačních zdrojů
 
 Následující nástroje jsou kriticky důležité pro studium.
