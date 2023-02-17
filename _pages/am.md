@@ -150,9 +150,7 @@ jsou v podélném směru.*
      * [Přednáška](https://robert-marik.github.io/am/02)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni02.md.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/02_Gradient)
-1. 28.2.2023 Koná se jenom cvičení ve středu. Typografické konvence v
-matematice a v textech obsahujících matematiku. (V úterý je hlavní
-cvičení na oboru TMZD.) 
+1. 28.2.2023 Koná se jenom cvičení ve středu. V první části dokončení cvičení na gradient. V druhé části typografické konvence v matematice a v textech obsahujících matematiku. (V úterý je hlavní cvičení na oboru TMZD.) 
 1. 7.3.2023 ![03.jpg](/images/am/03.jpg) *Podrobněji se podíváme
 na proudění a sestavíme matematický model tak obecného proudění, že jím
 pokryjeme přenos látky i přenos energie. Jako aplikaci ukážeme
