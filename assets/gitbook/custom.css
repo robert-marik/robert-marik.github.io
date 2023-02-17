@@ -328,11 +328,21 @@ h1, h2 {color: gray}
 .book-summary {
   width: 300px;
   bottom: 0;
-  left: -300px;
+  left: -300px ;
 }
+
+.book.with-summary .book-body {
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+}
+
 }
 
 
 .highlight, .highlight .w {
     color: #333;
 }
+

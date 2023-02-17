@@ -4,6 +4,16 @@ title: Webová stránka Roberta Maříka
 permalink: /
 ---
 
+
+{::options parse_block_html="true" /}
+
+<div style="max-width: 50%; float:right; padding-left:20px; padding-down:10px;">
+<img src="/images/deer.jpg" >
+<p style="font-size:75%; font-style:italic;">
+	Příroda je krásná. A matematika pomůže tyto krásy vyjevit nebo lépe pochopit. Foto: Pvp4789, <https://commons.wikimedia.org/wiki/File:Spotted_deer_and_sambar_deer.jpg>
+</p>
+</div>
+
 Učím matematiku na LDF MENDELU v Brně. Myslím si, že matematika pomáhá studentům lépe proniknout do oblasti jejich odborných zájmů, ať se jedná o dřevařství, krajinářství, arboristiku či cokoliv jiného. Jsem hrdý na to, že můžu studentům, budoucím odborníkům na dřevo, na stromy či na krajinu, pomoct získat aspoň základní přehled, jaké nástroje se dají využít k tomu, abychom složitému světu okolo sebe rozuměli co nejlépe.
 
 Pokud studujete na LDF asi se zajímáte o ty nejhezčí objekty: stromy, dřevo, lesy, krajinu. To jsou i objekty nejhůře uchopitelné kvantitativními metodami. Vskutku, dřevo je silně anizotropní a nelineární materiál a do stromu nebo pod zem nevidíme. Proto jsou matematické metody v těchto oborech opravdovou výzvou, proto jsou úlohy mnohem těžší než běžné fyzikální úlohy a proto bychom se měli soustředit zejména na teorii a souvislosti než na konkrétní příklady.
