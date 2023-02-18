@@ -60,3 +60,5 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+future: true
