@@ -13,10 +13,14 @@
         {% if page.next %}
             <link rel="next" href="{{site.baseurl}}{{page.next.url}}" />
         {% endif %}
+        {% if page.lightbox %}
+            <link rel="stylesheet" href="/assets/lightbox/css/lightbox.min.css">
+        {% endif %}
     </head>
     <body>
         <div class="book">
 
+	  
             {%- include toc-date.html -%}
 
             <div class="book-body">
@@ -48,5 +52,9 @@
 
         {%- include footer.html -%}
 
+        {% if page.lightbox %}
+            <script src="/assets/lightbox/js/lightbox-plus-jquery.min.js"></script>
+        {% endif %}
+	
     </body>
 </html>
