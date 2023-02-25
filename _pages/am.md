@@ -71,10 +71,8 @@ nemalý vliv na závěrečné hodnocení (viz podmínky ukončení).
 > Materiály jsou k dispozici z minulých semestrů a mohou být a budou mírně
 > upravovány, aby reflektovaly aktuální situaci
 >
-> * [Materiály k přednáškám](https://robert-marik.github.io/am) jsou k dispozici jako texty
+> * [Materiály k přednáškám a cvičením](https://robert-marik.github.io/am) jsou k dispozici jako texty
 > s vloženými odkazy na Youtube mikropřednášky.
-> * [Materiály pro cvičení](https://robert-marik.github.io/am/cviceni/cviceni00.md.html) jsou k dispozici v podobné formě jako pro
-> přednášky.
 > * [Cheatsheet](https://raw.githubusercontent.com/robert-marik/apl-slidy/master/cheatsheet/cheatsheet-AM.pdf) pro Aplikovanou matematiku. Vzorce, důležitá fakta.
 > * Cheatsheet pro [věci související s IT](https://raw.githubusercontent.com/robert-marik/hw-webwork/master/cheatsheet/cheatsheet.pdf): WeBWorK a LaTeX. Základní příkazy.
 {: .block-warning }
