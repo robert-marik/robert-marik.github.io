@@ -64,7 +64,7 @@ k ukončení předmětu.
 * [Přednášky.](https://robert-marik.github.io/matematika/intro/) Materiály, které se budou používat na přednášce, ale
 jsou vhodné v případě nemoci i pro samostudium a jako referenční
 příručka ke zkoušce. 
-* [Cvičení.](https://robert-marik.github.io/matematika/cviceni/cviceni00.md.html)  Materiály pro cvičení. V podobném formátu jako přednášky.
+* [Cvičení.](https://robert-marik.github.io/matematika/cviceni/cviceni00.html)  Materiály pro cvičení. V podobném formátu jako přednášky.
 * [Cheatsheet](https://raw.githubusercontent.com/robert-marik/mat-slidy/master/cheatsheet/cheatsheet-MT.pdf) pro Matematiku. Vzorce, důležitá fakta.
 
 > #### Výuka konzultační formou, LS 2022/2023 
@@ -100,7 +100,7 @@ mezi rychlostmi změn těchto veličin. Jedna z aplikací je měření odporu
 dřeva pro stanovení vlhkosti.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/derivace_I)
-     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni01.md.html)
+     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni01.html)
      * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/01_Vypocet_derivace/)
 
 1. 27.2.2023
@@ -113,7 +113,7 @@ nelineární, jako je například laser. Ale rozebereme si i řešitelnost
 rovnic a možnosti jejich numerického řešení.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/derivace_II)
-     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni02.md.html)
+     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni02.html)
      * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/02_Aplikace_derivace/)
 
 1. 6.3.2023
@@ -129,7 +129,7 @@ transport látek. A poprvé se seznámíme s bezrozměrnými veličinami, které
 přijdou ke slovu i později.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/derivace_III)
-     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni03.md.html)
+     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni03.html)
      * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/03_Dalsi_aplikace_derivace/)
 
 1. 13.3.2023
@@ -140,7 +140,7 @@ umožní najít tuto veličinu. Naučíme se například najít změnu teploty u
 procesu, u kterého intenzita tepelné výměny klesá s časem.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/integraly)
-     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni04.md.html)
+     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni04.html)
      * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/04_Integraly_1/)
 
 1. 20.3.2023
@@ -149,7 +149,7 @@ procesu, u kterého intenzita tepelné výměny klesá s časem.*
 integrál a dokonce otevřeme vrátka mimo svět elementárních funkcí.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/integraly2)
-     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni05.md.html)
+     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni05.html)
      * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/05_Integraly_2/)
 
 1. 27.3.2023
@@ -165,7 +165,7 @@ prohloubíme, utřídíme. Poznáme problematiku existence a jednoznačnosti
 přírodní proces díky zavedení bezrozměrných veličin.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/ode)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni06.md.html)
+      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni06.html)
       * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/06_Diferencialni_rovnice/)
 
 1. 3.4.2023
@@ -178,7 +178,7 @@ jevu. Také matice poznáme jako nástroj na studium deformací materiálu.
 Podíváme se i na vedení tepla, zatím bez rovnice vedení tepla.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/matice)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni07.md.html)
+      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni07.html)
       * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/07_Matice/)
 
 1. 10.4.2023
@@ -194,7 +194,7 @@ style="color:red"\>Domácí úkol se vztahuje i k látce z následujícího
 týdne.\</span\>*
 
       * [Přednáška](https://robert-marik.github.io/matematika/inverzni_matice)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni08.md.html)
+      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni08.html)
       * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/08_Matice_a_vlastni_vektory/)
 
 1. 17.4.2023
@@ -208,7 +208,7 @@ Proto soustavy patří k malé násobilce inženýra a v této přednášce se j
 mimo jiné naučíme řešit numericky.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/soustavy)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni09.md.html)
+      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni09.html)
 
 1. 24.4.2023
 ![10.jpg](/images/mtk/10.jpg)
@@ -221,13 +221,13 @@ aparát pro popis sušení dřeva, vedení tepla, proudění vody v korytě a
 proudění podzemní vody.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/vektorove_pole)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni11.md.html)
+      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni11.html)
       * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/09_Difuzni_rovnice/)
 
 1. 1.5.2023
 ![11.jpg](/images/mtk/11.jpg) *Integrály je někdy nutné uvažovat i ve více proměnných. Třeba pokud veličina, kterou studujeme, není rozložena v jedné dimenzi podél přímky, ale v rovině. Technické aplikace jsou například při studiu odolnosti nosníků vůči deformaci (kvadratický moment průřezu). Geometrické aplikace jsou například při výpočtech objemů těles nepravidelného tvaru, jako jezero se známým profilem dna. <span style="color:red">Domácí úloha je už jenom opakování.</span>* 
       * [Přednáška](https://robert-marik.github.io/matematika/dvojny_integral)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni12.md.html)
+      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni12.html)
       * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/10_Shrnuti/)
 
 1. 8.5.2023
