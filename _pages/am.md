@@ -135,7 +135,7 @@ ke kvantitativnímu popisu přírodních dějů. Jako aplikaci parciálních
 derivací odvodíme rovnici vedení tepla v jedné dimenzi. Tu je možno
 použít například při modelování prostupu tepla stěnou nebo oknem.*
      * [Přednáška](https://robert-marik.github.io/am/01)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni01.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni01.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/01_Parcialni_derivace)
 1. 21.2.2023 ![02.jpg](/images/am/02.jpg) *Gradient
 je diferenciální operátor sestavený z parciálních derivací tak, aby
@@ -148,7 +148,7 @@ preferovaných směrů. Jsou to jakési dálnice, které strhávají například
 proudění hmoty nebo tepla. Ve dřevu jsou tyto dálnice poměrně výrazné a
 jsou v podélném směru.*
      * [Přednáška](https://robert-marik.github.io/am/02)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni02.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni02.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/02_Gradient)
 1. 28.2.2023 Koná se jenom cvičení ve středu. V první části dokončení cvičení na gradient. V druhé části typografické konvence v matematice a v textech obsahujících matematiku. (V úterý je hlavní cvičení na oboru TMZD.) 
 1. 7.3.2023 ![03.jpg](/images/am/03.jpg) *Podrobněji se podíváme
@@ -159,7 +159,7 @@ speciální případy vedení tepla, proudění mělké nebo podzemní vody,
 difuzi nebo sušení dřeva. Častým praktickým úkolem je modelování
 fyzikálních polí (teploty a vlhkosti) v okolí okna.*
      * [Přednáška](https://robert-marik.github.io/am/03)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni03.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni03.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/03_Divergence)
 1. 14.3.2023 ![04.jpg](/images/am/04.jpg) *Seznámíme
 se s dalším vektorovým operátorem. Ten nám umožní rozhodnout, zda je
@@ -172,7 +172,7 @@ Takové je třeba rychlostní pole v řece. Praktické využití znají
 například vodáci, kteří najíždí do proudu napříč a proud je sám stočí
 obloučkem do svého směru.*
      * [Přednáška](https://robert-marik.github.io/am/04)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni04.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni04.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/04_Rotace)
 1. 21.3.2023 ![05.jpg](/images/am/05.jpg) *Rozšíříme
 si výpočet integrálu o možnost integrovat podle libovolné křivky. Tím je
@@ -185,13 +185,13 @@ bude i souvislost s operátorem rotace, představeným na předchozí
 přednášce. Na takovou souvislost si ovšem budeme muset ještě nějaký ten
 týden počkat.*
      * [Přednáška](https://robert-marik.github.io/am/05)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni05.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni05.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/05_Krivkovy_integral)
 1. 28.3.2023 ![06.jpg](/images/am/06.jpg) *Pokračujeme v rozšiřování integračních možností a naučíme se integrovat přes dvourozměrné množiny. Aplikací je například výpočet charakteristik důležitých pro posouzení odolnosti nosníku vůči
 deformaci. Jinou aplikací výpočet tlaku na plochu ponořenou napříč
 různými hloubkami.*
      * [Přednáška](/images/am/06)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni06.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni06.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/06_Dvojny_integral)
 1. 4.4.2021 ![07.jpg](/images/am/07.jpg) *Poznáme
 obecné věty, které dávají fyzikální význam operátorům rotace a
@@ -201,7 +201,7 @@ možno zavést skalární potenciál a jak. Vedlejším produktem je vysvětlen�
 funkce planimetru nebo výpočet křivkového integrálu druhého druhu pomocí
 kmenové funkce.*
      * [Přednáška](https://robert-marik.github.io/am/07)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni07.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni07.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/07_Integraly_souhrn)
 1. 11.4.2021 ![08.jpg](/images/am/08.jpg) *Seznámíme
 se s přirozeným nástrojem pro formulaci fyzikálních zákonů a přírodních
@@ -216,7 +216,7 @@ tepelná výměna. Další aplikace jsou v modelování populací živočišnýc
 rostlinných druhů v různých podmínkách.* Obrázek z <https://www.hauff-technik.de/en/company/industry-news/radon-safe-construction>
 .
      * [Přednáška](https://robert-marik.github.io/am/08)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni08.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni08.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/08_Diferencialni_rovnice)
 1. 18.4.2021 ![09.jpg](/images/am/09.jpg) *Linearita.
 Důležitá vlastnost, která usnadňuje řešení matematických modelů. Modely,
@@ -225,7 +225,7 @@ mají podobných. Naprostá většina technicky zajímavých jevů a dějů snes
 lineární aproximaci a tím pádem umožní i jednotný popis řešení tak, jak
 se s ním seznámíme na přednášce.*
      * [Přednáška](https://robert-marik.github.io/am/09)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni09.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni09.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/09_Autonomni_systemy) Domácí úkol je vztahuje i k následujícímu týdnu.
 1. 25.4.2023 ![10.jpg](/images/am/10.jpg) *Poznáme
 speciální soustavy diferenciálních rovnic, které jsou nezávislé na čase
@@ -237,7 +237,7 @@ modelujeme, mezi různými stavy. Využití je od chemických reakcí přes
 model složeného žaludku nebo šíření epidemie až k modelu odtoku srážek z
 regionu.*
      * [Přednáška](https://robert-marik.github.io/am/10)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni10.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni10.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/10_Shrnuti) Domácí úkol se nevztahuje k látce tohoto týdne, ale jedná se o shrnutí celého semestru.
 1. 2.5.2023 ![11.jpg](/images/am/11.jpg) *V této
 přednášce se seznámíme s lineárními diferenciálními rovnicemi druhého
@@ -249,7 +249,7 @@ založených na třech Newtonových pohybových zákonech. Naučíme se metody
 diferenciální rovnice druhého řádu objeví při studiu parciálních
 diferenciálních rovnic, například při studiu rovnice vedení tepla.*
      * [Přednáška](https://robert-marik.github.io/am/11)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni11.md.html)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni11.html)
 1. 9.5.2023 Bude doplněno. Základní postupy numerické matematiky.
 Diskretizace a nondimenzionalizace diferenicálních rovnic. 
 1. 16.5.2023 Bude doplněno. Závěrečné shrnutí.
