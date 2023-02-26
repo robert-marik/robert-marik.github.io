@@ -62,6 +62,7 @@ k ukončení předmětu.
 
 
 * [Přednášky a cvičení](https://robert-marik.github.io/matematika/intro/) Materiály, které se budou používat na přednášce, ale jsou vhodné v případě nemoci i pro samostudium a jako referenční příručka ke zkoušce. 
+* [Offline verze v PDF](https://user.mendelu.cz/marik/Matematika.pdf) je také k dispozici.
 * [Cheatsheet](https://raw.githubusercontent.com/robert-marik/mat-slidy/master/cheatsheet/cheatsheet-MT.pdf) pro Matematiku. Vzorce, důležitá fakta.
 
 > #### Výuka konzultační formou, LS 2022/2023 
