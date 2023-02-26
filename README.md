@@ -31,7 +31,7 @@ Takový výpočet nosníku, ze kterého má strojař nebo stavař radost a je pr
 
 ## Starý web
 
-Starý málo spolehlivý web, který se sem později přesune, je stále k dispozici na <https://user.mendelu.cz/marik>
+Starý málo spolehlivý web, který se sem později přesune, je stále k dispozici na <https://user.mendelu.cz/marik/wiki>
 
 
 ## Zamyšlení
