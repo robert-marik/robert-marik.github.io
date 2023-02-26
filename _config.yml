@@ -1,10 +1,10 @@
 # Configurations
-title:            Robert Marik Website
-longtitle:        Robert Marik Website
-author:           Robert Marik
+title:            Robert Mařík Website
+longtitle:        Robert Mařík Website
+author:           Robert Mařík
 email:            robert.marik.cz@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Webpages of a mathematician.
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -13,12 +13,12 @@ url:              'https://robert-marik.github.io'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: robert-marik
+# remote_theme: robert-marik
 
 toc:
   enabled: true
   h_min: 1
-  h_max: 3
+  h_max: 1
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path:     ./assets/gitbook/images/favicon.ico
@@ -30,7 +30,7 @@ kramdown:
   input:                  GFM
   math_engine:            mathjax
   smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..6
+  toc_levels:             1..2
   syntax_highlighter:     rouge
   syntax_highlighter_opts:
     guess_lang:           false
