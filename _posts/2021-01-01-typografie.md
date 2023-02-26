@@ -17,6 +17,8 @@ permalink: typografie
 * Matematické proměnné píšeme speciálním druhem písma, matematickou kurzívou. Značky fyzikálních veličin, jména funkcí a některé další symboly (například písmeno "d" v diferenciálech) píšeme textovým fontem.
 * Mezi číslem a jednotkou a v dalších situacích vkládáme mezery dle zvyklostí a norem a dle možností systému, ve kterém text pořizujeme. 
 
+[Video Nepište texty obsahující matematiku se školáckými typografickými chybami](https://youtu.be/yR57IHcZNyo)
+
 ## Praktické rady a ukázky
 
 ####  Věta obsahující matematický text je pořád věta
