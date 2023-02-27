@@ -94,8 +94,8 @@ jednotky.
 #### Text jako matematický objekt
 
 Pokud dáváme do matematického výrazu text, je nutné jej označit jako
-text. Například rychlost počítáme pod vztahu
-\\[\text{hustota}=\frac{\text{objem}}{\text{hmotnost}}.\\] Někdy je indexem text, například můžeme pracovat s teplotou  venku ($T_{\textit{venku}}$).
+text. Například hustotu počítáme podle vztahu
+\\[\text{hustota}=\frac{\text{objem}}{\text{hmotnost}}.\\] Někdy je indexem text, například můžeme pracovat s teplotou  venku ($T_{\text{venku}}$).
 
 ####  Vysvětlení veličin
 
