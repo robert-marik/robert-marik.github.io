@@ -12,7 +12,7 @@ layout: post
 
 Letní semestr - jaro 2022/2023
 
-## Úvodem
+### Úvodem
 
 Předmět se drží těchto zásad:
 
@@ -28,31 +28,38 @@ Předmět se drží těchto zásad:
     chce být odborníkem. Dá to například představu o limitech a
     možnostech využití výpočtů a modelů.
 
-Kurz je postaven jako navazující kurz, odpovídá obvyklému druhému kurzu
-matematiky na technických školách příbuzných LDF. Zohledňuje však
-specifika školy a požadavky na absolventy, kteří budou ze znalostí
-získaných v kurzu těžit v 21. století, ve století kdy výpočetní výkon
-letí nahoru a v mobilu má každý jedinec vyšší výpočetní výkon, než
-počítače použité k prvnímu letu na Měsíc. Tato skutečnost ovlivňuje i
-konkrétní náplň předmětu.
+Předmět je postaven jako navazující kurz, odpovídá obvyklé navazující
+matematice na technických školách příbuzných LDF. Zohledňuje však
+zaměření školy a požadavky na absolventy, kteří budou ze získaných
+znalostí těžit v 21. století, ve století kdy výpočetní výkon letí
+nahoru a v mobilu má každý jedinec vyšší výpočetní výkon, než počítače
+použité k prvnímu letu na Měsíc. Tato skutečnost ovlivňuje i konkrétní
+náplň předmětu.
 
-Do kurzu jsou zařazeny partie týkající se diferenciálního a integrálního
+Do předmětu jsou zařazeny partie týkající se diferenciálního a integrálního
 počtu funkcí více proměnných a vektorových funkcí a dále kapitoly z
 diferenciálních rovnic. Důraz je více než na počítání konkrétních
 derivací nebo integrálů kladen na představení souvislostí a nastínění
-spektra aplikací tohoto aparátu. Tím se kurz liší od obecně pojatých
-kurzů, které jsou nejčastější a je k nim nejvíce literatury. Jinak
+spektra aplikací tohoto aparátu. Tím se předmět liší od obecně pojatých
+matematik, které jsou nejčastější a je k nim nejvíce literatury. Jinak
 řečeno, nebude pro nás stěžejní to, jak se vypočítá parciální derivace,
 ale jak tuto derivaci můžeme použít k popisu dějů a jevů ve dřevě, v
 materiálech obecně, nebo v přírodě okolo nás.
 
-## Aktuality
+Předmět navazuje na znalosti matematiky získané v bakalářském stupni
+studia. Měli byste znát derivace, integrály a operace s maticemi
+(definice a využití). Měli byste umět derivovat a integrovat polynomy,
+počítat determinanty třetího řádu. Tyto znalosti je možné načerpat
+nebo si zopakovat [zde](https://robert-marik.github.io/pages/mt/).
+
+
+### Aktuality
 
 >* 17.2.2023: Termíny odevzdání úloh na parciální derivace a na gradient posunuty po konzultaci se cvičící o týden. (Čas na vypracování se nikdy nebude zkracovat, ale v některých případech může být prodloužen, tak jako teď. Informace bude vždy zde v aktualitách.)
 {: .block-danger }
 
 
-## Rozcestník elektronických informačních zdrojů
+### Rozcestník elektronických informačních zdrojů
 
 Následující nástroje jsou kriticky důležité pro studium.
 
@@ -423,14 +430,4 @@ absolutně tápete., Ale i v takovém případě se snažte postupně přecháze
 od sledování videí k práci s textem a případně využijte konzultace nebo
 se ptejte v hodině.
 
-
-## Další odkazy
-
-Následující nástroje mohou být vaši pomocníci
-
--   Kurz navazuje na znalosti matematiky získané v bakalářském stupni
-    studia. Měli byste znát derivace, integrály a operace s maticemi
-    (definice a využití). Měli byste umět derivovat a integrovat
-    polynomy, počítat determinanty třetího řádu. Tyto znalosti je možné
-    načerpat nebo si zopakovat [zde](https://robert-marik.github.io/pages/mt/).
 

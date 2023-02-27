@@ -125,7 +125,7 @@ Dykyjová, Begon) je dostupná v knihovně nebo studovně MENDELU. Jedná se
 o klasická díla v ekologii. Murray je ze sítě MENDELU k dispozici
 online.
 
-## Online literatura
+### Online literatura
 
 -   J. D. Murray, [Mathematical
     biology](https://link.springer.com/book/10.1007/b98868)
@@ -144,7 +144,7 @@ Přístup k literatuře může být omezen a literatura nemusí být přístupn�
 ze sítě mimo MENDELU. V takovém případě použijte
 [proxy](http://proxy.mendelu.cz).
 
-## Další zdroje informací
+### Další zdroje informací
 
 Matematiky moc používat nebudeme, naprostá většina věcí okolo modelů je krásně vysvětlena v publikaci prof. Tkadlece, úzkým hrdlem budou proto asi IT skills.
 
