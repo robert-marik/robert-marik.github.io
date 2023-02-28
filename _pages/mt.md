@@ -61,7 +61,7 @@ k ukončení předmětu.
 * Univerzitní informační systém použijeme pro hromadné maily (zkontrolujte si, že čtete mailovou adresu, na kterou případně maily z UISu přeposíláte) přihlašování na zkoušky a pro distribuci hesel pro WeBWorK. <https://is.mendelu.cz>
 
 
-* [Přednášky a cvičení](https://robert-marik.github.io/matematika/intro/) Materiály, které se budou používat na přednášce, ale jsou vhodné v případě nemoci i pro samostudium a jako referenční příručka ke zkoušce. 
+* [Přednášky a cvičení](https://robert-marik.github.io/matematika/) Materiály, které se budou používat na přednášce, ale jsou vhodné v případě nemoci i pro samostudium a jako referenční příručka ke zkoušce. 
 * [Offline verze v PDF](https://user.mendelu.cz/marik/Matematika.pdf) je také k dispozici.
 * [Cheatsheet](https://raw.githubusercontent.com/robert-marik/mat-slidy/master/cheatsheet/cheatsheet-MT.pdf) pro Matematiku. Vzorce, důležitá fakta.
 
