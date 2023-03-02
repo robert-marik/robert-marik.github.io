@@ -18,8 +18,8 @@ layout: post
     Scholar](http://scholar.google.com/citations?user=n1K58IYAAAAJ)
 
 
-Published research papers
--------------------------
+## Published research papers
+
 
 1. V. Cristini, J. Tippner, M. Tomšovský, J. Zlámal, R. Mařík, 
    *Acoustic tomography outputs in comparison to the properties of 
@@ -241,16 +241,15 @@ Published research papers
     Proc. Int. Sci. Conf. Math. Žilina (1998), 183-188.
     [PDF preprint](http://user.mendelu.cz/marik/preprints/On_p-degree_functionals_with_one_free_end_point.pdf)
 
-Monograph
----------
+## Other publications
+
 
 1.  *Oscillation theory of partial differential equations with
     p-Laplacian*, Mendel university (2008) 103 pages. Folia. ISBN
     978-80-7375-215-6. [PDF](http://user.mendelu.cz/marik/preprints/Oscillation_theory_of_PDE_with_p-Laplacian.pdf)
 
 
-Textbooks
----------
+### Textbooks
 
 1.  *Differential and difference equations (Diferenciální a diferenční
     rovnice)*, textbook in Czech, Mendel University Brno (2004), 79
@@ -260,16 +259,16 @@ Textbooks
     Brno (2009).[PDF](http://user.mendelu.cz/marik/preprints/Marik_Diferencialni_rovnice.pdf) 
 
 
-Electronic textbooks in English
--------------------------------
+### Electronic textbooks in English
+
 1.  Robert Mařík's
     [eReadings](http://user.mendelu.cz/marik/frvs/index.html) on
     Mathematics (in English, supported by the grant 18/2006 of
     [FRVŠ](http://www.frvs.cz/))
 
 
-Other publications
-------------------
+### Other publications
+
 1.  *Half-linear differential equations*, PhD. thesis, Masaryk Univ.
     Brno (2000), 72 pages.
 2.  *Bessel functions*, thesis, Masaryk Univ. Brno (1997), in Czech.
@@ -303,8 +302,8 @@ Other publications
 13. Matematický program Sage, Matematika - fyzika - informatika 20 No. 2
     (2010), 119-127.
 
-Conferences
------------
+### Conferences
+
 1.  Equadiff 9, Brno, August 1997
 2.  Int. Scientific Conference of Mathematics, Zilina (SL), July 1998 -
     *Half-linear differential equation and corresponding $p$-degree
@@ -376,8 +375,8 @@ differential equations*](http://user.mendelu.cz/marik/talks/2012_CDDEA-terchova.
     Research Institute for Mathematical Sciences (RIMS) Kyoto
     University, Kyoto, Japan, November 2014.
 
-Conferences focused on education
---------------------------------
+### Conferences focused on education
+
 
 1.  Using compuers in teaching mathematics (in Czech), České Budějovice,
     November 2005, Využití systému LaTeX ve výuce matematiky.
@@ -396,8 +395,8 @@ Conferences focused on education
     June 2009, Brno, OpenSource versus proprietární software ve výuce a
     tvorbě výukových materiálů
 
-Talks on seminars
------------------
+### Talks on seminars
+
 1.  [Seminar of differential
     equations](http://www.math.muni.cz/%7Eseminars/initial_problems/index.html),
     Masaryk Univ. Brno, fall 1998 and spring 1999, *Nonnegativity of
@@ -428,8 +427,8 @@ Talks on seminars
     equations](http://www.math.muni.cz/%7Eseminars/initial_problems/index.html),
     Masaryk Univ. Brno, *Oscillation criteria for half-linear neutral differential equation*, 28.04.2014, in Czech
 
-Presentations/prezentace
-------------------------
+### Presentations/prezentace
+
 1.  Některé mé prezentace jsou dostupné
     [zde](http://user.mendelu.cz/marik/talks)
 

@@ -96,8 +96,10 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
   * Přednáška: [Derivace a integrál](https://robert-marik.github.io/dmp/prednaska/02.html)
   * [Video o práci se soubory](https://youtu.be/-Uq0pUT-n1U)
   * [Video o tvorbě tabulky s daty a vykreslení těchto dat](https://youtu.be/tY23bobO3wA) a [výsledný zápisník](https://gist.github.com/robert-marik/d089a26d1b55f1afa3613c887fad4ad1)
-  * [Rychlý přehled ovládání Jupyter notebooku](https://robert-marik.github.io/ntb)
 * 3\. týden semestru (týden od 27.2.2023)
+  * Cvičení: [Úvod do řešení rovnic s derivacemi](https://robert-marik.github.io/dmp/cviceni/cviceni_02.html)
+  * Přednáška: [Diferenciální ronvice](https://robert-marik.github.io/dmp/prednaska/03.html)
+  * [Rychlý přehled ovládání Jupyter notebooku](https://robert-marik.github.io/ntb)
 * 4\. týden semestru (týden od 6.3.2023)
 * 5\. týden semestru (týden od 13.3.2023)
 * 6\. týden semestru (týden od 20.3.2023)
@@ -133,7 +135,7 @@ Dykyjová, Begon) je dostupná v knihovně nebo studovně MENDELU. Jedná se
 o klasická díla v ekologii. Murray je ze sítě MENDELU k dispozici
 online.
 
-## Online literatura
+### Online literatura
 
 -   J. D. Murray, [Mathematical
     biology](https://link.springer.com/book/10.1007/b98868)
@@ -152,7 +154,7 @@ Přístup k literatuře může být omezen a literatura nemusí být přístupn�
 ze sítě mimo MENDELU. V takovém případě použijte
 [proxy](http://proxy.mendelu.cz).
 
-## Další zdroje informací
+### Další zdroje informací
 
 Matematiky moc používat nebudeme, naprostá většina věcí okolo modelů je krásně vysvětlena v publikaci prof. Tkadlece, úzkým hrdlem budou proto asi IT skills.
 
