@@ -22,6 +22,11 @@ layout: post
 
 ## Požadavky na ukončení
 
+> ##### Upozornění
+>
+> Byl zpřesněn postup odevzdávání seminární práce. Součástí bude zparacování drobných připomínek přímo v učebně. Více viz níže.
+{: .block-danger }
+
   * Odevzdání **seminární práce** a zapracování případných připomínek.  
   * **Docházka** do cvičení a na přednášky nebo **zápočtová písemka**.
 
@@ -63,10 +68,13 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
     JupyterHub serveru. Do tohoto souboru případně vepíšu komentáře a
     požadavky na úpravu a přes odevzdávárnu dostanete zprávu, je-li vše
     OK, nebo jestli je potřeba něco upravit.
+-   **Aktulizace 2.3.2023** Výše popsaným postupem budou řešeny
+    zásadnější a závažné připomínky k práci. Plně uznána bude práce po
+    zapracování drobnějších připomínek přímo v učebně. Termíny budou
+    vypsány v UIS, přihlašování bude jako na klasické zkoušky nebo
+    zápočty.
 
 ## Presenční forma, harmonogram semestru
-
-
 
 > -   Přednášky čtvrtek 11:00–13:00, učebna B44
 > -   Cvičení úterý 13:00–14:00 a 14:00–15:00, učebna B514
@@ -151,3 +159,28 @@ Matematiky moc používat nebudeme, naprostá většina věcí okolo modelů je 
 * Nejlepší tutoriál Pythonu na světě je <https://www.w3schools.com/python/>. Obsahuje i matplotlib, NumPy, Pandas. 
 * Pro LaTeX stačí umět psát základní matematické výrazy. Pomůže například [nápověda pro Wikpedii](https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Matematick%C3%A9_vzorce), která používá stejný mechanismus. Případně [tento přehled](https://user.mendelu.cz/marik/am/slidy/latex/).
 * Nejlepší servery, kam se chodí pro rady ohledně rozbitého a nefungujícího kódu a pro rady jak něco udělat v Pythonu nebo LaTeXu, jsou <https://stackoverflow.com/questions/tagged/python> a <https://stackexchange.com>. Můžete například kopírovat chybové hlášky do Google vyhledávače a preferovat odkazy směřující na tyto servery.
+
+## Požadované dovednosti 
+
+> ##### Upozornění
+>
+>Následující seznam obsahuje požadované dovednosti, které budou náplní zápočtové písemky anebo součástí požadavků na finální úpravu seminární práce. 
+>
+>Seznam bude doplňován vždy po probrání látky na presenčním studiu.
+{: .block-danger }
+
+### Požadované dovednosti pro zápočtovou písemku
+
+* Schopnost vysvětlit, jakou roli hraje při formulaci modelů derivace.
+* Vysvětlit jednotlivé stavební složky rovnice dynamické rovnováhy počtu druhů na ostrovech (McArthur, Wilson) a jejich závilost na velikosti ostrova resp. vzdálenosti od pevniny. Vysvětlit chování řešení a zmenu polohy stacionárních bodů v závislosti na parametrech. 
+
+### Požadované dovednosti pro finální úpravu seminární práce
+
+Z následujícího seznamu se použije to, co je relevantní pro danou práci. Například u práce věnované maticovým modelům se nebude vyžadovat nic co by se týkalo pouze diferenciálních rovnic a naopak.
+
+* Nakreslení funkce, nastavení popisků os a rozsahů na osách. Nadpis grafu, legenda v případě více křivek.
+* Sestavení tabulky po sloupcích a vykreslení křivek definovaných daty ve sloupcích.
+* Vyřešení diferenciální rovnice a vizualizace řešení. Pro jednu nebo více počátečních podmínek.
+* Vyřešení diferenciální rovnice a vizualizace řešení pro několik hodnot parametrů vystupujících v diferenciální rovnici. 
+
+
