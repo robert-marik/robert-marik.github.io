@@ -6,6 +6,12 @@ category: Jekyll
 layout: post
 ---
 
+> ##### Upozornění, aktuality
+>
+> * Dne 2.3.2023 byl zpřesněn postup odevzdávání seminární práce. Součástí bude zapracování drobných připomínek přímo v učebně. Více viz níže.
+{: .block-danger }
+
+
 
 {% include float_image.html image_path="/images/dmp_logo.jpg" description='Liška ostrovní. Příklad živočišného druhu, který se podařilo zachránit před vyhynutím [v rekordně krátkém čase](https://www.nature.org/en-us/about-us/where-we-work/united-states/california/stories-in-california/endangered-island-foxes-break-record-for-fast-recovery/"), během dekády. K tomu byla nutná komplexní znalost ekosystému a analýza, jak se projeví jednotlivé zásahy do vztahů v tomto ekosystému. Zdroj: commons.wikimedia.org.' %}
 
@@ -22,11 +28,6 @@ layout: post
 
 ## Požadavky na ukončení
 
-> ##### Upozornění
->
-> Byl zpřesněn postup odevzdávání seminární práce. Součástí bude zparacování drobných připomínek přímo v učebně. Více viz níže.
-{: .block-danger }
-
   * Odevzdání **seminární práce** a zapracování případných připomínek.  
   * **Docházka** do cvičení a na přednášky nebo **zápočtová písemka**.
 
@@ -36,7 +37,7 @@ Pro _kombinovanou formu_ se za splnění docházky považuje jedna neúčast. Ab
 
 Pro obě formy může být zápočtová písemka nahrazena ústním pohovorem, ve kterém student prokáže, že má přehled o studované problematice.
 
-Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušeně, půjde o nějakou modifikaci některého z modelů studovaných v předmětu, při které student ukáže, že si osvojil hlavní myšlenky a postupy používané při studiu těchto modelů.
+Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušeně, půjde o nějakou modifikaci některého z modelů studovaných v předmětu, při které student ukáže, že si osvojil hlavní myšlenky a postupy používané při formulaci a studiu těchto modelů. Případně detailní vysvětlení některých aspektů některého z probíraných modelů.
 
 
 #### Seminární práce
@@ -68,11 +69,8 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
     JupyterHub serveru. Do tohoto souboru případně vepíšu komentáře a
     požadavky na úpravu a přes odevzdávárnu dostanete zprávu, je-li vše
     OK, nebo jestli je potřeba něco upravit.
--   **Aktulizace 2.3.2023** Výše popsaným postupem budou řešeny
-    zásadnější a závažné připomínky k práci. Plně uznána bude práce po
-    zapracování drobnějších připomínek přímo v učebně. Termíny budou
-    vypsány v UIS, přihlašování bude jako na klasické zkoušky nebo
-    zápočty.
+-   > **Aktualizace 2.3.2023** Výše popsaným postupem budou řešeny     zásadnější a závažné připomínky k práci. Plně uznána bude práce po     zapracování drobnějších připomínek přímo v učebně. Termíny budou     vypsány v UIS, přihlašování bude jako na klasické zkoušky nebo    zápočty.
+    {: .block-warning }
 
 ## Presenční forma, harmonogram semestru
 
@@ -127,6 +125,31 @@ populací](https://robert-marik.github.io/dmp/intro.html)
     cvičení 10 a 11
 -   Pátek 12.5.2023 16:00–19:00 B514 (3 hodiny) Přednáška 12 cvičení 12
 
+## Požadované dovednosti 
+
+> ##### Upozornění
+>
+>Následující seznam obsahuje požadované dovednosti, které budou náplní zápočtové písemky anebo součástí požadavků na finální úpravu seminární práce. 
+>
+>Seznam bude doplňován vždy po probrání látky na presenčním studiu.
+{: .block-danger }
+
+### Požadované dovednosti pro zápočtovou písemku
+
+* Schopnost vysvětlit, jakou roli hraje při formulaci modelů derivace. Jaká je slovní interpretace derivace, jaká je její fyzikální jednotka.
+* Vysvětlit rovnici ochlazování. Podat slovní interpretaci jednotlivých částí rovnice a vysvětlit, proč jsou sestaveny právě užívaným způsobem.
+* Vysvětlit jednotlivé stavební složky rovnice dynamické rovnováhy počtu druhů na ostrovech (McArthur, Wilson) a jejich závislost na velikosti ostrova resp. vzdálenosti od pevniny. Vysvětlit chování řešení a změnu polohy stacionárních bodů v závislosti na parametrech. 
+
+### Požadované dovednosti pro finální úpravu seminární práce
+
+Z následujícího seznamu se použije to, co je relevantní pro danou práci. Například u práce věnované maticovým modelům se nebude vyžadovat nic co by se týkalo pouze diferenciálních rovnic a naopak.
+
+* Nakreslení funkce, nastavení popisků os a rozsahů na osách. Nadpis grafu. Legenda v případě více křivek.
+* Sestavení tabulky po sloupcích a vykreslení křivek definovaných daty ve sloupcích.
+* Vyřešení diferenciální rovnice a vizualizace řešení. Pro jednu nebo více počátečních podmínek. Zapsání dat do tabulky.
+* Vyřešení diferenciální rovnice a vizualizace řešení pro několik hodnot parametrů. Zapsání dat do tabulky. 
+
+
 ## Literatura
 
 Viz [sylabus](https://is.mendelu.cz/katalog/syllabus.pl?predmet=140853)
@@ -161,28 +184,3 @@ Matematiky moc používat nebudeme, naprostá většina věcí okolo modelů je 
 * Nejlepší tutoriál Pythonu na světě je <https://www.w3schools.com/python/>. Obsahuje i matplotlib, NumPy, Pandas. 
 * Pro LaTeX stačí umět psát základní matematické výrazy. Pomůže například [nápověda pro Wikpedii](https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Matematick%C3%A9_vzorce), která používá stejný mechanismus. Případně [tento přehled](https://user.mendelu.cz/marik/am/slidy/latex/).
 * Nejlepší servery, kam se chodí pro rady ohledně rozbitého a nefungujícího kódu a pro rady jak něco udělat v Pythonu nebo LaTeXu, jsou <https://stackoverflow.com/questions/tagged/python> a <https://stackexchange.com>. Můžete například kopírovat chybové hlášky do Google vyhledávače a preferovat odkazy směřující na tyto servery.
-
-## Požadované dovednosti 
-
-> ##### Upozornění
->
->Následující seznam obsahuje požadované dovednosti, které budou náplní zápočtové písemky anebo součástí požadavků na finální úpravu seminární práce. 
->
->Seznam bude doplňován vždy po probrání látky na presenčním studiu.
-{: .block-danger }
-
-### Požadované dovednosti pro zápočtovou písemku
-
-* Schopnost vysvětlit, jakou roli hraje při formulaci modelů derivace.
-* Vysvětlit jednotlivé stavební složky rovnice dynamické rovnováhy počtu druhů na ostrovech (McArthur, Wilson) a jejich závilost na velikosti ostrova resp. vzdálenosti od pevniny. Vysvětlit chování řešení a zmenu polohy stacionárních bodů v závislosti na parametrech. 
-
-### Požadované dovednosti pro finální úpravu seminární práce
-
-Z následujícího seznamu se použije to, co je relevantní pro danou práci. Například u práce věnované maticovým modelům se nebude vyžadovat nic co by se týkalo pouze diferenciálních rovnic a naopak.
-
-* Nakreslení funkce, nastavení popisků os a rozsahů na osách. Nadpis grafu, legenda v případě více křivek.
-* Sestavení tabulky po sloupcích a vykreslení křivek definovaných daty ve sloupcích.
-* Vyřešení diferenciální rovnice a vizualizace řešení. Pro jednu nebo více počátečních podmínek.
-* Vyřešení diferenciální rovnice a vizualizace řešení pro několik hodnot parametrů vystupujících v diferenciální rovnici. 
-
-
