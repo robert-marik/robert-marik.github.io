@@ -100,6 +100,8 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
   * [Rychlý přehled ovládání Jupyter notebooku](https://robert-marik.github.io/ntb)
 * 4\. týden semestru (týden od 6.3.2023)
   * Cvičení: [Diferenciální rovnice 1](https://robert-marik.github.io/dmp/cviceni/cviceni_03.html)
+  * Přednáška: [Autonomní diferenciální ronvice](https://robert-marik.github.io/dmp/prednaska/04.html)
+  * [Video o řešení diferenciálních rovnic](https://youtu.be/h-D7D3smZlA) a [výsledný zápisník](https://gist.github.com/robert-marik/f47aebec85b4dd650e5a108a881606be)
 * 5\. týden semestru (týden od 13.3.2023)
 * 6\. týden semestru (týden od 20.3.2023)
 * 7\. týden semestru (týden od 27.3.2023)
@@ -120,7 +122,7 @@ populací](https://robert-marik.github.io/dmp/intro.html)
     cvičení 1 až 4.
 -   Pátek 10.2.2023 13:00–16:00 B46 (3 hodiny) Přednášky 4 a 5, cvičení
     5, 6, 9.
--   Pátek 17.3.2023 13:00–16:00 B514 (3 hodiny) Přednášky 6 a 7, cvičení
+-   Pátek 17.3.2023 13:00–16:00 B514 (3 hodiny) Dokončení z minula. Dle možností přednášky 6 a 7, cvičení
     7 a 8
 -   Pátek 31.3.2023 13:00–16:00 B514 (3 hodiny) Přednášky 8, 9, 10, 11,
     cvičení 10 a 11
