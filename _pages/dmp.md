@@ -103,6 +103,8 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
   * Přednáška: [Autonomní diferenciální rovnice](https://robert-marik.github.io/dmp/prednaska/04.html)
   * [Video o řešení diferenciálních rovnic](https://youtu.be/h-D7D3smZlA) a [výsledný zápisník](https://gist.github.com/robert-marik/f47aebec85b4dd650e5a108a881606be)
 * 5\. týden semestru (týden od 13.3.2023)
+  * Cvičení: [Diferenciální rovnice 2](https://robert-marik.github.io/dmp/cviceni/cviceni_04.html)
+  * Přednáška: [Bifurkace](https://robert-marik.github.io/dmp/prednaska/05.html)
 * 6\. týden semestru (týden od 20.3.2023)
 * 7\. týden semestru (týden od 27.3.2023)
 * 8\. týden semestru (týden od 3.4.2023)
