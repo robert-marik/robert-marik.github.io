@@ -195,7 +195,7 @@ týden počkat.*
 1. 28.3.2023 ![06.jpg](/images/am/06.jpg) *Pokračujeme v rozšiřování integračních možností a naučíme se integrovat přes dvourozměrné množiny. Aplikací je například výpočet charakteristik důležitých pro posouzení odolnosti nosníku vůči
 deformaci. Jinou aplikací výpočet tlaku na plochu ponořenou napříč
 různými hloubkami.*
-     * [Přednáška](/images/am/06)
+     * [Přednáška](https://robert-marik.github.io/am/06)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni06.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/06_Dvojny_integral)
 1. 4.4.2021 ![07.jpg](/images/am/07.jpg) *Poznáme
