@@ -198,7 +198,7 @@ různými hloubkami.*
      * [Přednáška](https://robert-marik.github.io/am/06)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni06.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/06_Dvojny_integral)
-1. 4.4.2021 ![07.jpg](/images/am/07.jpg) *Poznáme
+1. 4.4.2023 ![07.jpg](/images/am/07.jpg) *Poznáme
 obecné věty, které dávají fyzikální význam operátorům rotace a
 divergence. Umožňují převod mezi lokálním a globálním tvarem fyzikálních
 zákonů a dávají konečně odpověď na otázku, ke kterým vektorovým polím je
@@ -208,7 +208,7 @@ kmenové funkce.*
      * [Přednáška](https://robert-marik.github.io/am/07)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni07.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/07_Integraly_souhrn)
-1. 11.4.2021 ![08.jpg](/images/am/08.jpg) *Seznámíme
+1. 11.4.2023 ![08.jpg](/images/am/08.jpg) *Seznámíme
 se s přirozeným nástrojem pro formulaci fyzikálních zákonů a přírodních
 dějů obecně: s diferenciálními rovnicemi. Fyzika střední školy obsahuje
 zpravidla jenom děje probíhající za speciálních podmínek. V reálu nás v
@@ -223,7 +223,7 @@ rostlinných druhů v různých podmínkách.* Obrázek z <https://www.hauff-tec
      * [Přednáška](https://robert-marik.github.io/am/08)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni08.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/08_Diferencialni_rovnice)
-1. 18.4.2021 ![09.jpg](/images/am/09.jpg) *Linearita.
+1. 18.4.2023 ![09.jpg](/images/am/09.jpg) *Linearita.
 Důležitá vlastnost, která usnadňuje řešení matematických modelů. Modely,
 které jsou lineární se chovají v jistém smyslu pěkně a mnoho vlastností
 mají podobných. Naprostá většina technicky zajímavých jevů a dějů snese
