@@ -148,6 +148,12 @@ populací](https://robert-marik.github.io/dmp/intro.html)
 * Schopnost vysvětlit, jakou roli hraje při formulaci modelů derivace. Jaká je slovní interpretace derivace, jaká je její fyzikální jednotka.
 * Vysvětlit rovnici ochlazování. Podat slovní interpretaci jednotlivých částí rovnice a vysvětlit, proč jsou sestaveny právě užívaným způsobem.
 * Vysvětlit jednotlivé stavební složky rovnice dynamické rovnováhy počtu druhů na ostrovech (McArthur, Wilson) a jejich závislost na velikosti ostrova resp. vzdálenosti od pevniny. Vysvětlit chování řešení a změnu polohy stacionárních bodů v závislosti na parametrech. 
+* Vysvětlit podstatu základních populačních modelů, model exponenciálního růstu (Malthusův) a logistického růstu (Verhulstův). Modelování populace v prostředí s omezenou nosnou kapacitou.
+* Vliv lovu na dynamiku populace v prostředí s omezenou nosnou kapacitou, různé strategie lovu, stabilita stacionárních bodů. Modelování Alleeho efektu.
+* Vysvětlit podstatu modelování populace s věkovou strukturou, Leslieho a Lefkovitchovy matice. 
+* Markovovy řetězce, modelování vývoje lesa z hlediska druhového složení.
+* Maticové modely, dynamika růstu (dominantní vlastní hodnota, příslušný vlastní vektor) a vliv parametrů na tuto dynamiku, matice elasticity, reprodukční hodnota jednotlivých věkových kategorií.
+* Parciální derivace a jejich využití k lineární aproximaci. Rovnice difuze pro modelování šíření invazního druhu.
 
 ### Požadované dovednosti pro finální úpravu seminární práce
 
@@ -157,6 +163,7 @@ Z následujícího seznamu se použije to, co je relevantní pro danou práci. N
 * Sestavení tabulky po sloupcích a vykreslení křivek definovaných daty ve sloupcích.
 * Vyřešení diferenciální rovnice a vizualizace řešení. Pro jednu nebo více počátečních podmínek. Zapsání dat do tabulky.
 * Vyřešení diferenciální rovnice a vizualizace řešení pro několik hodnot parametrů. Zapsání dat do tabulky. 
+* Schopnost zapsat běžné matematické výrazy v systému $\LaTeX$. Schopnost napsat bez typografických chyb text, obsahující matematické vzorce a matematické výrazy.
 
 
 ## Literatura
