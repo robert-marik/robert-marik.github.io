@@ -112,6 +112,8 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
   * Cvičení: [LaTeX](https://robert-marik.github.io/dmp/cviceni/cviceni_06.html)
   * Přednáška: [Parciální derivace](https://robert-marik.github.io/dmp/prednaska/07.html)
 * 8\. týden semestru (týden od 3.4.2023)
+  * Cvičení: [Maticové modely](https://robert-marik.github.io/dmp/cviceni/cviceni_07.html)
+  * Přednáška: [Autonomní systémy](https://robert-marik.github.io/dmp/prednaska/08.html)
 * 9\. týden semestru (týden od 10.4.2023)
 * 10\. týden semestru (týden od 17.4.2023)
 * 11\. týden semestru (týden od 24.4.2023)
