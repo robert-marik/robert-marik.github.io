@@ -115,6 +115,8 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
   * Cvičení: [Maticové modely](https://robert-marik.github.io/dmp/cviceni/cviceni_07.html)
   * Přednáška: [Autonomní systémy](https://robert-marik.github.io/dmp/prednaska/08.html)
 * 9\. týden semestru (týden od 10.4.2023)
+  * Cvičení: [Metapopulace](https://robert-marik.github.io/dmp/cviceni/cviceni_08.html)
+  * Přednáška: [Modely konkurence populací](https://robert-marik.github.io/dmp/prednaska/09.html)
 * 10\. týden semestru (týden od 17.4.2023)
 * 11\. týden semestru (týden od 24.4.2023)
 * 12\. týden semestru (týden od 1.5.2023) Výuka se nekoná, hlavní cvičení.
