@@ -71,6 +71,12 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
     OK, nebo jestli je potřeba něco upravit.
 -   > **Aktualizace 2.3.2023** Výše popsaným postupem budou řešeny     zásadnější a závažné připomínky k práci. Plně uznána bude práce po     zapracování drobnějších připomínek přímo v učebně. Termíny budou     vypsány v UIS, přihlašování bude jako na klasické zkoušky nebo    zápočty.
     {: .block-warning }
+-   > **Návrh na seminární práci 1** Některá modifikace Levinsova modelu metapoopulací, návrhy jsou na konci [cvičení](https://robert-marik.github.io/dmp/cviceni/cviceni_08.html).
+-   > **Návrh na seminární práci 2** Model [konkurence tří druhů](https://robert-marik.github.io/dmp/prednaska/09.html#model-konkurence-tri-druhu) je možno snadno přeměnit na model konkurence dvou druhů majících společného predátora. Například změnou třetí rovnice na 
+    >
+    >$$\frac{\mathrm dz}{\mathrm dt}=(-m+px+qy)z$$ 
+	>
+    > bychom dostali model dravce a kořisti s konkurencí mezi populacemi kořisti a predátorem Lotkova--Volterrova typu. Ukažte, že dravec může být činitelem, který jedné z populací můžře zprostředkovat přežití. Ukažte, že v případě, kdy je konkurence taková, že jeden druh dominuje a druhý vymírá, může přítomnost predátora dominanci zastavit a tím zprostředkovat přžití jeho kořisti. Najděte tedy nastavení parametrů tak, aby simulace, které se liší jenom počáteční hodnotou predátora (jednou nula a jednou nenulová hodnota) vypadaly například tak jako na následujícím obrázku. Tato simlulace podporuje názor, že pestřejší společenstva jsou stabilnjěší, protože po odstranění dravce by zůstal jenom jediný druh. ![](/images/korist-korist-dravec.png){:class="img-responsive"}
 
 ## Presenční forma, harmonogram semestru
 
