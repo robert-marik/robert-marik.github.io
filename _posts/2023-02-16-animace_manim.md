@@ -30,7 +30,7 @@ prezentace pro promítání na přednášce.
 
 *lineární algebra, součin matic, transformace souřadnic*
 
-* [Prezentace](https://www.google.com/search?q=../manim/MatrixMultiplication/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/MatrixMultiplication/&btnI=lucky)
 
 #### Transformace tenzoru malých deformací
 
@@ -45,7 +45,7 @@ algebry (bez Mohrovy kružnice a bez vzorců se směrovými kosiny).
 
 *lineární algebra, součin matic, transformace tenzoru*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Deformation/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Deformation/)
 * [Video](https://youtu.be/6GeNZzUeF6M)
 
 #### Anatomické směry dřeva a vlastní směry matice
@@ -59,7 +59,7 @@ v materiálu. Konkrétně ve dřevě.
 
 *lineární algebra, součin matic, vlastní směry a vlastní hodnoty*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Eigenvectors&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Eigenvectors)
 * [Video](https://youtu.be/vfzT25D6Zz8)
 
 #### Rovnice vedení tepla v jedné dimenzi
@@ -72,7 +72,7 @@ modelovat pomocí matematických vztahů.
 
 *diferenciální rovnice, parciální derivace, rovnice mateamtické fyziky*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Heat/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Heat/)
 * [Video](https://youtu.be/1tbe5YUvoqg)
 
 #### Gradient a tok ve dřevě a ortotropních materiálech
@@ -87,7 +87,7 @@ ale tenzory druhého řádu (matice).
 
 *lineární algebra, parciální derivace, gradient, součin matic*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Flow&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Flow)
 * [Video](https://youtu.be/PzFh8f9Qzf8)
 
 #### Konečné diference a simulace Newtonova zákona ochlazování
@@ -105,7 +105,7 @@ izolovaných bodech, tedy místo derivace použijeme konečné diference.
 
 *diferenciální rovnice, derivace, konečná diference*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Diference&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Diference)
 * [Video](https://youtu.be/r_Ae2mGnfFs)
 
 #### Divergence a rovnice kontinuity
@@ -120,7 +120,7 @@ modelovat pomocí matematických vztahů.
 *parciální derivace, divergence, rovnice kontiuity, rovnice matematické
 fyziky*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Divergence/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Divergence/)
 * [Video](https://youtu.be/Vk8OAq3_40g)
 
 #### Logistický lov
@@ -137,7 +137,7 @@ stacionární body a jejich stabilitu.
 *diferenciální rovnice, derivace, stabilita stacionárních bodů,
 populační modely*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Logistic&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Logistic)
 * [Video](https://youtu.be/NyLkjOTYzVQ)
 
 #### Model dravce a kořisti
@@ -151,7 +151,7 @@ několik způsobů vizualizace a diskuse, jak parametry ovlivňují chování
 
 *diferenciální rovnice, autonomní systémy, derivace*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Predator_prey&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Predator_prey)
 * [Video](https://youtu.be/zihShrEOJAU)
 
 #### Stacionární body diferenciální rovnice a jejich bifurkace
@@ -168,7 +168,7 @@ malou změnou podmínek, je shrnuto v prezentaci.
 
 *diferenciální rovnice, bifurkace, stacionární body*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Stabilita/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Stabilita/)
 * [Video](https://youtu.be/Siu5ZgEA59s)
 
 #### Model populace obaleče
@@ -183,7 +183,7 @@ svého nasycení.
 
 *diferenciální rovnice, bifurkace, logistický růst, populační modely*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Obalec/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Obalec/)
 * [Video](https://youtu.be/iFmQWcR_JX4)
 
 #### Model soupeření jestřábí a holubičí povahy
@@ -196,7 +196,7 @@ kde mezi sebou jedinci nebojují, ekologicky nestabilní a neudržitelná.
 
 *diferenciální rovnice, bifurkace*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Hawk_and_dove_game/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Hawk_and_dove_game/)
 * [Video](https://youtu.be/zAzZrIShj9U)
 
 #### Zákon šíření chyb
@@ -211,7 +211,7 @@ Zatím není video, jenom prezentace pro promítání na přednášce.
 
 *parciální derivace*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Chyby/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Chyby/)
 
 #### Model konkurence dvou druhů
 
@@ -228,7 +228,7 @@ Zatím není video, jenom prezentace pro promítání na přednášce.
 
 *diferenciální rovnice, populační modely*
 
-* [Prezentace](https://www.google.com/search?q=../manim/Konkurence_druhu/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Konkurence_druhu/)
 
 #### Transformace diferenciálních rovnic
 
@@ -248,7 +248,7 @@ násobku.
 *diferenciální rovnice, transformace, rovnice ochlazování, logistická
 rovnice*
 
-* [Prezentace](https://www.google.com/search?q=../manim/ODE_transformace/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/ODE_transformace/)
 
 #### Lineární aproximace v praxi
 
@@ -261,7 +261,7 @@ univerzálně platný vzorec pro kinetickou energii redukuje na jednoduchý
 středoškolský, který je sice mnohem jednodušší, ale platí jenom pro
 běžné rychlosti.
 
-* [Prezentace](https://www.google.com/search?q=../manim/Linearni_aproximace/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Linearni_aproximace/)
 
 * [Video](https://youtu.be/aOvVJzeWy3o)
 
@@ -274,7 +274,7 @@ Chování trajektorií v okolí stacionárních bodů lineárního autonomního
 systému je možné odhalit pomocí vlastních čísel. Prezentace (video bude
 následovat) ukazuje, jak na to.
 
-* [Prezentace](https://www.google.com/search?q=../manim/AS_vlastni_cisla/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/AS_vlastni_cisla/)
 
 #### Linearizace autonomních systémů
 
@@ -285,7 +285,7 @@ Lineární aproximace autonomních systémů umožňuje popsat chování řešen
 To nás zajímá zejména u stacionárních bodů (všude jinde je to triviální
 a trajektorie míří směrem, kterým míří směrové pole).
 
-* [Prezentace](https://www.google.com/search?q=../manim/AS_linearizace/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/AS_linearizace/)
 
 #### Křivkový integrál druhého druhu
 
@@ -298,7 +298,7 @@ definovat potenciál (obdoba potenciální energie gravitačního pole) a
 přejít od vektorového popisu k nesrovnatelně jednoduššímu skalárnímu
 ppisu.
 
-* [Prezentace](https://www.google.com/search?q=../manim/integracni_cesta/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/integracni_cesta/)
 
 #### Nosník
 
@@ -307,7 +307,7 @@ ppisu.
 Odvození rovnice ohybové čáry nosníku a role kvadratického momentu
 průřezu při deformaci.
 
-* [Prezentace](https://www.google.com/search?q=../manim/beam/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/beam/)
 
 #### Hlavní myšlenka pro zavedení derivace
 
@@ -318,7 +318,7 @@ Definice derivace je založena na tom, že umíme dobře měřit rychlost
 růstu lineární funkce a že nelineární růst je při dostatečném zvětšení
 podobný lineárnímu.
 
-* [Prezentace](https://www.google.com/search?q=../manim/derivace/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/derivace/)
 
 #### Derivace a chování funkce
 
@@ -328,7 +328,7 @@ podobný lineárnímu.
 Pomocí derivace dokážeme zjistit, jak rychle funkce roste a také, jak
 rychle se tato rychlost mění.
 
-* [Prezentace](https://www.google.com/search?q=../manim/PrubehFunkce/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/PrubehFunkce/)
 
 #### Určitý integrál
 
@@ -340,7 +340,7 @@ aditivní, které bychom v případě konstantních podmínek určili prostým
 součinem, ale podmínky konstantní nejsou. Klasickým příkladem je poloha
 pohybu, který probíhá proměnnou rychlostí.
 
-* [Prezentace](https://www.google.com/search?q=../manim/UrcityIntegral/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/UrcityIntegral/)
 
 #### Rotace Sarussovým pravidlem
 
@@ -350,7 +350,7 @@ Rotace vektorového pole se počítá jako vektorový součin nabla operátoru
 a vektorového pole. Pro zápis je výhodné Sarussovo pravidlo výpočtu
 determinantů.
 
-* [Prezentace](https://www.google.com/search?q=../manim/Curl/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Curl/)
 
 #### Směrové pole
 
@@ -360,7 +360,7 @@ determinantů.
 Animace tvorby směrového pole a kreslení integrálních křivek do
 směrového pole.
 
-* [Prezentace](https://www.google.com/search?q=../manim/Slope_field/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Slope_field/)
 
 #### Spojitost, limita
 
@@ -372,7 +372,7 @@ případech dodefinovat nespojité funkce tak, aby se staly spojitými. V
 určitém smyslu nám tam umožní v některých případech dělat dosud zakázané
 operace, jako napříkald dělení nulou.
 
-* [Prezentace](https://www.google.com/search?q=../manim/Spojitost/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/Spojitost/)
 
 
 </div>
