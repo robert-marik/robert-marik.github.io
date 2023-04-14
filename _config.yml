@@ -61,3 +61,9 @@ plugins:
   - jekyll-readme-index
   - jemoji
 future: true
+
+collections:
+  pages:
+    output: true
+  pages-articles:
+    output: true
