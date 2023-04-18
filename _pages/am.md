@@ -256,7 +256,7 @@ diferenciálních rovnic, například při studiu rovnice vedení tepla.*
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni11.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/10_Shrnuti) Domácí úkol se nevztahuje k látce tohoto týdne, ale jedná se o shrnutí celého semestru.
 1. 9.5.2023 Bude doplněno. Základní postupy numerické matematiky.
-Diskretizace a nondimenzionalizace diferenicálních rovnic. 
+Diskretizace a nondimenzionalizace diferenciálních rovnic. Numerické řešení.
 1. 16.5.2023 Bude doplněno. Závěrečné shrnutí.
 
 </div>
