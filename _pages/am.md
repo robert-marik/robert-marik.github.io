@@ -231,7 +231,6 @@ lineární aproximaci a tím pádem umožní i jednotný popis řešení tak, ja
 se s ním seznámíme na přednášce.*
      * [Přednáška](https://robert-marik.github.io/am/09)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni09.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/09_Autonomni_systemy) Domácí úkol je vztahuje i k následujícímu týdnu.
 1. 25.4.2023 ![10.jpg](/images/am/10.jpg) *Poznáme
 speciální soustavy diferenciálních rovnic, které jsou nezávislé na čase
 a umožňují modelování interagujících populací (různé druhy konkurence,
@@ -243,7 +242,7 @@ model složeného žaludku nebo šíření epidemie až k modelu odtoku srážek
 regionu.*
      * [Přednáška](https://robert-marik.github.io/am/10)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni10.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/10_Shrnuti) Domácí úkol se nevztahuje k látce tohoto týdne, ale jedná se o shrnutí celého semestru.
+     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/09_Autonomni_systemy)
 1. 2.5.2023 ![11.jpg](/images/am/11.jpg) *V této
 přednášce se seznámíme s lineárními diferenciálními rovnicemi druhého
 řádu. Těmito rovnicemi je prostoupena v podstatě celá klasická
@@ -255,6 +254,7 @@ diferenciální rovnice druhého řádu objeví při studiu parciálních
 diferenciálních rovnic, například při studiu rovnice vedení tepla.*
      * [Přednáška](https://robert-marik.github.io/am/11)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni11.html)
+     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/10_Shrnuti) Domácí úkol se nevztahuje k látce tohoto týdne, ale jedná se o shrnutí celého semestru.
 1. 9.5.2023 Bude doplněno. Základní postupy numerické matematiky.
 Diskretizace a nondimenzionalizace diferenicálních rovnic. 
 1. 16.5.2023 Bude doplněno. Závěrečné shrnutí.
