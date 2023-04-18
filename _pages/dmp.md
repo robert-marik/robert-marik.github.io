@@ -125,7 +125,7 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
   * Přednáška: [Modely konkurence populací](https://robert-marik.github.io/dmp/prednaska/09.html)
   * [Video o řešení rovnice metepopulací pro různé parametry](https://youtu.be/83h1C4Bq2GI) a [výsledný zápisník](https://gist.github.com/robert-marik/e8f6f0d555d06bfe0009d9665870f38a)
 * 10\. týden semestru (týden od 17.4.2023)
-  * Cvičení: [Konkurence](https://robert-marik.github.io/dmp/cviceni/cviceni_09.html)
+  * Cvičení: [Konkurence](https://robert-marik.github.io/dmp/cviceni/cviceni_09.html). Je k dispozici [zápisník](https://gist.github.com/robert-marik/ac2d0f53d3013c031914948fc824890d) a [první](https://user.mendelu.cz/marik/temp/dmp/nb_diff1.html) a [druhý](https://user.mendelu.cz/marik/temp/dmp/nb_diff2.html) diff.
   * Přednáška: [Modely dravce a kořisti](https://robert-marik.github.io/dmp/prednaska/10.html)
 * 11\. týden semestru (týden od 24.4.2023)
 * 12\. týden semestru (týden od 1.5.2023) Výuka se nekoná, hlavní cvičení.
