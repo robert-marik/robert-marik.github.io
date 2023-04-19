@@ -167,6 +167,7 @@ populací](https://robert-marik.github.io/dmp/intro.html)
 * Markovovy řetězce, modelování vývoje lesa z hlediska druhového složení.
 * Maticové modely, dynamika růstu (dominantní vlastní hodnota, příslušný vlastní vektor) a vliv parametrů na tuto dynamiku, matice elasticity, reprodukční hodnota jednotlivých věkových kategorií.
 * Parciální derivace a jejich využití k lineární aproximaci. Rovnice difuze pro modelování šíření invazního druhu.
+* Vícedruhové modely, modely dravce a kořisti, modely konkurence populací. Schopnost interpretace jednotlivých složek modelu, schopnost vizualizovat řešení a popsat chování řešení pomocí fázového portrétu a časového průběhu řešení. 
 
 ### Požadované dovednosti pro finální úpravu seminární práce
 
@@ -177,6 +178,7 @@ Z následujícího seznamu se použije to, co je relevantní pro danou práci. N
 * Vyřešení diferenciální rovnice a vizualizace řešení. Pro jednu nebo více počátečních podmínek. Zapsání dat do tabulky.
 * Vyřešení diferenciální rovnice a vizualizace řešení pro několik hodnot parametrů. Zapsání dat do tabulky. 
 * Schopnost zapsat běžné matematické výrazy v systému $\LaTeX$. Schopnost napsat bez typografických chyb text, obsahující matematické vzorce a matematické výrazy.
+* Schopnost upravit vícedruhový model přidáním další intereakce, přidáním více počátečních podmínek, více parametrů nebo jiné parametry apod. Základní práce s tabulkami (uložení řešení do tabulky, vizualizace vybraných sloupců).
 
 
 ## Literatura
