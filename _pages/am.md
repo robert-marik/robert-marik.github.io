@@ -56,6 +56,7 @@ nebo si zopakovat [zde](https://robert-marik.github.io/pages/mt/).
 ### Aktuality
 
 >* 17.2.2023: Termíny odevzdání úloh na parciální derivace a na gradient posunuty po konzultaci se cvičící o týden. (Čas na vypracování se nikdy nebude zkracovat, ale v některých případech může být prodloužen, tak jako teď. Informace bude vždy zde v aktualitách.)
+>* 20.4.2023: Na žádost cvičící prodlouženo odevzdávání zbývajících úloh buď o týden nebo na konec výukové části semestru, podle toho, co nastane dřív.
 {: .block-danger }
 
 
