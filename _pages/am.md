@@ -258,6 +258,7 @@ diferenciálních rovnic, například při studiu rovnice vedení tepla.*
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/10_Shrnuti) Domácí úkol se nevztahuje k látce tohoto týdne, ale jedná se o shrnutí celého semestru.
 1. 9.5.2023 Základní postupy numerické matematiky. Diskretizace a nondimenzionalizace diferenciálních rovnic. Numerické řešení.
      * [Konečné diference](https://robert-marik.github.io/am/01/#numericka-aproximace-derivaci-konecne-diference)
+	     * [Konečné diference a řešení DR Eulerovou metodou](https://user.mendelu.cz/marik/manim/Diference/)
 	 * [Nondimenzionalizace](https://robert-marik.github.io/am/08/#transformace-diferencialni-rovnice) obyčejné diferenciální rovnice
 	     * [Nondimenzionalizace v růstových modelech](https://robert-marik.github.io/am/10/#logisticka-diferencialni-rovnice-s-predatory)
 	 * [Nondimenzionalizace](https://robert-marik.github.io/matematika/numerika/index.html#nondimenzionalizace-a-bezrozmerne-veliciny) parciální diferenciální rovnice
