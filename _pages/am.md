@@ -256,8 +256,16 @@ diferenciálních rovnic, například při studiu rovnice vedení tepla.*
      * [Přednáška](https://robert-marik.github.io/am/11)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni11.html)
      * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/10_Shrnuti) Domácí úkol se nevztahuje k látce tohoto týdne, ale jedná se o shrnutí celého semestru.
-1. 9.5.2023 Základní postupy numerické matematiky.
-Diskretizace a nondimenzionalizace diferenciálních rovnic. Numerické řešení.
+1. 9.5.2023 Základní postupy numerické matematiky. Diskretizace a nondimenzionalizace diferenciálních rovnic. Numerické řešení.
+     * [Konečné diference](https://robert-marik.github.io/am/01/#numericka-aproximace-derivaci-konecne-diference)
+	 * [Nondimenzionalizace](https://robert-marik.github.io/am/08/#transformace-diferencialni-rovnice) obyčejné diferenciální rovnice
+	     * [Nondimenzionalizace v růstových modelech](https://robert-marik.github.io/am/10/#logisticka-diferencialni-rovnice-s-predatory)
+	 * [Nondimenzionalizace](https://robert-marik.github.io/matematika/numerika/index.html#nondimenzionalizace-a-bezrozmerne-veliciny) parciální diferenciální rovnice
+	     * [Vajont, šílenství mužů](https://www.youtube.com/watch?v=H3IwAdrCdgQ&t=3612s)
+	     * [Tsunami v horách](https://www.youtube.com/watch?v=BK5uwnVCeCw&t=2185s)
+		 * [Differential analyzer z Merkuru](https://www.youtube.com/watch?v=LqTL2JBETzE)
+		 * [Differential analyzer ve filmu](https://www.youtube.com/watch?v=TQj3PsSDoUo)
+	 
 1. 16.5.2023 Bude doplněno. Závěrečné shrnutí.
 
 </div>
