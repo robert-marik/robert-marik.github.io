@@ -9,6 +9,7 @@ layout: post
 > ##### Upozornění, aktuality
 >
 > * Dne 2.3.2023 byl zpřesněn postup odevzdávání seminární práce. Součástí bude zapracování drobných připomínek přímo v učebně. Více viz níže.
+> * Při zpracování projektu je možné rozumné využití [umělé inteligence](https://robert-marik.github.io/ntb). 
 {: .block-danger }
 
 
@@ -128,9 +129,14 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
   * Cvičení: [Konkurence](https://robert-marik.github.io/dmp/cviceni/cviceni_09.html). Je k dispozici [zápisník](https://gist.github.com/robert-marik/ac2d0f53d3013c031914948fc824890d) a [první](https://user.mendelu.cz/marik/temp/dmp/nb_diff1.html) a [druhý](https://user.mendelu.cz/marik/temp/dmp/nb_diff2.html) diff. Zápisník [po první úpravě](https://gist.github.com/robert-marik/a03721940147b618802dd69d60a52c64) a [po druhé úpravě](https://gist.github.com/robert-marik/d809801ec278c6254ff90b3255c6a976).
   * Přednáška: [Modely dravce a kořisti](https://robert-marik.github.io/dmp/prednaska/10.html)
 * 11\. týden semestru (týden od 24.4.2023)
+  * Přednáška: [Diskrétní populační modely](https://robert-marik.github.io/dmp/prednaska/11.html)
+  * Cvičení: [Dravec a dvě populace kořisti](https://robert-marik.github.io/dmp/cviceni/cviceni_10.html#model-dravce-a-dvou-populaci-koristi)
 * 12\. týden semestru (týden od 1.5.2023) Výuka se nekoná, hlavní cvičení.
 * 13\. týden semestru (týden od 8.5.2023) Výuka se nekoná, hlavní cvičení.
 * 14\. týden semestru (týden od 15.5.2023)
+  * Cvičení: Práce na zápočtovém projektu, [ukázka využití umělé inteligence](https://robert-marik.github.io/ntb). 
+  * Přednáška: [Diskrétní populační modely](https://robert-marik.github.io/dmp/prednaska/11.html)
+
 
 ## Kombinovaná forma, harmonogram semestru
 
@@ -178,7 +184,7 @@ Z následujícího seznamu se použije to, co je relevantní pro danou práci. N
 * Vyřešení diferenciální rovnice a vizualizace řešení. Pro jednu nebo více počátečních podmínek. Zapsání dat do tabulky.
 * Vyřešení diferenciální rovnice a vizualizace řešení pro několik hodnot parametrů. Zapsání dat do tabulky. 
 * Schopnost zapsat běžné matematické výrazy v systému $\LaTeX$. Schopnost napsat bez typografických chyb text, obsahující matematické vzorce a matematické výrazy.
-* Schopnost upravit vícedruhový model přidáním další intereakce, přidáním více počátečních podmínek, více parametrů nebo jiné parametry apod. Základní práce s tabulkami (uložení řešení do tabulky, vizualizace vybraných sloupců).
+* Schopnost upravit vícedruhový model přidáním další interakce, přidáním více počátečních podmínek, více parametrů nebo jiné parametry apod. Základní práce s tabulkami (uložení řešení do tabulky, vizualizace vybraných sloupců).
 
 
 ## Literatura
