@@ -9,7 +9,7 @@ layout: post
 > ##### Upozornění, aktuality
 >
 > * Dne 2.3.2023 byl zpřesněn postup odevzdávání seminární práce. Součástí bude zapracování drobných připomínek přímo v učebně. Více viz níže.
-> * Při zpracování projektu je možné rozumné využití [umělé inteligence](https://robert-marik.github.io/ntb). Protože umělá inteligence (pravděpodobně) nezvládne napsání seminárky dle požadavků, nejsou žádná omezení kromě obecného rámce, který vydala například [Masarykova univerzita](https://www.muni.cz/o-univerzite/uredni-deska/stanovisko-k-vyuzivani-ai).
+> * Při zpracování seminární práce je možné rozumné využití [umělé inteligence](https://robert-marik.github.io/ntb). Protože umělá inteligence (pravděpodobně) nezvládne napsání seminárky dle požadavků, nejsou žádná omezení kromě obecného rámce, který vydala například [Masarykova univerzita](https://www.muni.cz/o-univerzite/uredni-deska/stanovisko-k-vyuzivani-ai).
 {: .block-danger }
 
 
