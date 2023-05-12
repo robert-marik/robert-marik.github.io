@@ -135,7 +135,7 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
 * 13\. týden semestru (týden od 8.5.2023) Výuka se nekoná, hlavní cvičení.
 * 14\. týden semestru (týden od 15.5.2023)
   * Cvičení: Práce na zápočtovém projektu, [ukázka využití umělé inteligence](https://robert-marik.github.io/ntb). 
-  * Přednáška: [Diskrétní populační modely](https://robert-marik.github.io/dmp/prednaska/11.html)
+  * Přednáška: Difuzní rovnice. Závěrečné shrnutí. 
 
 
 ## Kombinovaná forma, harmonogram semestru
