@@ -82,14 +82,7 @@ k ukončení předmětu.
 <div class="predmet">
 
 
-1. ![0.jpg](/images/mtk/0.jpg) *Start semestru. <BR>Login pro domácí úkoly je stejný jako login do UIS. Heslo najdete v UIS podle [tohoto návodu](<https://user.mendelu.cz/marik/login_webwork.png>),
-tj. přes "List záznamníku učitele" a v něm "Průběžné
-hodnocení".(Návod vznikl před dvěma roky, pokud je aktuální
-design UIS jiný, prosím o případnou aktualizaci a velmi za ni děkuji.)*
-
-     * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/00_Uvod/)
-1. 20.2.2023
-![01.jpg](/images/mtk/01.jpg)
+1. ![01.jpg](/images/mtk/01.jpg)
 *Přednáška o derivacích, základním stavebním kamenu pro studium funkcí.
 Naučíme se matematicky popsat rychlost. Ve cvičení se naučíme derivovat
 a tuto znalost využijeme v týdnech bezprostředně následujících. Naučíme
@@ -99,10 +92,8 @@ dřeva pro stanovení vlhkosti.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/derivace_I)
      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni01.html)
-     * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/01_Vypocet_derivace/)
 
-1. 27.2.2023
-![02.jpg](/images/mtk/02.jpg)
+1. ![02.jpg](/images/mtk/02.jpg)
 *Naučíme se využít derivace k rozumné aproximaci funkcí a fyzikálních
 zákonů. Tím se mnoho vztahů stane významně jednoduššími a matematické
 modely se stanou spočitatelnými i bez superpočítačů. Ukážeme si dále
@@ -112,10 +103,8 @@ rovnic a možnosti jejich numerického řešení.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/derivace_II)
      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni02.html)
-     * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/02_Aplikace_derivace/)
 
-1. 6.3.2023
-![03.jpg](/images/mtk/03.jpg)
+1. ![03.jpg](/images/mtk/03.jpg)
 *Další využití derivací, tentokrát zaměřeno na extrémy. Naučíme se
 hledat optimální stavy systému. Ukážeme si příklady v souladu s intuicí
 (pokud chci vyřezat co nejtužší nosník z kulatiny, musím řezat
@@ -128,10 +117,8 @@ přijdou ke slovu i později.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/derivace_III)
      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni03.html)
-     * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/03_Dalsi_aplikace_derivace/)
 
-1. 13.3.2023
-![04.jpg](/images/mtk/04.jpg)
+1. ![04.jpg](/images/mtk/04.jpg)
 *Derivaci jsme poznali jako míru měřící rychlost změn a nyní si uvedeme
 opačnou úlohu. Znalost rychlosti s jakou se mění nějaká veličina nám
 umožní najít tuto veličinu. Naučíme se například najít změnu teploty u
@@ -139,19 +126,15 @@ procesu, u kterého intenzita tepelné výměny klesá s časem.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/integraly)
      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni04.html)
-     * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/04_Integraly_1/)
 
-1. 20.3.2023
-![05.jpg](/images/mtk/05.jpg)
+1. ![05.jpg](/images/mtk/05.jpg)
 *Integrály pro pokročilé. Naučíme se numericky aproximovat určitý
 integrál a dokonce otevřeme vrátka mimo svět elementárních funkcí.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/integraly2)
      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni05.html)
-     * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/05_Integraly_2/)
 
-1. 27.3.2023
-![06.jpg](/images/mtk/06.jpg)
+1. ![06.jpg](/images/mtk/06.jpg)
 *Fyzikální zákony formulujeme pomocí rychlostí změn (derivací) a
 důsledky hledáme řešením vzniklých rovnic, zpravidla vhodným
 integrováním. Problematika spadá do oblasti diferenciálních rovnic.
@@ -164,10 +147,8 @@ přírodní proces díky zavedení bezrozměrných veličin.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/ode)
       * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni06.html)
-      * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/06_Diferencialni_rovnice/)
-
-1. 3.4.2023
-![07.jpg](/images/mtk/07.jpg)
+   
+1. ![07.jpg](/images/mtk/07.jpg)
 *V materiálovém inženýrství potřebujeme často zohlednit, že v jednom
 směru má materiál jiné vlastnosti než ve směru jiném. Příroda má v
 materiálu jakési dálnice pro transport vody nebo tepla. Matice, které
@@ -177,26 +158,20 @@ Podíváme se i na vedení tepla, zatím bez rovnice vedení tepla.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/matice)
       * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni07.html)
-      * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/07_Matice/)
 
-1. 10.4.2023
-![08.jpg](/images/mtk/08.jpg)](../mtk/mat-slidy/inverzni_matice)
+1. ![08.jpg](/images/mtk/08.jpg)](../mtk/mat-slidy/inverzni_matice)
 *Má-li materiál v jednom směru výrazně odlišné vlastnosti než ve směru
 jiném, můžeme tuto vlastnost zohlednit v matematickém modelu a snažit se
 najít směry, ve kterých je popis úlohy nejjednodušší. Týká se zejména
 dřeva, které má silně odlišné vlastnosti v různých směrech. Ukážeme si,
 jak najít tyto zásadní směry (využívá se řešení soustav lineárních
 rovnic, které si představíme příště) a jak se pomocí nich dají
-zjednodušit materiálové charakteristiky (diagonalizace matice). \<span
-style="color:red"\>Domácí úkol se vztahuje i k látce z následujícího
-týdne.\</span\>*
+zjednodušit materiálové charakteristiky (diagonalizace matice).
 
       * [Přednáška](https://robert-marik.github.io/matematika/inverzni_matice)
       * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni08.html)
-      * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/08_Matice_a_vlastni_vektory/)
 
-1. 17.4.2023
-![09.jpg](/images/mtk/09.jpg)
+1. ![09.jpg](/images/mtk/09.jpg)
 *Při řešení praktických úloh sice pomocí fyziky zpravidla snadno
 sestavíme diferenciální rovnici popisující daný jev, ale vyřešit rovnici
 efektivně bývá i v relativně jednoduchých případech nemožné. Například
@@ -208,8 +183,7 @@ mimo jiné naučíme řešit numericky.*
       * [Přednáška](https://robert-marik.github.io/matematika/soustavy)
       * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni09.html)
 
-1. 24.4.2023
-![10.jpg](/images/mtk/10.jpg)
+1. ![10.jpg](/images/mtk/10.jpg)
 *Zákony zachování jsou základními stavebními kameny mnoha technických
 výpočtů zabývajících se transportem látky, energie, či jakékoliv
 veličiny. Prakticky všechny mají jednotné matematické pozadí a stejnou
@@ -220,16 +194,12 @@ proudění podzemní vody.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/vektorove_pole)
       * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni11.html)
-      * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/09_Difuzni_rovnice/)
 
-1. 1.5.2023
-![11.jpg](/images/mtk/11.jpg) *Integrály je někdy nutné uvažovat i ve více proměnných. Třeba pokud veličina, kterou studujeme, není rozložena v jedné dimenzi podél přímky, ale v rovině. Technické aplikace jsou například při studiu odolnosti nosníků vůči deformaci (kvadratický moment průřezu). Geometrické aplikace jsou například při výpočtech objemů těles nepravidelného tvaru, jako jezero se známým profilem dna. <span style="color:red">Domácí úloha je už jenom opakování.</span>* 
+1. ![11.jpg](/images/mtk/11.jpg) *Integrály je někdy nutné uvažovat i ve více proměnných. Třeba pokud veličina, kterou studujeme, není rozložena v jedné dimenzi podél přímky, ale v rovině. Technické aplikace jsou například při studiu odolnosti nosníků vůči deformaci (kvadratický moment průřezu). Geometrické aplikace jsou například při výpočtech objemů těles nepravidelného tvaru, jako jezero se známým profilem dna. 
       * [Přednáška](https://robert-marik.github.io/matematika/dvojny_integral)
       * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni12.html)
-      * [Domácí úkol](http://um.mendelu.cz/webwork2/MTK_2023_LS/10_Shrnuti/)
 
-1. 8.5.2023
-![12.jpg](/images/mtk/12.jpg) *Numerické modelování je silná zbraň, ale množství parametrů, které je
+1. ![12.jpg](/images/mtk/12.jpg) *Numerické modelování je silná zbraň, ale množství parametrů, které je
 nutno nastavit, by úlohu komplikovalo. Na rovnici vedení tepla si
 ukážeme zavedení bezrozměrných veličin, které toto množství parametrů
 sníží. Navazuje na problematiku transformace diferenciální rovnice do
@@ -237,31 +207,6 @@ bezrozměrných veličin. To jsme nakousli během semestru a teď si
 dovednosti rozšíříme. Ukážeme si výstupy některých numerických metod.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/numerika/)
-
-<!--
-
-![14.jpg](/images/mtk/14.jpg)](../mtk/mat-slidy/shrnuti)
-*Poslední týden výuky. Na přednášce i ve cvičení se budeme věnovat
-závěrečnému shrnutí a utřídění poznatků. U oborů kde cvičení odpadlo
-vinou státního svátku nebo hlavního cvičení se dokončí látka ze cvičení.
-U oborů, kde cvičení neodpadlo, bude opakování a shrnutí.*
-
-      * [Přednáška](/marik/mtk/mat-slidy/shrnuti/)
-
-1. Závěrečné opakování *procvičujte, zkoušejte si již proběhnuté
-písemky, dělejte si výpisky podstatných informací, abyste se v nich
-uměli orientovat a vštípili si je do hlavy a měli tak dobrý základ k
-tomu, abyste z těchto znalostí mohli těžit celý život.* --\>
-
-\</markdown\>
-<!--
-1. [![13.jpg](/images/mtk/13.jpg)](../mtk/mat-slidy/) *Jdeme do finiše. K některým pojmům má smysl se vrátit. Nyní s kvalitnějšími nástroji než jsme měli v době, kdy jsme se s nimi seznámili poprvé.*
-   * Přednáška: Nevešlo se (koronavir)
-   * Cvičení: Nevešlo se (koronavir)
-1. [![14.jpg](/images/mtk/14.jpg)](../mtk/mat-slidy/) **Rezerva pro případ hlavního cvičení nebo vstup do reálného světa představením vybrané aplikace matematiky.**
-   * Přednáška: Nevešlo se (koronavir)
-   * Cvičení: Nevešlo se (koronavir)
--->
 
 </div>
 

@@ -284,7 +284,7 @@ h1, h2 {color: gray}
 .predmet ol li {clear:both;}
 
 .predmet ol {
-    counter-reset:li -1; /* Initiate a counter */
+    counter-reset:li 0; /* Initiate a counter */
     margin-left:0; /* Remove the default left margin */
     padding-left:0; /* Remove the default left padding */
 }
