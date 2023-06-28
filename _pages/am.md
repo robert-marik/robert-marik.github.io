@@ -53,77 +53,14 @@ počítat determinanty třetího řádu. Tyto znalosti je možné načerpat
 nebo si zopakovat [zde](https://robert-marik.github.io/pages/mt/).
 
 
-### Aktuality
+## Rozcestník elektronických informačních zdrojů
 
->* 17.2.2023: Termíny odevzdání úloh na parciální derivace a na gradient posunuty po konzultaci se cvičící o týden. (Čas na vypracování se nikdy nebude zkracovat, ale v některých případech může být prodloužen, tak jako teď. Informace bude vždy zde v aktualitách.)
->* 20.4.2023: Na žádost cvičící prodlouženo odevzdávání zbývajících úloh buď o týden nebo na konec výukové části semestru, podle toho, co nastane dřív.
->* 19.5.2023: [Adresář se zveřejněnými písemkami](https://user.mendelu.cz/marik/am/pisemky/pisemky_2023_LS/) z tohoto semestru. Obsahuje ty písemky, které jsem se rozhodl zveřejnit, včetně náznaku řešení a bodování příkladú.
-{: .block-danger }
+Veškeré informace kromě předášek a cvičení je přesunuta do Moodle. Viz <https://moodle.mendelu.cz> -> Lesnická a dřevařská fakulta -> Inženýrská matematika. Kód pro zápis bude rozeslán mailem na začátku výuky.
 
+## Přednášky 
 
-### Rozcestník elektronických informačních zdrojů
+Rozpis témat je orientační a bude přizpůsobován podle běhu semestru. Aktuální informace v Moodle.
 
-Následující nástroje jsou kriticky důležité pro studium.
-
-* Webová stránka, kterou právě čtete. Veřejně
-přístupné informace dlouhodobějšího charakteru.
-* WeBWorK je primární nástroj pro kontrolu a evidenci práce během
-semestru, odevzdávání domácích úkolů. Tato činnost je dobrovolná a má
-nemalý vliv na závěrečné hodnocení (viz podmínky ukončení).
-  * [presenční forma](https://um.mendelu.cz/webwork2/AM_2023_pres/)
-  * [kombinovaná forma](https://um.mendelu.cz/webwork2/AM_2023_komb/)
-* [UIS](https://is.mendelu.cz), univerzitní informační systém použijeme pro hromadné maily od učitele, přihlašování na zápočty a zkoušky, distribuci hesel pro WeBWorK.
-
-
-## Základní materiály
-
-> Materiály jsou k dispozici z minulých semestrů a mohou být a budou mírně
-> upravovány, aby reflektovaly aktuální situaci
->
-> * [Materiály k přednáškám a cvičením](https://robert-marik.github.io/am) jsou k dispozici jako texty s vloženými odkazy na Youtube mikropřednášky.
-> * [Offline verze v PDF](https://user.mendelu.cz/marik/Aplikovana_matematika.pdf) je také k dispozici.
-> * [Cheatsheet](https://raw.githubusercontent.com/robert-marik/apl-slidy/master/cheatsheet/cheatsheet-AM.pdf) pro Aplikovanou matematiku. Vzorce, důležitá fakta.
-> * Cheatsheet pro [věci související s IT](https://raw.githubusercontent.com/robert-marik/hw-webwork/master/cheatsheet/cheatsheet.pdf): WeBWorK a LaTeX. Základní příkazy.
-{: .block-warning }
-
-
-> -   Cvičení i domácí úkoly bývají tematicky k přednášce ze stejného
->     týdne.
-> -   Domácí úloha se pro presenční studenty zpravidla otevírá v den, kdy
->     se látka z této úlohy probírá na přednášce a je na ni minimálně
->     týden.
-{: .block-tip }
-
-
-
-## Přednášky presenční, LS 2022-2023 (jaro 2023)
-
-
-
--   Rozpis je orientační a bude přizpůsobován podle běhu semestru.
-    Podobně se může posouvat otevírání a uzavírání domácích úloh.
-
-
-<!-- 
-Délka videí vložených do přednášek: Do textů přednášky a cvičení jsou vložena videa jako mikropřednášky. To šetří čas (poslechnu jenom to, kde problematice nerozumím ze čteného textu) i orientaci (nemusí se hledat v hodinovém a delším videu). Přibližná doba videí (čas trvání zaokrouhelný na celé minuty a posčítaný pro přednášku i cvičení) je následující.
-```
-Údaje k 1.3.2021
-Týden 01, prednaska + cviceni 01: 140 minut
-Týden 02, prednaska + cviceni 02: 151 minut
-Týden 03, prednaska + cviceni 03: 81 minut
-Týden 04, prednaska + cviceni 04: 84 minut
-Týden 05, prednaska + cviceni 05: 107 minut
-Týden 06, prednaska + cviceni 06: 104 minut
-Týden 07, prednaska + cviceni 07: 74 minut
-Týden 08, Prednaska + cviceni 08: 100 minut
-Týden 19, Prednaska + cviceni 09: 103 minut
-Týden 10, prednaska + cviceni 10: 80 minut
-Týden 11, prednaska + cviceni 11: v priprave
-``` 
--->
-
-Data v harmonogramu odpovídají úterní přednášce. Cvičení je o den
-později ve středu.
 
 
 {::options parse_block_html="true" /}
@@ -132,8 +69,7 @@ později ve středu.
 
 1. ![00.jpg](/images/am/00.jpg) *Základy matematické gramotnosti. Práce
 se systémem WeBWorK.* Vyzkoušejte si systém pro domácí úlohy.
-     *  [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/00_Uvod/) 
-1. 14.02.2023 ![01.jpg](/images/am/01.jpg) *Při
+1. ![01.jpg](/images/am/01.jpg) *Při
 studiu přírody nás přirozeně zajímají změny veličin, protože jsou hybnou
 silou nebo kvantitativním popisem veškerého dění. Seznámíme se s
 parciálními derivacemi, které dokáží zachytit rychlost změn, ať už v
@@ -143,8 +79,7 @@ derivací odvodíme rovnici vedení tepla v jedné dimenzi. Tu je možno
 použít například při modelování prostupu tepla stěnou nebo oknem.*
      * [Přednáška](https://robert-marik.github.io/am/01)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni01.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/01_Parcialni_derivace)
-1. 21.2.2023 ![02.jpg](/images/am/02.jpg) *Gradient
+1. ![02.jpg](/images/am/02.jpg) *Gradient
 je diferenciální operátor sestavený z parciálních derivací tak, aby
 odkryl další přírodní zákony. Zejména tok. Gradient umožní popsat
 skutečnost, že mnoho přírodních dějů vede k tomu, že se příroda snaží
@@ -156,9 +91,8 @@ proudění hmoty nebo tepla. Ve dřevu jsou tyto dálnice poměrně výrazné a
 jsou v podélném směru.*
      * [Přednáška](https://robert-marik.github.io/am/02)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni02.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/02_Gradient)
-1. 28.2.2023 Koná se jenom cvičení ve středu. V první části dokončení cvičení na gradient. V druhé části typografické konvence v matematice a v textech obsahujících matematiku. (V úterý je hlavní cvičení na oboru TMZD.) 
-1. 7.3.2023 ![03.jpg](/images/am/03.jpg) *Podrobněji se podíváme
+1. Koná se jenom cvičení ve středu. V první části dokončení cvičení na gradient. V druhé části typografické konvence v matematice a v textech obsahujících matematiku. (V úterý je hlavní cvičení na oboru TMZD.) 
+1. ![03.jpg](/images/am/03.jpg) *Podrobněji se podíváme
 na proudění a sestavíme matematický model tak obecného proudění, že jím
 pokryjeme přenos látky i přenos energie. Jako aplikaci ukážeme
 matematický popis libovolného transportního jevu. Toto zahrnuje jako
@@ -167,8 +101,7 @@ difuzi nebo sušení dřeva. Častým praktickým úkolem je modelování
 fyzikálních polí (teploty a vlhkosti) v okolí okna.*
      * [Přednáška](https://robert-marik.github.io/am/03)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni03.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/03_Divergence)
-1. 14.3.2023 ![04.jpg](/images/am/04.jpg) *Seznámíme
+1. ![04.jpg](/images/am/04.jpg) *Seznámíme
 se s dalším vektorovým operátorem. Ten nám umožní rozhodnout, zda je
 proudění nebo silové pole popsatelné skalární veličinou. To souvisí s
 možností či nemožností zavést ve studovaném poli potenciální energii a
@@ -180,8 +113,7 @@ například vodáci, kteří najíždí do proudu napříč a proud je sám sto�
 obloučkem do svého směru.*
      * [Přednáška](https://robert-marik.github.io/am/04)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni04.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/04_Rotace)
-1. 21.3.2023 ![05.jpg](/images/am/05.jpg) *Rozšíříme
+1. ![05.jpg](/images/am/05.jpg) *Rozšíříme
 si výpočet integrálu o možnost integrovat podle libovolné křivky. Tím je
 možno počítat napětí v cylindrických nádobách pod tlakem a zjistit, proč
 trubky praskají podélně. Jinou aplikací je možnost definovat potenciál i
@@ -193,14 +125,12 @@ přednášce. Na takovou souvislost si ovšem budeme muset ještě nějaký ten
 týden počkat.*
      * [Přednáška](https://robert-marik.github.io/am/05)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni05.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/05_Krivkovy_integral)
-1. 28.3.2023 ![06.jpg](/images/am/06.jpg) *Pokračujeme v rozšiřování integračních možností a naučíme se integrovat přes dvourozměrné množiny. Aplikací je například výpočet charakteristik důležitých pro posouzení odolnosti nosníku vůči
+1. ![06.jpg](/images/am/06.jpg) *Pokračujeme v rozšiřování integračních možností a naučíme se integrovat přes dvourozměrné množiny. Aplikací je například výpočet charakteristik důležitých pro posouzení odolnosti nosníku vůči
 deformaci. Jinou aplikací výpočet tlaku na plochu ponořenou napříč
 různými hloubkami.*
      * [Přednáška](https://robert-marik.github.io/am/06)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni06.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/06_Dvojny_integral)
-1. 4.4.2023 ![07.jpg](/images/am/07.jpg) *Poznáme
+1. ![07.jpg](/images/am/07.jpg) *Poznáme
 obecné věty, které dávají fyzikální význam operátorům rotace a
 divergence. Umožňují převod mezi lokálním a globálním tvarem fyzikálních
 zákonů a dávají konečně odpověď na otázku, ke kterým vektorovým polím je
@@ -209,8 +139,7 @@ funkce planimetru nebo výpočet křivkového integrálu druhého druhu pomocí
 kmenové funkce.*
      * [Přednáška](https://robert-marik.github.io/am/07)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni07.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/07_Integraly_souhrn)
-1. 11.4.2023 ![08.jpg](/images/am/08.jpg) *Seznámíme
+1. ![08.jpg](/images/am/08.jpg) *Seznámíme
 se s přirozeným nástrojem pro formulaci fyzikálních zákonů a přírodních
 dějů obecně: s diferenciálními rovnicemi. Fyzika střední školy obsahuje
 zpravidla jenom děje probíhající za speciálních podmínek. V reálu nás v
@@ -224,16 +153,14 @@ rostlinných druhů v různých podmínkách.* Obrázek z <https://www.hauff-tec
 .
      * [Přednáška](https://robert-marik.github.io/am/08)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni08.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/08_Diferencialni_rovnice)
-1. 18.4.2023 ![09.jpg](/images/am/09.jpg) *Linearita.
+1. ![09.jpg](/images/am/09.jpg) *Linearita.
 Důležitá vlastnost, která usnadňuje řešení matematických modelů. Modely,
 které jsou lineární se chovají v jistém smyslu pěkně a mnoho vlastností
 mají podobných. Naprostá většina technicky zajímavých jevů a dějů snese
 lineární aproximaci a tím pádem umožní i jednotný popis řešení tak, jak
 se s ním seznámíme na přednášce.*
      * [Přednáška](https://robert-marik.github.io/am/09)
-     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni09.html)
-1. 25.4.2023 ![10.jpg](/images/am/10.jpg) *Poznáme
+1. ![10.jpg](/images/am/10.jpg) *Poznáme
 speciální soustavy diferenciálních rovnic, které jsou nezávislé na čase
 a umožňují modelování interagujících populací (různé druhy konkurence,
 modely dravce a kořisti apod). Ukážeme si model vývoje vzorců chování a
@@ -244,8 +171,7 @@ model složeného žaludku nebo šíření epidemie až k modelu odtoku srážek
 regionu.*
      * [Přednáška](https://robert-marik.github.io/am/10)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni10.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/09_Autonomni_systemy)
-1. 2.5.2023 ![11.jpg](/images/am/11.jpg) *V této
+1. ![11.jpg](/images/am/11.jpg) *V této
 přednášce se seznámíme s lineárními diferenciálními rovnicemi druhého
 řádu. Těmito rovnicemi je prostoupena v podstatě celá klasická
 mechanika. Mají uplatnění při studiu kmitavých pohybů strun, desek nebo
@@ -256,8 +182,7 @@ diferenciální rovnice druhého řádu objeví při studiu parciálních
 diferenciálních rovnic, například při studiu rovnice vedení tepla.*
      * [Přednáška](https://robert-marik.github.io/am/11)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni11.html)
-     * [Domácí úkol](https://um.mendelu.cz/webwork2/AM_2023_pres/10_Shrnuti) Domácí úkol se nevztahuje k látce tohoto týdne, ale jedná se o shrnutí celého semestru.
-1. 9.5.2023 Základní postupy numerické matematiky. Diskretizace a nondimenzionalizace diferenciálních rovnic. Numerické řešení.
+1. Základní postupy numerické matematiky. Diskretizace a nondimenzionalizace diferenciálních rovnic. Numerické řešení.
      * [Konečné diference](https://robert-marik.github.io/am/01/#numericka-aproximace-derivaci-konecne-diference)
 	     * [Konečné diference a řešení DR Eulerovou metodou](https://user.mendelu.cz/marik/manim/Diference/)
 	 * [Nondimenzionalizace](https://robert-marik.github.io/am/08/#transformace-diferencialni-rovnice) obyčejné diferenciální rovnice
@@ -268,131 +193,8 @@ diferenciálních rovnic, například při studiu rovnice vedení tepla.*
 		 * [Differential analyzer z Merkuru](https://www.youtube.com/watch?v=LqTL2JBETzE)
 		 * [Differential analyzer ve filmu](https://www.youtube.com/watch?v=TQj3PsSDoUo)
 	 
-1. 16.5.2023 Bude doplněno. Závěrečné shrnutí.
 
 </div>
-
-<!--
-
-1. 10.5. a 11.5. 2022 Opakování, poznámky k numerické matematice, Python.
-   * [První kroky](https://gist.github.com/robert-marik/a3b7b095cbb625433e4f223c782ea6d4)
-   * [Obrázky](https://gist.github.com/robert-marik/39326af3283d42d405b37315a460dfcf)
-   * [Grafy](https://gist.github.com/robert-marik/fbdb71509f336d0c6b0162aa80a4f0f8)
-   * [Tabulky](https://gist.github.com/robert-marik/d4abaf37237dfd8214b71b860ac601f4)
-   * [Krabicové grafy, Anova](https://gist.github.com/robert-marik/635affe37158d3fae1ef4f5bf3798dd8)
-   * [Worksheet, kombinace textu a výpočtů](https://gist.github.com/robert-marik/a545aa84f0ec91ab3fe62611835ee300)
-   * [Definice funkcí](https://gist.github.com/robert-marik/d6477e04195410a830535addd502a4db)
-   * [Cykly, citlivostní analýza](https://gist.github.com/robert-marik/6b2667e26c09d1b047efab66ace3a58d)
-   * [Autonomní systém](https://gist.github.com/robert-marik/faec576e20ca03398960437ad6a81e75)
-   * [Numerické experimenty](https://gist.github.com/robert-marik/6ccefd5d473a49ee8597d9df4409ddc9)
-   * [Numerické experimenty s libovolnou přesností](https://gist.github.com/robert-marik/7eb864d3bc5d995772164baf13299e79)
-   * [Tabulka, regrese](https://gist.github.com/robert-marik/83ce4b15af7df4b54e3aa639ba5461d6)
-   * [Tabulka, predikce budoucnosti](https://gist.github.com/robert-marik/3dcc8c5bc635f24913d3de0fa35426dd)
-1. 17.5. a 18.5. 2022 Rezerva, opakování, shrnutí
-   * [Staré písemky](http://user.mendelu.cz/marik/am/pisemky/zadani.pdf)
-   * [Volgograd (kmity mostu)](https://www.youtube.com/watch?v=ZjazqDW8zLI)
-
--->
-
-## Informace k ukončení
-
-> #### Obsah a forma zkouškové písemky
-> -   Maximální zohlednění toho, co se dělalo ve cvičeních na přednáškách
->     a v domácích úlohách. Učte se podle materiálů pro daný semestr,
->     nikoliv podle starých písemek, které již nemusí stoprocentně
->     reflektovat přednášenou náplň.
-> -   Cca polovina teorie a polovina počítání, ale často se to prolíná.
-> -   Důraz bude na difuzní rovnici (co znamenají jednotlivé členy, jak se
->     liší v různých situacích), diferenciální rovnice (sestav podle
->     slovního popisu modelu), parciální derivace ve všech variantách
->     (gradient-divergence-rotace, jednotka, slovní význam), křivkový
->     integrál druhého druhu (z definice nebo pomocí skalárního
->     potenciálu). Písemka z roku 2022 je na adrese
->     <http://user.mendelu.cz/marik/am/pisemky/pisemky_2022/> jako vzor.
-{: .block-tip }
-
-
-Písemka je "openbook". Během písemky je možné pracovat s vlastní
-literaturou na fyzickém nosiči. **Mezi literaturu se nepočítá přístup na
-internet ani programy na matematické výpočty.** Povolené jsou knihy,
-vytištěné materiály k našemu předmětu (přednášky, cvičení, domácí úkoly)
-nebo jakékoliv další texty, vlastní rukopisné poznámky, okopírované
-jakékoliv papíry, ... Literatura nesmí být na elektronickém nosiči
-(notebook, tablet, mobil, čtečka, hodinky, mp3 přehrávač, ...).
-
-Ústní část zkoušky se plánuje jako doplněk k písemce pouze na případnou
-žádost studenta. 
-
-> #### Podmínky na ukončení
->
-> -   Součet bodů za písemku a bonusových bodů (viz domácí úkoly a
->     docházka níže) a musí být **alespoň 25 bodů.** To odpovídá
->     úspěšnosti 50 procent při nevyužití bonusových bodů za práci během
->     semestru sledovanou pomocí domácích úkolů a docházky. To také
->     odpovídá snížení laťky pro písemku u studentů, prokazatelně
->     aktivních během semestru.
-> -   Současně písemka **alespoň na 13 bodů z 50**.
-> -   **Hodnocení.** Podle součtu bodů z písemky, domácích úloh a za
->     docházku. A (56-70 bodů), B (48-55 bodů), C (41-47 bodů), D (33-40
->     bodů), E (25-32 bodů), F (nevyhověl).
-> -   Rychlé ústní ověření znalostí v případě, kdy o ústní zkoušení požádá
->     student, nebo kdy nastanou nějaké nejasnosti ohledně vypracovaných
->     úkolů.
-{: .block-tip }
-
-> #### Domácí úkoly
->
-> Během semestru budou
-> zadávány dobrovolné domácí úlohy v systému
-> [WeBWorK](https://um.mendelu.cz/webwork2/AM_2023_pres). Tyto domácí
-> úlohy se budou započítávat ke zkoušce. Bez jejich plnění je nutné mít u
-> zkoušky polovinu bodu. Při plnění domácích úkolů je možné tuto laťku
-> snížit, jak je popsáno v následujících odstavcích.
->
-> **Bonus za domácí úkoly je nejvýše 20 bodů.** Bonusy jsou přidělovány
-> následovně (součet za všechny úlohy je 160 bodů)
->
-> * 20 bonusových bodů za hodnocení alespoň 90% bodů z domácích úloh, tj. alespoň 144 bodů,
-> * 15 bonusových bodů za alespoň 70% bodů z domácích úloh, tj. alespoň 112 bodů,
-> * 10 bonusových bodů za alespoň 60% bodů z domácích úloh, tj. alespoň 96 bodů, 
-> * 6 bonusových bodů za alespoň 50% bodů z domácích úloh, tj. alespoň 80 bodů.
-> * 4 bonusové body za alespoň 33% bodů z domácích úloh, tj. alespoň 53 bodů.
-{: .block-warning }
-
-> #### Docházka
-> Docházka není povinná, ale
-> minimalizování počtu absencí je vnímáno jako aktivita v semestru a
-> připočteno k dobru u zkoušky.
->
-> **Bonus za docházku** je nejvýše 5 bodů.
->
-> * Za nejvýše tři absence na přednášce 3 bonusové body. Za 4 absence jsou 2 bonusové body, za 5 absencí jeden bonusový bod, za více absencí nic. 
-> * Za nejvýše tři absence na cvičení 2 bonusové body. Za 4 absence jeden bonusový bod, za více absencí nic.
-{: .block-warning }
-
-**Staré písemky** jsou k dispozici. (Pozor na to, že předmět se vyvíjel
-a například před pěti lety vypadala přednášená látka a i závěrečná
-písemka jinak.)
-
-* [zde](https://user.mendelu.cz/marik/am/pisemky/) pro Aplikovanou
-matematiku 
-* [zde](https://user.mendelu.cz/marik/pisemky/inzenyrska_matematika/)
-pro Inženýrskou matematiku. 
-* Staré písemky a jejich řešení nejsou
-zamýšleny jako studijní literatura. Řešení jsou načmrknutá v ruce a
-slouží pro orientaci, kterým směrem se odpověď má ubírat. Jsou užitečné
-jako nápověda a orientační bod pro člověka, který o problematice něco
-ví. Jako primární studijní materiál nebo jako literatura používaná během
-písemky jsou staré písemky bezcenné a spíše přítěží. 
-* Postupem času
-oba předměty Aplikovaná matematika a Inženýrská matematika
-dokonvergovaly do jednoho, takže to je jedno. Dříve však byla náplň
-poněkud odlišná, proto se dívejte na to, zda jsou typy příkladů pro daný
-běh relevantní. (Například tam, kde je v těchto písemkách úloha na
-řešení lineární diferenciální rovnice druhého řádu, bude nahrazena něčím
-jiným. To proto, že od COVIDu19 ruční řešení diferenciální rovnice
-druhého řádu do výuky nezařazujeme, ale soustředíme se na užitečnější
-věci.)
 
 
 ## Několik zásad a tipů na hladké proplutí předmětem
