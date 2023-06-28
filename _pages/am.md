@@ -55,20 +55,17 @@ nebo si zopakovat [zde](https://robert-marik.github.io/pages/mt/).
 
 ## Rozcestník elektronických informačních zdrojů
 
-Veškeré informace kromě předášek a cvičení je přesunuta do Moodle. Viz <https://moodle.mendelu.cz> -> Lesnická a dřevařská fakulta -> Inženýrská matematika. Kód pro zápis bude rozeslán mailem na začátku výuky.
+Veškeré informace kromě předášek a cvičení jsou přesunuty do Moodle. Viz <https://moodle.mendelu.cz> -> Lesnická a dřevařská fakulta -> Inženýrská matematika. Kód pro zápis bude rozeslán mailem na začátku výuky.
 
 ## Přednášky 
 
-Rozpis témat je orientační a bude přizpůsobován podle běhu semestru. Aktuální informace v Moodle.
-
+Rozpis témat je orientační a bude přizpůsobován podle běhu semestru. Aktuální informace budou v Moodle.
 
 
 {::options parse_block_html="true" /}
 
 <div class="predmet">
 
-1. ![00.jpg](/images/am/00.jpg) *Základy matematické gramotnosti. Práce
-se systémem WeBWorK.* Vyzkoušejte si systém pro domácí úlohy.
 1. ![01.jpg](/images/am/01.jpg) *Při
 studiu přírody nás přirozeně zajímají změny veličin, protože jsou hybnou
 silou nebo kvantitativním popisem veškerého dění. Seznámíme se s
@@ -91,7 +88,6 @@ proudění hmoty nebo tepla. Ve dřevu jsou tyto dálnice poměrně výrazné a
 jsou v podélném směru.*
      * [Přednáška](https://robert-marik.github.io/am/02)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni02.html)
-1. Koná se jenom cvičení ve středu. V první části dokončení cvičení na gradient. V druhé části typografické konvence v matematice a v textech obsahujících matematiku. (V úterý je hlavní cvičení na oboru TMZD.) 
 1. ![03.jpg](/images/am/03.jpg) *Podrobněji se podíváme
 na proudění a sestavíme matematický model tak obecného proudění, že jím
 pokryjeme přenos látky i přenos energie. Jako aplikaci ukážeme
