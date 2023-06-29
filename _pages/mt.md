@@ -48,6 +48,11 @@ kteří mají ambice studovat přírodu a prostředí okolo nás prostředky
 dostupnými v 21. století.
 
 
+## Informace
+
+Veškeré informace kromě předášek a cvičení jsou přesunuty do Moodle. Viz <https://moodle.mendelu.cz> -> Lesnická a dřevařská fakulta -> Matematika. Kód pro zápis bude rozeslán mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od spolužáků. Pozor: bude se lišit pro presenční a kombinovanou formu studia.
+
+
 ## Přednášky
 
 

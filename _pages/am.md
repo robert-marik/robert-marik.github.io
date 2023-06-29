@@ -53,9 +53,10 @@ počítat determinanty třetího řádu. Tyto znalosti je možné načerpat
 nebo si zopakovat [zde](https://robert-marik.github.io/pages/mt/).
 
 
-## Rozcestník elektronických informačních zdrojů
+## Informace
 
-Veškeré informace kromě předášek a cvičení jsou přesunuty do Moodle. Viz <https://moodle.mendelu.cz> -> Lesnická a dřevařská fakulta -> Inženýrská matematika. Kód pro zápis bude rozeslán mailem na začátku výuky.
+Veškeré informace kromě předášek a cvičení jsou přesunuty do Moodle. Viz <https://moodle.mendelu.cz> -> Lesnická a dřevařská fakulta -> Inženýrská matematika. Kód pro zápis bude rozeslán mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od spolužáků. 
+
 
 ## Přednášky 
 
