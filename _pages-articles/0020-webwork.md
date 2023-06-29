@@ -19,11 +19,14 @@ Práce v systému není povinná. Jedná se o dobrovonou činnost, díky které 
 * V daném termínu zadání vyřešíte. Benefity, které z tohoto plynou jsou následující.
    * Ověříte si nově nabyté znalosti a průběžně se budete připravovat ke zkoušce.
    * Prokážete, že pracujete průběžně.
+   * Dozvíte se, co je důležité. Teoretické otázky se zaměřují na ty
+     nejpodstatnější věci.
    * Materiály vzniklé během práce na úkolech si můžete přinést jako literaturu ke zkoušce.
    * Práce na úlohách se započítává jako součást zkoušky. Pokud budete řešit úlohy v dostatečné kvalitě, získáte extra body ke zkoušce. To vede ke snížení laťky nutné pro absolvování závěrečné písemky a k lepšímu závěrečnému hodnocení.
    * Úspěch při řešení úloh dodá jistotu před závěrečnou zkouškou. Neúspěch včas upozorní na nutnost zintenzivnit přípravu.
-* Práci můžete kdykoliv přerušit a opět se k ní vrátit. Nemusíte se stresovat časomírou ani počítadlem špatných odpovědí.
-* Každou úlohu si můžete stáhnout i ve formátu PDF, vytisknout, vyřešit offline a odpovědi vyplnit až budete online.   
+* Práci můžete kdykoliv přerušit a opět se k ní vrátit kdykoliv před uzavřením
+  sady úloh.
+* Každou sadu úloh si můžete stáhnout i ve formátu PDF, vytisknout, vyřešit offline a odpovědi vyplnit až budete online.   
 * Naučíte se zapisovat matematické výrazy do počítačové formy. To je nutné pro práci v mnoha programech (Excel, MATLAB apod). Pro začátek pomůže [cheatsheet](https://raw.githubusercontent.com/robert-marik/hw-webwork/master/cheatsheet/cheatsheet.pdf).
 
 Používáme systém na vlastním virtuálním serveru [um.mendelu.cz/webwork2](http://um.mendelu.cz/webwork2).
@@ -31,15 +34,17 @@ Pro detailnější popis čtěte níže.
 
 #### Přístup do systému, login a heslo
 
-Autentizace nesouvisí s UIS a WeBWorK ani UIS nejsou nijak propojeny. Login je stejný jako do UIS a počáteční heslo pro WeBWorK Vám bude přiděleno náhodné a sděleno přes **"List záznamníku učitele"** k předmětu v UIS. Toto heslo si můžete změnit. Nové heslo není nutné volit moc dlouhé, protože se zohledňuje jenom prvních 8 znaků. Pro silné heslo volte raději kombinaci písmen, číslic a dalších znaků na US klávesnici.
-
-Zapomenuté heslo je možné nastavit pouze se součinností admistrátora webu a proces může proto trvat den i více. Heslo pro přístup do WeBWorKu si proto uchovejte. Toto heslo držte v tajnosti a nesdělujte další osobě, protože práce na domácích úlohách bude součástí závěrečného hodnocení.
-
-Používejte pro heslo jenom písmena, čísla, tečku, čárku a základní ASCII znaky. Použití písmene s diakritikou vyvolá chybové hlášení. Stejně tak chybové hlášení je vyvoláno, pokud omylem místo čísla v loginu a hesle napíšete na české klávesnici písmenko s diakritikou.
-
-#### Troubleshooting
-
-Někdy se objeví chybové hlášení. Nejčastěji při zapomenuté české klávesnici, když se snažíte nalogovat a do loginu nebo hesla omylem napíšte znak s diakritikou. 
+* Přístup do domácích úloh je
+zprostředkován přes Moodle. Každá přednášková skupina, kde se WeBWorK používá,
+má založený kurz na <https://moodle.mendelu.cz> a v něm je odkaz na příslušnou
+sadu domácích úloh. 
+* Do Moodle se přihlašujete pomocí Shiboleth login stejnými
+údaji jako do UIS. 
+* Po přihlášení do Moodle se při první návštěvě musíte zapsat
+do správného kurzu. (Vybrat podle názvu fakulty a předmětu.) Kurzy umožňují zapsání sebe sama s použitím hesla. Heslo
+zjistíte na první přednášce, v mailu rozesílaném na začátku semestru anebo od
+spolužáků. Na oborech s kombinovanou formou výuky je heslo jiné pro presenční a
+jiné pro kombinovanou formu.
 
 #### Doporučený postup práce
 
@@ -53,7 +58,6 @@ Někdy se objeví chybové hlášení. Nejčastěji při zapomenuté české kl�
 * Cílem není vypočítat příklad, cílem je naučit se pracovat s daným matematickým aparátem. Tyto znalosti se budou ověřovat u zkoušky. Proto se snažte naformulovat si zdůvodnění i u otázek, kdy se řešení dá uhodnout například vylučovací metodou.
 * Existují programy, CAS - systémy počítačové algebry, provádějící potřebné výpočty samostatně. Naučit se s vhodnými CAS pracovat není nikdy na škodu. Zejména pokud jste si jisti postupem i výsledkem a systém odpověď odmítá vyhodnotit jako správnou, je vhodné si výsledek ověřit v nějakém CAS typu Sage (derivace a integrály, v nouzi maticový počet) nebo Octave/MATLAB (matice, v nouzi derivace a integrály). Nepoužívejte webové aplikace pro jednorázový výpočet jednoho typu úlohy. Nepoužívejte aplikace, které oskenují příklad a nabídnouvýsledek, třeba i s postupem. Máte být profíci, naučte se používat profi nástroje - Matlab nebo Octave, Python (Sage, SymPy, NumPy), R.
 * Pokud se nepodaří otázku zodpovědět na prvních několik pokusů, bývá u mnoha otázek možnost zobrazit si nápovědu nebo si zobrazit cvičnou verzi téže otázky, pouze s jinými hodnotami. U této cvičné verze se zobrazuje i návod a řešení. Můžete si takto nastudovat řešení na jiných číslech nebo dokonce nacvičit zápis odpovědi, protože případné neúspěšné pokusy se u cvičné verze otázky nepočítají. Zohledňují se až další pokusy po návratu k ostré verzi otázky.
-* Existují programy, které rozpoznají vzorec napsaný rukou a převedou jej do zápisu používaného počítači. Jsou to ale špatní pomocníci, snažte se je nepoužívat, nikam Vás neposunou. U mírně složitějších výrazů s nimi je jenom trápení. Výrazy, se kterými budeme pracovat, nebudou komplikované a schopnost zapsat matematický výraz do nějakého softwarového produktu patří k běžné výbavě uživatelů. 
 
 
 #### Zápis matematických výrazů v systému WeBWorK
