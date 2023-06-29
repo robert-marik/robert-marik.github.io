@@ -11,11 +11,18 @@ Systém [WeBWorK](http://um.mendelu.cz/webwork2) umožňuje rozdat
 studentům individualizovaná zadání domácích úloh, kontrolovat
 správnost výsledků a řídit odevzdávání.
 
-Práce v systému není povinná. Jedná se o dobrovonou činnost, díky které se budete učit průběžně během semestru, lépe si zafixujete probíranou látku. Vyučující  budou mít doklad o výsledcích Vašeho úsilí a toto úsilí bude zohledněno u zkoušky na konci semestru.
+Práce v systému není povinná. Jedná se o dobrovonou činnost, díky které se
+budete učit průběžně během semestru, lépe si zafixujete probíranou látku.
+Vyučující  budou mít doklad o výsledcích Vašeho úsilí a toto úsilí bude
+zohledněno u zkoušky na konci semestru.
+
+Zavedení tohoto systému do výuky je jakýmsi reliktem z online výuky v době
+COVID-19. Protože tato aktivita měla dobrou odezvu u studentů, zůstala v mírné
+modifikaci jako dobrovolná činnost i po přechodu do normálu. 
 
 #### Stručný přehled
 
-* Dostanete zadané úlohy: Každý student má vlastní zadání.
+* Dostanete zadané úlohy. Každý student má vlastní zadání a něco přes týden na vyřešení.
 * V daném termínu zadání vyřešíte. Benefity, které z tohoto plynou jsou následující.
    * Ověříte si nově nabyté znalosti a průběžně se budete připravovat ke zkoušce.
    * Prokážete, že pracujete průběžně.
@@ -32,25 +39,26 @@ Práce v systému není povinná. Jedná se o dobrovonou činnost, díky které 
 Používáme systém na vlastním virtuálním serveru [um.mendelu.cz/webwork2](http://um.mendelu.cz/webwork2).
 Pro detailnější popis čtěte níže.
 
-#### Přístup do systému, login a heslo
+#### Přístup do systému
 
 * Přístup do domácích úloh je
 zprostředkován přes Moodle. Každá přednášková skupina, kde se WeBWorK používá,
 má založený kurz na <https://moodle.mendelu.cz> a v něm je odkaz na příslušnou
 sadu domácích úloh. 
-* Do Moodle se přihlašujete pomocí Shiboleth login stejnými
+* Do Moodle se přihlašujete pomocí Shibboleth login stejnými
 údaji jako do UIS. 
 * Po přihlášení do Moodle se při první návštěvě musíte zapsat
-do správného kurzu. (Vybrat podle názvu fakulty a předmětu.) Kurzy umožňují zapsání sebe sama s použitím hesla. Heslo
+do správného kurzu. Vybírejte podle názvu fakulty a předmětu. Moje kurzy umožňují zapsání sebe sama s použitím hesla. Heslo
 zjistíte na první přednášce, v mailu rozesílaném na začátku semestru anebo od
 spolužáků. Na oborech s kombinovanou formou výuky je heslo jiné pro presenční a
-jiné pro kombinovanou formu.
+jiné pro kombinovanou formu. Slouží to k zapsání do správné skupiny, proto
+musíte použít správnou variantu.
 
 #### Doporučený postup práce
 
 * Každý student má svoje zadání s vlastními čísly a funkcemi a s vlastní správnou odpovědí. Zadání kopírují pasáže z přednášky a cvičení, nebo na ně úzce navazují. Při práci mějte tyto materiály otevřené, nejlépe v papírové formě.
 * Úlohy řešte nejprve na papír, čitelně a organizovaně. Takové zápisky si budete moci přinést ke zkoušce. Budou pro vás neobyčejně cenné.
-* Zadání čtěte pozorně, nenechte se odradit délkou. Někdy je tato délka způsobena tím, že je vzorově  vyřešen ukázkový příklad, někdy je přidáno povídání o souvislostech. V takových případech se řešení příkladu bere i jako potvrzení, že jste si přečetli zadání a doprovodný text. Každopádně, mnoho příkladů je možno vyřešit z hlavy nebo na pár řádcích. (Drobná písemná poznámka se však vždycky hodí z důvodu možnosti mít materiály u zkoušky.)
+* Zadání čtěte pozorně, nenechte se odradit délkou. Někdy je tato délka způsobena tím, že je vzorově vyřešen ukázkový příklad, někdy je přidáno povídání o souvislostech. V takových případech se řešení příkladu bere i jako potvrzení, že jste si přečetli zadání a doprovodný text. Každopádně, mnoho příkladů je možno vyřešit z hlavy nebo na pár řádcích. (Drobná písemná poznámka se však vždycky hodí z důvodu možnosti mít materiály u zkoušky.)
 * Úlohy řešte s předstihem. Přesto že bude na každou úlohu minimálně týden a něco času, očekává se maximální nápor v posledních hodinách před ukončením odevzdávání. Proto by systém mohl být nestabilní a těžce použitelný. Toto však nebude omluvou pro nevyřešení zadání. 
 * Diskuse a sdílení informací, zkušeností a dovedností jsou nedílnou součástí akademického života. Nic nebrání tomu, abyste se složitější pasáže učili společně s kolegy, diskutovali na kolejích, v diskusních fórech, v Teams konverzaci a podobně. Pamatujte si však, že na žádné univerzitě nikdo nesmí práci někoho jiného vydávat za své dílo. 
 * Z technických a pedagogických důvodů prakticky nejsou v domácích úlohách příliš časté teoretické otázky a z příkladů jsou zde jenom ty typy, kde je snadné zapsat a vyhodnocovat odpověď počítačem, ale i tak se jedná o poměrně podrobnou průběžnou přípravu ke zkoušce. Často příklad doprovází úvodní shrnující informace, nějaké důležité připomenutí souvislostí nebo slovní shrnutí týkající se procvičovaného pojmu. Vyřešení příkladu je potom chápáno i jako potvrzení, že jste si informaci přečetli, vzali na vědomí, případně jste si udělali výpisky.
