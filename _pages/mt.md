@@ -145,7 +145,7 @@ najít směry, ve kterých je popis úlohy nejjednodušší. Týká se zejména
 dřeva, které má silně odlišné vlastnosti v různých směrech. Ukážeme si,
 jak najít tyto zásadní směry (využívá se řešení soustav lineárních
 rovnic, které si představíme příště) a jak se pomocí nich dají
-zjednodušit materiálové charakteristiky (diagonalizace matice).
+zjednodušit materiálové charakteristiky (diagonalizace matice).*
 
       * [Přednáška](https://robert-marik.github.io/matematika/inverzni_matice)
       * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni08.html)
@@ -174,7 +174,7 @@ proudění podzemní vody.*
       * [Přednáška](https://robert-marik.github.io/matematika/vektorove_pole)
       * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni10.html)
 
-1. ![11.jpg](/images/mtk/11.jpg) *Integrály je někdy nutné uvažovat i ve více proměnných. Třeba pokud veličina, kterou studujeme, není rozložena v jedné dimenzi podél přímky, ale v rovině. Technické aplikace jsou například při studiu odolnosti nosníků vůči deformaci (kvadratický moment průřezu). Geometrické aplikace jsou například při výpočtech objemů těles nepravidelného tvaru, jako jezero se známým profilem dna. 
+1. ![11.jpg](/images/mtk/11.jpg) *Integrály je někdy nutné uvažovat i ve více proměnných. Třeba pokud veličina, kterou studujeme, není rozložena v jedné dimenzi podél přímky, ale v rovině. Technické aplikace jsou například při studiu odolnosti nosníků vůči deformaci (kvadratický moment průřezu). Geometrické aplikace jsou například při výpočtech objemů těles nepravidelného tvaru, jako jezero se známým profilem dna.* 
       * [Přednáška](https://robert-marik.github.io/matematika/dvojny_integral)
       * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni11.html)
 
