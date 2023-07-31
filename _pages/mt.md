@@ -172,11 +172,11 @@ aparát pro popis sušení dřeva, vedení tepla, proudění vody v korytě a
 proudění podzemní vody.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/vektorove_pole)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni11.html)
+      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni10.html)
 
 1. ![11.jpg](/images/mtk/11.jpg) *Integrály je někdy nutné uvažovat i ve více proměnných. Třeba pokud veličina, kterou studujeme, není rozložena v jedné dimenzi podél přímky, ale v rovině. Technické aplikace jsou například při studiu odolnosti nosníků vůči deformaci (kvadratický moment průřezu). Geometrické aplikace jsou například při výpočtech objemů těles nepravidelného tvaru, jako jezero se známým profilem dna. 
       * [Přednáška](https://robert-marik.github.io/matematika/dvojny_integral)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni12.html)
+      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni11.html)
 
 1. ![12.jpg](/images/mtk/12.jpg) *Numerické modelování je silná zbraň, ale množství parametrů, které je
 nutno nastavit, by úlohu komplikovalo. Na rovnici vedení tepla si
@@ -186,7 +186,7 @@ bezrozměrných veličin. To jsme nakousli během semestru a teď si
 dovednosti rozšíříme. Ukážeme si výstupy některých numerických metod.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/numerika/)
-
+      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni12.html)
 </div>
 
 
