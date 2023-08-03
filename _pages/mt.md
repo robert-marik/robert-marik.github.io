@@ -61,6 +61,7 @@ Předmět je rozdělen na 13 přednášek, k přednáškám, jsou cvičení, kte
 
 <div class="predmet">
 
+### Derivace
 
 1. ![01.jpg](/images/mtk/01.jpg)
 *Přednáška o derivacích, základním stavebním kamenu pro studium funkcí.
@@ -100,6 +101,7 @@ přijdou ke slovu i později.*
      * [Přednáška 3](https://robert-marik.github.io/matematika/derivace_III) (Derivace a další užitečné nástroje)
      * [Cvičení 4](https://robert-marik.github.io/matematika/cviceni/cviceni04.html) (Lokální extrémy)
 
+### Integrál
 
 1. ![04.jpg](/images/mtk/04.jpg)
 *Derivaci jsme poznali jako míru měřící rychlost změn a nyní si uvedeme
@@ -117,6 +119,8 @@ integrál a dokonce otevřeme vrátka mimo svět elementárních funkcí.*
      * [Přednáška 5](https://robert-marik.github.io/matematika/integraly2) (Integrály pro pokročilé)
      * [Cvičení 6](https://robert-marik.github.io/matematika/cviceni/cviceni06.html) (Integrály II)
 
+### Diferenciální rovnice
+
 1. ![06.jpg](/images/mtk/06.jpg)
 *Fyzikální zákony formulujeme pomocí rychlostí změn (derivací) a
 důsledky hledáme řešením vzniklých rovnic, zpravidla vhodným
@@ -130,6 +134,8 @@ přírodní proces díky zavedení bezrozměrných veličin.*
 
       * [Přednáška 6](https://robert-marik.github.io/matematika/ode) (Diferenciální rovnice)
       * [Cvičení 7](https://robert-marik.github.io/matematika/cviceni/cviceni07.html) (Diferenciální rovnice)
+
+### Lineární algebra
 
 1. ![07.jpg](/images/mtk/07.jpg)  
 *V materiálovém inženýrství potřebujeme často zohlednit, že v jednom
@@ -166,6 +172,8 @@ mimo jiné naučíme řešit numericky.*
       * [Přednáška 9](https://robert-marik.github.io/matematika/soustavy) (Soustavy lineárních rovnic)
       * [Cvičení 10](https://robert-marik.github.io/matematika/cviceni/cviceni10.html) (Vlastní čísla a směry)
 
+### Transportní děje v přírodě
+
 1. ![10.jpg](/images/mtk/10.jpg)
 *Zákony zachování jsou základními stavebními kameny mnoha technických
 výpočtů zabývajících se transportem látky, energie, či jakékoliv
@@ -177,6 +185,8 @@ proudění podzemní vody.*
 
       * [Přednáška 10](https://robert-marik.github.io/matematika/vektorove_pole) (Vektorová pole, tok, zákony zachování)
       * [Cvičení 11](https://robert-marik.github.io/matematika/cviceni/cviceni11.html) (Parciální derivace, rovnice vedení tepla)
+
+### Ostatní
 
 1. ![11.jpg](/images/mtk/11.jpg) *Integrály je někdy nutné uvažovat i ve více proměnných. Třeba pokud veličina, kterou studujeme, není rozložena v jedné dimenzi podél přímky, ale v rovině. Technické aplikace jsou například při studiu odolnosti nosníků vůči deformaci (kvadratický moment průřezu). Geometrické aplikace jsou například při výpočtech objemů těles nepravidelného tvaru, jako jezero se známým profilem dna.* 
       * [Přednáška 11](https://robert-marik.github.io/matematika/dvojny_integral) (Dvojný integrál)
