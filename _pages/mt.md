@@ -50,7 +50,7 @@ dostupnými v 21. století.
 
 ## Informace
 
-Veškeré informace kromě předášek a cvičení jsou přesunuty do Moodle. Viz <https://moodle.mendelu.cz> -> Lesnická a dřevařská fakulta -> Matematika. Kód pro zápis bude rozeslán mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od spolužáků. Pozor: bude se lišit pro presenční a kombinovanou formu studia.
+Veškeré informace kromě přednášek a cvičení jsou přesunuty do Moodle. Viz <https://moodle.mendelu.cz> -> Lesnická a dřevařská fakulta -> Matematika. Kód pro zápis bude rozeslán mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od spolužáků. Pozor: bude se lišit pro presenční a kombinovanou formu studia.
 
 
 ## Přednášky
@@ -70,7 +70,7 @@ se například pro veličiny spojené fyzikálním vzorcem najít souvislost
 mezi rychlostmi změn těchto veličin. Jedna z aplikací je měření odporu
 dřeva pro stanovení vlhkosti.*
 
-     * [Přednáška](https://robert-marik.github.io/matematika/derivace_I) (Derivace funkce)
+     * [Přednáška 1](https://robert-marik.github.io/matematika/derivace_I) (Derivace funkce)
      * [Cvičení 0](https://robert-marik.github.io/matematika/cviceni/cviceni00.html) (Úvod)
      * [Cvičení 1](https://robert-marik.github.io/matematika/cviceni/cviceni01.html) (Základy derivací)
      * [Cvičení 2](https://robert-marik.github.io/matematika/cviceni/cviceni02.html) (Využití derivací v matematických modelech)
@@ -83,7 +83,7 @@ polynomiální aproximaci, která umožní zachytit jevy z podstaty
 nelineární, jako je například laser. Ale rozebereme si i řešitelnost
 rovnic a možnosti jejich numerického řešení.*
 
-     * [Přednáška](https://robert-marik.github.io/matematika/derivace_II) (Derivace a lineární aproximace)
+     * [Přednáška 2](https://robert-marik.github.io/matematika/derivace_II) (Derivace a lineární aproximace)
      * [Cvičení 3](https://robert-marik.github.io/matematika/cviceni/cviceni03.html) (Výpočet derivací, lineární aproximace)
 
 1. ![03.jpg](/images/mtk/03.jpg)
@@ -97,8 +97,9 @@ identifikovat směr podnětů dávajících do pohybu vedení tepla nebo
 transport látek. A poprvé se seznámíme s bezrozměrnými veličinami, které
 přijdou ke slovu i později.*
 
-     * [Přednáška](https://robert-marik.github.io/matematika/derivace_III) (Derivace a další užřitečné nástroje)
+     * [Přednáška 3](https://robert-marik.github.io/matematika/derivace_III) (Derivace a další užitečné nástroje)
      * [Cvičení 4](https://robert-marik.github.io/matematika/cviceni/cviceni04.html) (Lokální extrémy)
+
 
 1. ![04.jpg](/images/mtk/04.jpg)
 *Derivaci jsme poznali jako míru měřící rychlost změn a nyní si uvedeme
@@ -106,14 +107,14 @@ opačnou úlohu. Znalost rychlosti s jakou se mění nějaká veličina nám
 umožní najít tuto veličinu. Naučíme se například najít změnu teploty u
 procesu, u kterého intenzita tepelné výměny klesá s časem.*
 
-     * [Přednáška](https://robert-marik.github.io/matematika/integraly)
+     * [Přednáška 4](https://robert-marik.github.io/matematika/integraly) (Integrál, integrál a integrál)
      * [Cvičení 5](https://robert-marik.github.io/matematika/cviceni/cviceni05.html) (Integrály I)
 
 1. ![05.jpg](/images/mtk/05.jpg)
 *Integrály pro pokročilé. Naučíme se numericky aproximovat určitý
 integrál a dokonce otevřeme vrátka mimo svět elementárních funkcí.*
 
-     * [Přednáška](https://robert-marik.github.io/matematika/integraly2)
+     * [Přednáška 5](https://robert-marik.github.io/matematika/integraly2) (Integrály pro pokročilé)
      * [Cvičení 6](https://robert-marik.github.io/matematika/cviceni/cviceni06.html) (Integrály II)
 
 1. ![06.jpg](/images/mtk/06.jpg)
@@ -127,10 +128,10 @@ prohloubíme, utřídíme. Poznáme problematiku existence a jednoznačnosti
 řešení. Naučíme se redukovat počet parametrů v modelu popisujícím
 přírodní proces díky zavedení bezrozměrných veličin.*
 
-      * [Přednáška](https://robert-marik.github.io/matematika/ode)
+      * [Přednáška 6](https://robert-marik.github.io/matematika/ode) (Diferenciální rovnice)
       * [Cvičení 7](https://robert-marik.github.io/matematika/cviceni/cviceni07.html) (Diferenciální rovnice)
-   
-1. ![07.jpg](/images/mtk/07.jpg) 
+
+1. ![07.jpg](/images/mtk/07.jpg)  
 *V materiálovém inženýrství potřebujeme často zohlednit, že v jednom
 směru má materiál jiné vlastnosti než ve směru jiném. Příroda má v
 materiálu jakési dálnice pro transport vody nebo tepla. Matice, které
@@ -138,8 +139,8 @@ poznáme na této přednášce, jsou skvělým prostředkem pro zachycení tohot
 jevu. Také matice poznáme jako nástroj na studium deformací materiálu.
 Podíváme se i na vedení tepla, zatím bez rovnice vedení tepla.*
 
-      * [Přednáška](https://robert-marik.github.io/matematika/matice)
-      * [Cvičení 8](https://robert-marik.github.io/matematika/cviceni/cviceni08.html)
+      * [Přednáška 7](https://robert-marik.github.io/matematika/matice) (Lineární algebra (operace s vektory a maticemi))
+      * [Cvičení 8](https://robert-marik.github.io/matematika/cviceni/cviceni08.html) (Matice)
 
 1. ![08.jpg](/images/mtk/08.jpg)
 *Má-li materiál v jednom směru výrazně odlišné vlastnosti než ve směru
@@ -150,8 +151,8 @@ jak najít tyto zásadní směry (využívá se řešení soustav lineárních
 rovnic, které si představíme příště) a jak se pomocí nich dají
 zjednodušit materiálové charakteristiky (diagonalizace matice).*
 
-      * [Přednáška](https://robert-marik.github.io/matematika/inverzni_matice)
-      * [Cvičení 9](https://robert-marik.github.io/matematika/cviceni/cviceni09.html)
+      * [Přednáška 8](https://robert-marik.github.io/matematika/inverzni_matice) (Inverzní matice, determinanty)
+      * [Cvičení 9](https://robert-marik.github.io/matematika/cviceni/cviceni09.html) (Determinanty, soustavy rovnic)
 
 1. ![09.jpg](/images/mtk/09.jpg)
 *Při řešení praktických úloh sice pomocí fyziky zpravidla snadno
@@ -162,8 +163,8 @@ Zpravidla se takové úlohy převádí na řešení soustav lineárních rovnic.
 Proto soustavy patří k malé násobilce inženýra a v této přednášce se je
 mimo jiné naučíme řešit numericky.*
 
-      * [Přednáška](https://robert-marik.github.io/matematika/soustavy)
-      * [Cvičení 10](https://robert-marik.github.io/matematika/cviceni/cviceni10.html)
+      * [Přednáška 9](https://robert-marik.github.io/matematika/soustavy) (Soustavy lineárních rovnic)
+      * [Cvičení 10](https://robert-marik.github.io/matematika/cviceni/cviceni10.html) (Vlastní čísla a směry)
 
 1. ![10.jpg](/images/mtk/10.jpg)
 *Zákony zachování jsou základními stavebními kameny mnoha technických
@@ -174,11 +175,11 @@ tepla), kterou si představíme v této přednášce. Ukážeme si jednotný
 aparát pro popis sušení dřeva, vedení tepla, proudění vody v korytě a
 proudění podzemní vody.*
 
-      * [Přednáška](https://robert-marik.github.io/matematika/vektorove_pole)
+      * [Přednáška 10](https://robert-marik.github.io/matematika/vektorove_pole) (Vektorová pole, tok, zákony zachování)
       * [Cvičení 11](https://robert-marik.github.io/matematika/cviceni/cviceni11.html) (Parciální derivace, rovnice vedení tepla)
 
 1. ![11.jpg](/images/mtk/11.jpg) *Integrály je někdy nutné uvažovat i ve více proměnných. Třeba pokud veličina, kterou studujeme, není rozložena v jedné dimenzi podél přímky, ale v rovině. Technické aplikace jsou například při studiu odolnosti nosníků vůči deformaci (kvadratický moment průřezu). Geometrické aplikace jsou například při výpočtech objemů těles nepravidelného tvaru, jako jezero se známým profilem dna.* 
-      * [Přednáška](https://robert-marik.github.io/matematika/dvojny_integral)
+      * [Přednáška 11](https://robert-marik.github.io/matematika/dvojny_integral) (Dvojný integrál)
       * [Cvičení 12](https://robert-marik.github.io/matematika/cviceni/cviceni12.html) (Dvojný integrál)
 
 1. ![12.jpg](/images/mtk/12.jpg) *Numerické modelování je silná zbraň, ale množství parametrů, které je
@@ -188,7 +189,7 @@ sníží. Navazuje na problematiku transformace diferenciální rovnice do
 bezrozměrných veličin. To jsme nakousli během semestru a teď si
 dovednosti rozšíříme. Ukážeme si výstupy některých numerických metod.*
 
-      * [Přednáška](https://robert-marik.github.io/matematika/numerika/)
+      * [Přednáška 12](https://robert-marik.github.io/matematika/numerika/) (Vybrané postupy numerické matematiky)
       * [Cvičení 13](https://robert-marik.github.io/matematika/cviceni/cviceni13.html) (Shrnutí)
 </div>
 
