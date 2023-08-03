@@ -55,6 +55,7 @@ Veškeré informace kromě předášek a cvičení jsou přesunuty do Moodle. Vi
 
 ## Přednášky
 
+Předmět je rozdělen na 13 přednášek, k přednáškám, jsou cvičení, která dle rozvrhu a státních svátků mohou nabrat až několikatýdení zpoždění.
 
 {::options parse_block_html="true" /}
 
@@ -69,8 +70,10 @@ se například pro veličiny spojené fyzikálním vzorcem najít souvislost
 mezi rychlostmi změn těchto veličin. Jedna z aplikací je měření odporu
 dřeva pro stanovení vlhkosti.*
 
-     * [Přednáška](https://robert-marik.github.io/matematika/derivace_I)
-     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni01.html)
+     * [Přednáška](https://robert-marik.github.io/matematika/derivace_I) (Derivace funkce)
+     * [Cvičení 0](https://robert-marik.github.io/matematika/cviceni/cviceni00.html) (Úvod)
+     * [Cvičení 1](https://robert-marik.github.io/matematika/cviceni/cviceni01.html) (Základy derivací)
+     * [Cvičení 2](https://robert-marik.github.io/matematika/cviceni/cviceni02.html) (Využití derivací v matematických modelech)
 
 1. ![02.jpg](/images/mtk/02.jpg)
 *Naučíme se využít derivace k rozumné aproximaci funkcí a fyzikálních
@@ -80,8 +83,8 @@ polynomiální aproximaci, která umožní zachytit jevy z podstaty
 nelineární, jako je například laser. Ale rozebereme si i řešitelnost
 rovnic a možnosti jejich numerického řešení.*
 
-     * [Přednáška](https://robert-marik.github.io/matematika/derivace_II)
-     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni02.html)
+     * [Přednáška](https://robert-marik.github.io/matematika/derivace_II) (Derivace a lineární aproximace)
+     * [Cvičení 3](https://robert-marik.github.io/matematika/cviceni/cviceni03.html) (Výpočet derivací, lineární aproximace)
 
 1. ![03.jpg](/images/mtk/03.jpg)
 *Další využití derivací, tentokrát zaměřeno na extrémy. Naučíme se
@@ -94,8 +97,8 @@ identifikovat směr podnětů dávajících do pohybu vedení tepla nebo
 transport látek. A poprvé se seznámíme s bezrozměrnými veličinami, které
 přijdou ke slovu i později.*
 
-     * [Přednáška](https://robert-marik.github.io/matematika/derivace_III)
-     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni03.html)
+     * [Přednáška](https://robert-marik.github.io/matematika/derivace_III) (Derivace a další užřitečné nástroje)
+     * [Cvičení 4](https://robert-marik.github.io/matematika/cviceni/cviceni04.html) (Lokální extrémy)
 
 1. ![04.jpg](/images/mtk/04.jpg)
 *Derivaci jsme poznali jako míru měřící rychlost změn a nyní si uvedeme
@@ -104,14 +107,14 @@ umožní najít tuto veličinu. Naučíme se například najít změnu teploty u
 procesu, u kterého intenzita tepelné výměny klesá s časem.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/integraly)
-     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni04.html)
+     * [Cvičení 5](https://robert-marik.github.io/matematika/cviceni/cviceni05.html) (Integrály I)
 
 1. ![05.jpg](/images/mtk/05.jpg)
 *Integrály pro pokročilé. Naučíme se numericky aproximovat určitý
 integrál a dokonce otevřeme vrátka mimo svět elementárních funkcí.*
 
      * [Přednáška](https://robert-marik.github.io/matematika/integraly2)
-     * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni05.html)
+     * [Cvičení 6](https://robert-marik.github.io/matematika/cviceni/cviceni06.html) (Integrály II)
 
 1. ![06.jpg](/images/mtk/06.jpg)
 *Fyzikální zákony formulujeme pomocí rychlostí změn (derivací) a
@@ -125,7 +128,7 @@ prohloubíme, utřídíme. Poznáme problematiku existence a jednoznačnosti
 přírodní proces díky zavedení bezrozměrných veličin.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/ode)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni06.html)
+      * [Cvičení 7](https://robert-marik.github.io/matematika/cviceni/cviceni07.html) (Diferenciální rovnice)
    
 1. ![07.jpg](/images/mtk/07.jpg) 
 *V materiálovém inženýrství potřebujeme často zohlednit, že v jednom
@@ -136,7 +139,7 @@ jevu. Také matice poznáme jako nástroj na studium deformací materiálu.
 Podíváme se i na vedení tepla, zatím bez rovnice vedení tepla.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/matice)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni07.html)
+      * [Cvičení 8](https://robert-marik.github.io/matematika/cviceni/cviceni08.html)
 
 1. ![08.jpg](/images/mtk/08.jpg)
 *Má-li materiál v jednom směru výrazně odlišné vlastnosti než ve směru
@@ -148,7 +151,7 @@ rovnic, které si představíme příště) a jak se pomocí nich dají
 zjednodušit materiálové charakteristiky (diagonalizace matice).*
 
       * [Přednáška](https://robert-marik.github.io/matematika/inverzni_matice)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni08.html)
+      * [Cvičení 9](https://robert-marik.github.io/matematika/cviceni/cviceni09.html)
 
 1. ![09.jpg](/images/mtk/09.jpg)
 *Při řešení praktických úloh sice pomocí fyziky zpravidla snadno
@@ -160,7 +163,7 @@ Proto soustavy patří k malé násobilce inženýra a v této přednášce se j
 mimo jiné naučíme řešit numericky.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/soustavy)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni09.html)
+      * [Cvičení 10](https://robert-marik.github.io/matematika/cviceni/cviceni10.html)
 
 1. ![10.jpg](/images/mtk/10.jpg)
 *Zákony zachování jsou základními stavebními kameny mnoha technických
@@ -172,11 +175,11 @@ aparát pro popis sušení dřeva, vedení tepla, proudění vody v korytě a
 proudění podzemní vody.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/vektorove_pole)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni10.html)
+      * [Cvičení 11](https://robert-marik.github.io/matematika/cviceni/cviceni11.html) (Parciální derivace, rovnice vedení tepla)
 
 1. ![11.jpg](/images/mtk/11.jpg) *Integrály je někdy nutné uvažovat i ve více proměnných. Třeba pokud veličina, kterou studujeme, není rozložena v jedné dimenzi podél přímky, ale v rovině. Technické aplikace jsou například při studiu odolnosti nosníků vůči deformaci (kvadratický moment průřezu). Geometrické aplikace jsou například při výpočtech objemů těles nepravidelného tvaru, jako jezero se známým profilem dna.* 
       * [Přednáška](https://robert-marik.github.io/matematika/dvojny_integral)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni11.html)
+      * [Cvičení 12](https://robert-marik.github.io/matematika/cviceni/cviceni12.html) (Dvojný integrál)
 
 1. ![12.jpg](/images/mtk/12.jpg) *Numerické modelování je silná zbraň, ale množství parametrů, které je
 nutno nastavit, by úlohu komplikovalo. Na rovnici vedení tepla si
@@ -186,7 +189,7 @@ bezrozměrných veličin. To jsme nakousli během semestru a teď si
 dovednosti rozšíříme. Ukážeme si výstupy některých numerických metod.*
 
       * [Přednáška](https://robert-marik.github.io/matematika/numerika/)
-      * [Cvičení](https://robert-marik.github.io/matematika/cviceni/cviceni12.html)
+      * [Cvičení 13](https://robert-marik.github.io/matematika/cviceni/cviceni13.html) (Shrnutí)
 </div>
 
 
