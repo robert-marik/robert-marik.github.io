@@ -67,6 +67,8 @@ Rozpis témat je orientační a bude přizpůsobován podle běhu semestru. Aktu
 
 <div class="predmet">
 
+### Diferenciální operátory
+
 1. ![01.jpg](/images/am/01.jpg) *Při
 studiu přírody nás přirozeně zajímají změny veličin, protože jsou hybnou
 silou nebo kvantitativním popisem veškerého dění. Seznámíme se s
@@ -110,6 +112,9 @@ například vodáci, kteří najíždí do proudu napříč a proud je sám sto�
 obloučkem do svého směru.*
      * [Přednáška](https://robert-marik.github.io/am/04)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni04.html)
+
+### Integrály funkce více proměnných
+
 1. ![05.jpg](/images/am/05.jpg) *Rozšíříme
 si výpočet integrálu o možnost integrovat podle libovolné křivky. Tím je
 možno počítat napětí v cylindrických nádobách pod tlakem a zjistit, proč
@@ -136,6 +141,9 @@ funkce planimetru nebo výpočet křivkového integrálu druhého druhu pomocí
 kmenové funkce.*
      * [Přednáška](https://robert-marik.github.io/am/07)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni07.html)
+
+### Diferenciální rovnice
+
 1. ![08.jpg](/images/am/08.jpg) *Seznámíme
 se s přirozeným nástrojem pro formulaci fyzikálních zákonů a přírodních
 dějů obecně: s diferenciálními rovnicemi. Fyzika střední školy obsahuje
@@ -192,52 +200,5 @@ diferenciálních rovnic, například při studiu rovnice vedení tepla.*
 	 
 
 </div>
-
-
-## Několik zásad a tipů na hladké proplutí předmětem
-
-##### Matematika není počítání.
-
-Nepoužíváme paradigma, že matematika jsou příklady a jejich počítání.
-Toto paradigma je sice zažité, protože příklady se dobře učí a snadno
-zkouší ve všech fázích vzdělávání, ale falešné a patří do minulého
-století. Proto jsou **příklady pouze malou částí zkoušky**. Jsou
-jednoduché, protože spíše než získávat rutinu na počítání by si na nich
-studenti měli osahat pojmy zmiňované na přednáškách a uvědomit postupy a
-souvislosti.
-
-##### Literatura u zkoušky není všespasitelná.
-
-Literatura u zkoušky pomůže jenom tomu, kdo se v problematice orientuje,
-má **základní znalosti v hlavě** a je schopen si dohledat detaily v
-litartuře a porozumět jim.
-
-##### Jako vážně domácí úkoly?
-
-Zkouška je složitelná po splnění běžných požadavků (polovina bodů ze
-zkouškové písemky) i bez jakékoliv aktivity během semestru. Zkušenosti
-však ukazují, že pracovat během semestru a **získávat bonusové body se
-velmi vyplácí**, zejména studentům, kteří takzvaně "nemají buňky na
-matematiku".
-
-##### Samostudium je normální.
-
-Opustíme obvyklé schema, kdy učitel odprezentuje veškerou náplň
-přednášky, ale po půl hodině bohužel zůstává v obraze jenom malé
-procento posluchačů. **Na přednášce se vysvětlí základní principy** a
-předpokládá se, že studenti se seznámí se zbytkem přednbášky
-individuálním čtením.
-
-##### Videa opravdu nejsou to pravé.
-
-Je málo nudnějších věcí než youtube přednáška nebo počítání příkladů z
-matematiky. Stejné informace získáte čtením textu mnohem rychleji.
-Neexistuje zdlouhavější činnost, než vyhledávání informace ve videu.
-Text prohledáte mnohem rychleji. Nehledejte kouzelná videa, která vám
-znalosti "nalijí do hlavy". **Snažte se pracovat s textem.** Videa a
-videopřednášky použijte až jako poslední záchranu. Jsou skvělé pokud
-absolutně tápete., Ale i v takovém případě se snažte postupně přecházet
-od sledování videí k práci s textem a případně využijte konzultace nebo
-se ptejte v hodině.
 
 

@@ -1,0 +1,57 @@
+---
+title: Rady ke studiu
+author: Robert Mařík
+date: 2023-08-01
+category: Jekyll
+layout: post
+---
+
+Výuka matematiky si s sebou nese mnohá nedorozumění, způsobená stylem výuky na nižších stupních vzdělání. Nyní je však na čase začít vnímat matematiku ne jako nástroj k řešení matematických úloh, ale jako nástroj, který umožní lepší pochopení světa kolem nás a umožní popsat, jak funguje příroda a přídorní zákony.
+
+Níže je několik zásad a tipů na hladké proplutí předměty Matematika a Inženýrská (Aplikovaná) matematika.
+
+##### Matematika není počítání.
+
+Nepoužíváme paradigma, že matematika jsou příklady a jejich počítání.
+Toto paradigma je sice zažité, protože příklady se dobře učí a snadno
+zkouší ve všech fázích vzdělávání, ale falešné a patří do minulého
+století. Proto jsou **příklady pouze malou částí zkoušky**. Jsou
+jednoduché, protože spíše než získávat rutinu na počítání by si na nich
+studenti měli osahat pojmy zmiňované na přednáškách a uvědomit postupy a
+souvislosti.
+
+##### Literatura u zkoušky není všespasitelná.
+
+Literatura u zkoušky pomůže jenom tomu, kdo se v problematice orientuje,
+má **základní znalosti v hlavě** a je schopen si dohledat detaily v
+litartuře a porozumět jim.
+
+##### Jako vážně domácí úkoly?
+
+Zkouška je složitelná po splnění běžných požadavků (polovina bodů ze
+zkouškové písemky) i bez jakékoliv aktivity během semestru. Zkušenosti
+však ukazují, že pracovat během semestru a **získávat bonusové body se
+velmi vyplácí**, zejména studentům, kteří takzvaně "nemají buňky na
+matematiku".
+
+##### Samostudium je normální.
+
+Opustíme obvyklé schema, kdy učitel odprezentuje veškerou náplň
+přednášky, ale po půl hodině bohužel zůstává v obraze jenom malé
+procento posluchačů. **Na přednášce se vysvětlí základní principy** a
+předpokládá se, že studenti se seznámí se zbytkem přednbášky
+individuálním čtením.
+
+##### Videa opravdu nejsou to pravé.
+
+Je málo nudnějších věcí než youtube přednáška nebo počítání příkladů z
+matematiky. Stejné informace získáte čtením textu mnohem rychleji.
+Neexistuje zdlouhavější činnost, než vyhledávání informace ve videu.
+Text prohledáte mnohem rychleji. Nehledejte kouzelná videa, která vám
+znalosti "nalijí do hlavy". **Snažte se pracovat s textem.** Videa a
+videopřednášky použijte až jako poslední záchranu. Jsou skvělé pokud
+absolutně tápete., Ale i v takovém případě se snažte postupně přecházet
+od sledování videí k práci s textem a případně využijte konzultace nebo
+se ptejte v hodině.
+
+
