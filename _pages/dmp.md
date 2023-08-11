@@ -6,13 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-> ##### Upozornění, aktuality
->
-> * Dne 2.3.2023 byl zpřesněn postup odevzdávání seminární práce. Součástí bude zapracování drobných připomínek přímo v učebně. Více viz níže.
-> * Při zpracování seminární práce je možné rozumné využití [umělé inteligence](https://robert-marik.github.io/ntb_GPT). Protože umělá inteligence (pravděpodobně) nezvládne napsání seminárky dle požadavků, nejsou žádná omezení kromě obecného rámce, který vydala například [Masarykova univerzita](https://www.muni.cz/o-univerzite/uredni-deska/stanovisko-k-vyuzivani-ai).
-{: .block-danger }
-
-
 
 {% include float_image.html image_path="/images/dmp_logo.jpg" description='Liška ostrovní. Příklad živočišného druhu, který se podařilo zachránit před vyhynutím [v rekordně krátkém čase](https://www.nature.org/en-us/about-us/where-we-work/united-states/california/stories-in-california/endangered-island-foxes-break-record-for-fast-recovery/"), během dekády. K tomu byla nutná komplexní znalost ekosystému a analýza, jak se projeví jednotlivé zásahy do vztahů v tomto ekosystému. Zdroj: commons.wikimedia.org.' %}
 
@@ -70,8 +63,6 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
     JupyterHub serveru. Do tohoto souboru případně vepíšu komentáře a
     požadavky na úpravu a přes odevzdávárnu dostanete zprávu, je-li vše
     OK, nebo jestli je potřeba něco upravit.
--   > **Aktualizace 2.3.2023** Výše popsaným postupem budou řešeny     zásadnější a závažné připomínky k práci. Plně uznána bude práce po     zapracování drobnějších připomínek přímo v učebně. Termíny budou     vypsány v UIS, přihlašování bude jako na klasické zkoušky nebo    zápočty.
-    {: .block-warning }
 -   > **Návrh na seminární práci 1** Některá modifikace Levinsova modelu metapopulací, návrhy jsou na konci [cvičení](https://robert-marik.github.io/dmp/cviceni/cviceni_08.html).
 -   > **Návrh na seminární práci 2** Model [konkurence tří druhů](https://robert-marik.github.io/dmp/prednaska/09.html#model-konkurence-tri-druhu) je možno snadno přeměnit na model konkurence dvou druhů majících společného predátora. Například změnou třetí rovnice na 
     >
@@ -80,11 +71,6 @@ Detaily k zápočtové písemce budou zveřejněny během semestru. Zjednodušen
     > bychom dostali model dravce a kořisti s konkurencí mezi populacemi kořisti a predátorem Lotkova--Volterrova typu. Ukažte, že dravec může být činitelem, který jedné z populací může zprostředkovat přežití. Ukažte, že v případě, kdy je konkurence taková, že jeden druh dominuje a druhý vymírá, může přítomnost predátora dominanci zastavit a tím zprostředkovat přežití jeho kořisti. Najděte tedy nastavení parametrů tak, aby simulace, které se liší jenom počáteční hodnotou predátora (jednou nula a jednou nenulová hodnota) vypadaly například tak jako na následujícím obrázku. Tato simulace podporuje názor, že pestřejší společenstva jsou stabilnější, protože po odstranění dravce by zůstal jenom jediný druh. ![](/images/korist-korist-dravec.png){:class="img-responsive"}
 
 ## Presenční forma, harmonogram semestru
-
-> -   Přednášky čtvrtek 11:00–13:00, učebna B44
-> -   Cvičení úterý 13:00–14:00 a 14:00–15:00, učebna B514
-> -   Cvičení je před přednáškou a až na několik výjimek se vztahuje k
->     náplni přednášky z týdne předcházejícího cvičení.
 
 <!-- -->
 

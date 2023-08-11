@@ -31,8 +31,7 @@ litartuře a porozumět jim.
 Zkouška je složitelná po splnění běžných požadavků (polovina bodů ze
 zkouškové písemky) i bez jakékoliv aktivity během semestru. Zkušenosti
 však ukazují, že pracovat během semestru a **získávat bonusové body se
-velmi vyplácí**, zejména studentům, kteří takzvaně "nemají buňky na
-matematiku".
+velmi vyplácí**, zejména studentům, kteří jsou si v matematice nejistí.
 
 ##### Samostudium je normální.
 
