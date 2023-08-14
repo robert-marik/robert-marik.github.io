@@ -67,3 +67,5 @@ collections:
     output: true
   pages-articles:
     output: true
+  pages-it:
+    output: true

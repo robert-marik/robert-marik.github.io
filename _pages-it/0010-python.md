@@ -1,7 +1,7 @@
 ---
 title: Python
 author: Robert Mařík
-date: 2022-02-15
+date: 2000-02-15
 layout: post
 permalink: python
 ---
