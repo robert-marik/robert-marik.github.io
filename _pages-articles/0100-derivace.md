@@ -40,7 +40,7 @@ Jako analogii si můžeme představit měření rychlosti auta metrem a časomí
 
 ## Vylepšení jednoduchého přístupu
 
-Hledání cesty umožňující přechod od průměrné rychlosti k rychlosti okamžité nebylo v historii vůbec snadné a ani přímočaré. Vyžadovalo to na tehdejší dobu použití převratných myšlenek, vytvoření nového matematického aparátu a jeho obhájení před vědecko uveřejností. To trvalo více než sto let naplněných náročnou prací největších mozků tehdejší doby. Přes to všechno, hlavní linie cesty k derivaci je přímým rozšířením našeho jednoduchého přístupu. Tento přístup stačí doplnit, opravit, vylepšit. To provedeme ve dvou krocích. 
+Hledání cesty umožňující přechod od průměrné rychlosti k rychlosti okamžité nebylo v historii vůbec snadné a ani přímočaré. Vyžadovalo to na tehdejší dobu použití převratných myšlenek, vytvoření nového matematického aparátu a jeho obhájení před vědeckou veřejností. To trvalo více než sto let naplněných náročnou prací největších mozků tehdejší doby. Přes to všechno, hlavní linie cesty k derivaci je přímým rozšířením našeho jednoduchého přístupu. Tento přístup stačí doplnit, opravit, vylepšit. To provedeme ve dvou krocích. 
 
 * Prvním vylepšením je naučit se počítat průměrnou rychlost pro intervaly libovolné (kladné) délky.
 * Druhým vylepšením je najít nějaké rozumné rozšíření, které by nám umožnilo pracovat i s intervaly nekonečně malými, s intervaly prakticky nulové délky.
@@ -52,7 +52,7 @@ Rovnice (1) má poté tvar
 
 $$\frac{T(10)-T(0)}{10}$$
 
-a je snadné ji zobecnit tak, aby počáteční čast byl $t$ a délka intervalu $h$. Průměrná rychlost v okamžiku začínajícím v čase $t$ a trvajícím po dobu $h$ je
+a je snadné ji zobecnit tak, aby počáteční čas byl $t$ a délka intervalu $h$. Průměrná rychlost v okamžiku začínajícím v čase $t$ a trvajícím po dobu $h$ je
 
 $$\frac{T(t+h)-T(t)}{h}.\tag{4}$$
 
@@ -60,7 +60,7 @@ Tím je splněn první bod, umíme počítat průměrnou rychlost na intervalu l
 
 #### Od průměrné k okamžité rychlosti
 
-Největším problémem bylo, že v aplikacích bychom místo průměrné rychlosti potřebovali rychlost okamžitou. Teoreticky by stačilo vzít stejný počáteční i koncový bod intervalu, na kterém počítáme průměr. Tedy použít $h=0$. Ja však evidentní, že v předchozím vzorci volba $h=0$ nemá smysl. Na druhou stranu je však evidentní i to, že nějaká okamžitá rychlost fyzikálně smysl má. Aby matematikové vyřešili tuto nesnáz, došli postupně k pojmu _limita funkce_. Můžeme si představit, že vypočítat limitu funkce v bodě znamená buď najít funkční hodnotu (pokud tato existuje), nebo její nejlepší rozumnou náhradu, pokud funkční hodnota neexistuje, ale existuje nějaká její rozumná náhrada. V jakém smyslu je zde použito slovo "rozumná náhrada" je nad rámec tohoto textu, ale v podstatě to znamená, že pokud je možné funkci spojitě rozšířit i do dosud nedefinovaného bodu, je limita prostředek, který toto zařídí. Stačí tedy ve vzorci (4) dosadit (ve smyslu limity) $h=0$ a tím dostáváme okamžitou rychlost, s jakou se mění teplota v čase. V matematice a v aplikacích tuto veličinu nazýváme derivace teploty podle času. Formálně zapsáno
+Největším problémem bylo, že v aplikacích bychom místo průměrné rychlosti potřebovali rychlost okamžitou. Teoreticky by stačilo vzít stejný počáteční i koncový bod intervalu, na kterém počítáme průměr. Tedy použít $h=0$. Je však evidentní, že v předchozím vzorci volba $h=0$ nemá smysl. Na druhou stranu je však evidentní i to, že nějaká okamžitá rychlost fyzikálně smysl má. Aby matematici vyřešili tuto nesnáz, došli postupně k pojmu _limita funkce_. Můžeme si představit, že vypočítat limitu funkce v bodě znamená buď najít funkční hodnotu (pokud tato existuje), nebo její nejlepší rozumnou náhradu, pokud funkční hodnota neexistuje, ale existuje nějaká její rozumná náhrada. V jakém smyslu je zde použito slovo "rozumná náhrada" je nad rámec tohoto textu, ale v podstatě to znamená, že pokud je možné funkci spojitě rozšířit i do dosud nedefinovaného bodu, je limita prostředek, který toto zařídí. Stačí tedy ve vzorci (4) dosadit (ve smyslu limity) $h=0$ a tím dostáváme okamžitou rychlost, s jakou se mění teplota v čase. V matematice a v aplikacích tuto veličinu nazýváme derivace teploty podle času. Formálně zapsáno
 
 $$\frac{\mathrm dT}{\mathrm dt}:=\lim_{h\to 0}\frac{T(t+h)-T(t)}{h},\tag{5}$$
 
@@ -70,17 +70,17 @@ Toto je definice derivace, jak se ustálila na své cestě od intuitivního př�
 
 $$f'(x):=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}.\tag{6}$$
 
-## Využití derivací v maematických modelech
+## Využití derivací v matematických modelech
 
-S derivací často pracujeme i když derivovanou funkci neznáme. Není to paradox, ale naprosto běžný přístup k formulaci fyzikálních zákonů a jejich matematických modelů. Objasníme si jej v následujicím textu. 
+S derivací často pracujeme i když derivovanou funkci neznáme. Není to paradox, ale naprosto běžný přístup k formulaci fyzikálních zákonů a jejich matematických modelů. Objasníme si jej v následujícím textu. 
 
-Jak bylo řečeno v úvodu, fyzikální děje probíají určitou rychlostí. Matematický popis této rychlosti je derivace. Například tepelná výměna mezi sklenicí chladného nápoje a teplou místností probíhá tak, že rychlost změny teploty nápoje (změna teploty za jednotku času) je přímo úměrná teplotnímu rozdílu. Rychlot změny teploty je derivace teploty podle času, teplotní rozdíl je rozdílem teplot a úměrnost znamená, že jedna veličina je konstantním násobkem druhé. Je tedy již snadné napsat matematický model procesu ve tvaru
+Jak bylo řečeno v úvodu, fyzikální děje probíhají určitou rychlostí. Matematický popis této rychlosti je derivace. Například tepelná výměna mezi sklenicí chladného nápoje a teplou místností probíhá tak, že rychlost změny teploty nápoje (změna teploty za jednotku času) je přímo úměrná teplotnímu rozdílu. Rychlost změny teploty je derivace teploty podle času, teplotní rozdíl je rozdílem teplot a úměrnost znamená, že jedna veličina je konstantním násobkem druhé. Je tedy již snadné napsat matematický model procesu ve tvaru
 
-$$\frac{\mathrm dT}{\mathrm dt}=k(T_0-T),$$
+$$\frac{\mathrm dT}{\mathrm dt}=k(T_0-T),\tag{7}$$
 
 kde $T$ je teplota studeného nápoje, $T_0$ je teplota místnosti a $k$ je konstanta úměrnosti.
 
-Všimněte si, že derivaci jsme při formulaci matematického modelu tepelné výměny použili i přesto, že funkci $T$ neznáme. Funkce $T$ popoisující teplotu je v této rovnici neznámá, v rovnici figuruje derivace teploty a tato derivace souvisí s aktuální teplotou prostřednictvím známého vztahu. Takový vztah se nazývá diferenciální rovnice. Podobu diferenicálních rovnic mají přirozeně všechny fyzikální a přírodní zákony, které popisují dynamiku vývoje. 
+Všimněte si, že derivaci jsme při formulaci matematického modelu tepelné výměny použili i přesto, že funkci $T$ neznáme. To znamená, že ji ani nemůžeme derivovat ve smyslu výpočtu derivace podle běžných pravidel pro derivaci funkcí. Přesto tato derivace existuje, je to veličina mající srozumitelnou praktickou interpretaci a můžeme s ní pracovat. Funkce $T$ popisující teplotu je v rovnici (7) neznámá, v rovnici figuruje derivace teploty a tato derivace souvisí s aktuální teplotou prostřednictvím známého vztahu. Takový vztah se nazývá diferenciální rovnice. Podobu diferenciálních rovnic mají přirozeně všechny fyzikální a přírodní zákony, které popisují dynamiku vývoje. 
 
 
 ## Shrnutí
