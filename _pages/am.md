@@ -55,7 +55,7 @@ nebo si zopakovat [zde](https://robert-marik.github.io/pages/mt/).
 
 ## Informace
 
-Veškeré informace kromě předášek a cvičení jsou přesunuty do Moodle. Viz <https://moodle.mendelu.cz> -> Lesnická a dřevařská fakulta -> Inženýrská matematika. Kód pro zápis bude rozeslán mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od spolužáků. 
+Veškeré informace kromě předášek a cvičení jsou k dispozici v [Moodle Mendelu, Inženýrská matematika](https://moodle.mendelu.cz/course/view.php?id=383). Při přilašování do Moodle použijte Shidboleth login a stejné údaje jako při přihlašování do UIS. Pro zápis do předmětu použijte kód, který bude rozeslán mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od spolužáků. 
 
 
 ## Přednášky 

@@ -50,7 +50,8 @@ dostupnými v 21. století.
 
 ## Informace
 
-Veškeré informace kromě přednášek a cvičení jsou přesunuty do Moodle. Viz <https://moodle.mendelu.cz> -> Lesnická a dřevařská fakulta -> Matematika. Kód pro zápis bude rozeslán mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od spolužáků. Pozor: bude se lišit pro presenční a kombinovanou formu studia.
+
+Veškeré informace kromě předášek a cvičení jsou k dispozici v [Moodle Mendelu, Matematika MTK](https://moodle.mendelu.cz/course/view.php?id=381). Při přilašování do Moodle použijte Shidboleth login a stejné údaje jako při přihlašování do UIS. Pro zápis do předmětu použijte kód, který bude rozeslán mailem na začátku výuky a sdělen na přednášce. Pozor: bude se lišit pro presenční a kombinovanou formu studia.
 
 
 ## Přednášky
