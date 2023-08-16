@@ -62,10 +62,35 @@ Tím je splněn první bod, umíme počítat průměrnou rychlost na intervalu l
 
 Největším problémem bylo, že v aplikacích bychom místo průměrné rychlosti potřebovali rychlost okamžitou. Teoreticky by stačilo vzít stejný počáteční i koncový bod intervalu, na kterém počítáme průměr. Tedy použít $h=0$. Ja však evidentní, že v předchozím vzorci volba $h=0$ nemá smysl. Na druhou stranu je však evidentní i to, že nějaká okamžitá rychlost fyzikálně smysl má. Aby matematikové vyřešili tuto nesnáz, došli postupně k pojmu _limita funkce_. Můžeme si představit, že vypočítat limitu funkce v bodě znamená buď najít funkční hodnotu (pokud tato existuje), nebo její nejlepší rozumnou náhradu, pokud funkční hodnota neexistuje, ale existuje nějaká její rozumná náhrada. V jakém smyslu je zde použito slovo "rozumná náhrada" je nad rámec tohoto textu, ale v podstatě to znamená, že pokud je možné funkci spojitě rozšířit i do dosud nedefinovaného bodu, je limita prostředek, který toto zařídí. Stačí tedy ve vzorci (4) dosadit (ve smyslu limity) $h=0$ a tím dostáváme okamžitou rychlost, s jakou se mění teplota v čase. V matematice a v aplikacích tuto veličinu nazýváme derivace teploty podle času. Formálně zapsáno
 
-$$\frac{\mathrm dT}{\mathrm dt}:=\lim_{h\to 0}\frac{T(t+h)-T(t)}{h}.\tag{5}$$
+$$\frac{\mathrm dT}{\mathrm dt}:=\lim_{h\to 0}\frac{T(t+h)-T(t)}{h},\tag{5}$$
 
-Toto je definice derivace, jak se ustálila na své cestě od intuitivního přístupu ke korektně definované matematické operaci. V ryze matematických učebnicích se setkáváme pouze s jiným pojmenováním proměnných a jiným označením derivace. Důvodem je stručnost a jistá setrvačnost ve volbě označení, kdy proměnná je typicky $x$, funkce je typicky $f(x)$, derivace je značena co nejúsporněji, tedy čárkou za jménem funkce. Nejčastější tvar definice derivace v matematických učebnicích je tedy
+kde na levé straně je označení derivace teploty podle času a na pravé straně definiční vztah pro tuto derivaci.
+
+Toto je definice derivace, jak se ustálila na své cestě od intuitivního přístupu ke korektně definované matematické operaci. V ryze matematických učebnicích se setkáváme pouze s jiným pojmenováním proměnných a jiným označením derivace. Důvodem je stručnost a jistá setrvačnost ve volbě označení, kdy proměnná je typicky $x$, funkce je typicky $f(x)$, derivace je značena co nejúsporněji, v tomto případě čárkou za jménem funkce. Nejčastější tvar definice derivace v matematických učebnicích je potom
 
 $$f'(x):=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}.\tag{6}$$
+
+## Využití derivací v maematických modelech
+
+S derivací často pracujeme i když derivovanou funkci neznáme. Není to paradox, ale naprosto běžný přístup k formulaci fyzikálních zákonů a jejich matematických modelů. Objasníme si jej v následujicím textu. 
+
+Jak bylo řečeno v úvodu, fyzikální děje probíají určitou rychlostí. Matematický popis této rychlosti je derivace. Například tepelná výměna mezi sklenicí chladného nápoje a teplou místností probíhá tak, že rychlost změny teploty nápoje (změna teploty za jednotku času) je přímo úměrná teplotnímu rozdílu. Rychlot změny teploty je derivace teploty podle času, teplotní rozdíl je rozdílem teplot a úměrnost znamená, že jedna veličina je konstantním násobkem druhé. Je tedy již snadné napsat matematický model procesu ve tvaru
+
+$$\frac{\mathrm dT}{\mathrm dt}=k(T_0-T),$$
+
+kde $T$ je teplota studeného nápoje, $T_0$ je teplota místnosti a $k$ je konstanta úměrnosti.
+
+Všimněte si, že derivaci jsme při formulaci matematického modelu tepelné výměny použili i přesto, že funkci $T$ neznáme. Funkce $T$ popoisující teplotu je v této rovnici neznámá, v rovnici figuruje derivace teploty a tato derivace souvisí s aktuální teplotou prostřednictvím známého vztahu. Takový vztah se nazývá diferenciální rovnice. Podobu diferenicálních rovnic mají přirozeně všechny fyzikální a přírodní zákony, které popisují dynamiku vývoje. 
+
+
+## Shrnutí
+
+Děje v přírodě probíhají určitou rychlostí, která ovlivňuje dynamiku a celý průběh děje. 
+
+Na základní práci s rychlostí stačí jednoduché operace: rozdíl pro zjištění o kolik se sledovaná veličina změnila a podíl pro přepočtení této změny na jednotku času, vzdálenosti či čehokoliv jiného, co je v příslušné situaci relevantní.
+
+Pro detailní a precizní práci s rychlostí však uvedené operace nestačí. Je potřeba mít detailnější informace o průběhu děje a nástroj, který z těchto informací najde rychlost. Tedy je nutné znát funkční předpis pro veličinu měnící se v čase a derivace podle času poté určí rychlost změny této veličiny.
+
+Bohužel, informaci uvedenou v předchozím odstavci máme k dispozici málokdy. Častěji se stává, že víme, jak rychlost změny souvisí se stavem studovaného systému. Toto bývá vyjádřeno nějakým fyzikálním zákonem. Poté můžeme sestavit rovnici, ve které je neznámou funkce popisující vývoj systému, v rovnici figuruje rychlost a tedy derivace této neznámé funkce a tato rychlost souvisí s ostatními veličinami popisujícími stav systému. Takové rovnice jsou základními prostředky pro řešení fyzikálních úloh a při modelování dějů a procesů probíhajících v přírodě.
 
 
