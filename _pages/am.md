@@ -165,6 +165,7 @@ mají podobných. Naprostá většina technicky zajímavých jevů a dějů snes
 lineární aproximaci a tím pádem umožní i jednotný popis řešení tak, jak
 se s ním seznámíme na přednášce.*
      * [Přednáška](https://robert-marik.github.io/am/09)
+     * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni09.html)
 1. ![10.jpg](/images/am/10.jpg) *Poznáme
 speciální soustavy diferenciálních rovnic, které jsou nezávislé na čase
 a umožňují modelování interagujících populací (různé druhy konkurence,
