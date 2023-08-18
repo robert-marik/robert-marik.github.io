@@ -1,5 +1,5 @@
 ---
-title: Aplikovaná matematika
+title: Ineženýrská matematika
 author: Robert Mařík
 date: 2023-02-05
 category: Jekyll
