@@ -12,6 +12,16 @@ Málo věcí v přírodě je statických. Většina dějů v přírodě je způs
 Je přirozené, že intenzita děje souvisí s tím, jak moc je nerovnováha velká. V korytě s prudkým sklonem teče voda rychleji. Mezi oblastmi s obrovským rozdílem tlaků fouká silný vítr. Na sluneční výhni se studený nápoj ohřívá rychleji než ve stínu. Rychlost je skryta v naprosté většině přírodních dějů a proto se s ní naučíme pracovat.
 
 
+## Motivace na úvod
+
+Že je při popisu přírody nutné používat nástroj, jaký dnes známe jako derivaci, začínalo být vědcům jasné na začátku 17. století. Protože se jednalo o zcela nový přístup k popisu přírodních dějů, pracovala na problematice řada prominentních vědců tehdejší doby (Fermat, Kopernik, Cavalieri) Na konci 17. století učinil rozhodující krok anglický fyzik [Isaac Newton](https://cs.wikipedia.org/wiki/Isaac_Newton). Díky tomu, že Newton ovládl práci s derivacemi, získal tak obrovský náskok před svými konkurenty, že je dnes považován za jednoho z největších vědců v celé historii lidstva. _Do té doby lidé dokázali popsat, jak věci fungují. S novým přístupem bylo možné ukázat, proč věci fungují právě tímto způsobem._ Například byly známy [Kopernikovy zákony](https://cs.wikipedia.org/wiki/Keplerovy_z%C3%A1kony) pohybu planet, nebylo však zřejmé proč se planety pohybují podle těchto zákonů. Newtonův přístup umožňuje ukázat, že Kopernikovy zákony jsou důsledkem toho, že gravitační síla klesá s druhou mocninou vzdálenosti a že jsou tedy důsledkem nějakého obecnějšího fyzikálního principu.
+
+Nutno říci, že ač Newtonův přístup způsobil revoluci v možnostech popisu přírody, neměl podobu, v jaké dnes prezentujeme nové postupy a metody. Měl řadu bílých míst, která bylo nutno překonávat víceméně intuitivně a proto si tento přístup našel i řadu kritiků. Do podoby ucelené matematické teorie jej dotáhli až v 19. století Cauchy, Riemann a Weierstrass. Nezávisle na Newtonovi a přibližně ve stejnou dobu objevil derivace i francouzský učenec [Wilhelm Leibniz](https://cs.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz).
+
+Stručně shrnuto: derivace a s nimi související nástroje jsou velmi silný nástroj umožňující modelovat přírodní děje od základních principů k pozorovatelným datům. Není to však triviální matematický koncept a největším vědcům historie trvalo dlouhá desetiletí, než našli vhodný postup, jak s derivacemi pracovat.
+
+Vzhledem k uvedenému si ukážeme zejména hlavní myšlenku a koncepčně obtížnější věci (limita a spojitost) jenom stručně okomentujeme. 
+
 ## Rychlost přirozenou logikou
 
 
