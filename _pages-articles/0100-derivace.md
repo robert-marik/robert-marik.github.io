@@ -5,6 +5,11 @@ date: 2023-12-15
 layout: post
 ---
 
+<style>
+h2 {clear:both;}
+</style>
+
+
 V tomto článku se pokusím podat přirozenou cestu k derivaci a jejímu praktickému významu.
 
 Málo věcí v přírodě je statických. Většina dějů v přírodě je způsobena tím, že došlo k nějaké nerovnováze a příroda se snaží rovnováhu obnovit. Proto voda teče dolů a objekty padají na zem. Proto fouká vítr z oblastí s větším tlakem do oblastí s menším tlakem. Proto se studenému nápoji předává teplo z okolí a teploty se vyrovnávají.
@@ -13,6 +18,9 @@ Je přirozené, že intenzita děje souvisí s tím, jak moc je nerovnováha vel
 
 
 ## Motivace na úvod
+
+{% include float_image.html image_path="/images/IsaacNewton.jpg" description='Schopnost pracovat s tím, čemu dnes říkáme derivace, katapultovala Isaaca Newtona mezi nejslavnější vědce všech dob. Obrázek z <https://cs.wikipedia.org/wiki/Isaac_Newton>' %}
+
 
 Že je při popisu přírody nutné používat nástroj, jaký dnes známe jako derivaci, začínalo být vědcům jasné na začátku 17. století. Protože se jednalo o zcela nový přístup k popisu přírodních dějů, pracovala na problematice řada prominentních vědců tehdejší doby (Fermat, Kopernik, Cavalieri) Na konci 17. století učinil rozhodující krok anglický fyzik [Isaac Newton](https://cs.wikipedia.org/wiki/Isaac_Newton). Díky tomu, že Newton ovládl práci s derivacemi, získal tak obrovský náskok před svými konkurenty, že je dnes považován za jednoho z největších vědců v celé historii lidstva. _Do té doby lidé dokázali popsat, jak věci fungují. S novým přístupem bylo možné ukázat, proč věci fungují právě tímto způsobem._ Například byly známy [Kopernikovy zákony](https://cs.wikipedia.org/wiki/Keplerovy_z%C3%A1kony) pohybu planet, nebylo však zřejmé proč se planety pohybují podle těchto zákonů. Newtonův přístup umožňuje ukázat, že Kopernikovy zákony jsou důsledkem toho, že gravitační síla klesá s druhou mocninou vzdálenosti a že jsou tedy důsledkem nějakého obecnějšího fyzikálního principu.
 
@@ -23,6 +31,9 @@ Stručně shrnuto: derivace a s nimi související nástroje jsou velmi silný n
 Vzhledem k uvedenému si ukážeme zejména hlavní myšlenku a koncepčně obtížnější věci (limita a spojitost) jenom stručně okomentujeme. 
 
 ## Rychlost přirozenou logikou
+
+
+{% include float_image.html image_path="/images/newton_ice_coffee.jpg" description='Podle nepodložené historky Newtona k jeho teorii inspirovalo jablko, které mu spadlo na hlavu. Stejně tak jej mohlo inspirovat tepelná výměna mezi kávou a okolním vzduchem. Obrázek: Generovaný AI.' %}
 
 
 Uvažujme následující situaci. Teplota studeného nápoje v teplé místnosti roste. Za 10 minut se teplota zvýší z pěti stupňů Celsia na deset stupňů. Naroste tedy o pět stupňů Celsia za 10 minut. Pro posouzení rychlosti ohřevu je přirozené tento přírůstek vztáhnout k nějakému referenčnímu času, nejlépe k jednotce času, tedy k minutě. Pokud navýšení pět stupňů Celsia rozdělíme rovnoměrně na celý časový úsek deseti minut, připadá na každou minutu navýšení o půl stupně Celsia. To snadno zjistíme dělením.
