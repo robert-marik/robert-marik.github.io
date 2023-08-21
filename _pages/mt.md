@@ -6,9 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-
 {% include float_image.html image_path="/images/mtk_logo.jpg" description='V 21. století má každý nástroje pro simulace na dosah ruky. I pojetí matematiky je proto vhodné posunout od "jak vypočítat jednoduchý příklad" k "jak naformulovat a zadat užitečný model". Na obrázku je měření teplotního toku dřevěným panelem ve VCJR v Útěchově. Popis transportu energie a hmoty bude jeden z našich hlavních cílů.' %}
-
 
 Předmět odpovídá obecným úvodům do matematiky na technicky zaměřených
 oborech s jednosemestrální výukou matematiky. Obsahuje diferenciální a
@@ -49,7 +47,6 @@ dostupnými v 21. století.
 
 
 ## Informace
-
 
 Veškeré informace kromě přednášek a cvičení jsou k dispozici v [Moodle Mendelu, Matematika MTK](https://moodle.mendelu.cz/course/view.php?id=381). Při přihlašování do Moodle použijte Shibboleth login a stejné údaje jako při přihlašování do UIS. Pro zápis do předmětu použijte kód, který bude rozeslán mailem na začátku výuky a sdělen na přednášce. Pozor: bude se lišit pro presenční a kombinovanou formu studia.
 

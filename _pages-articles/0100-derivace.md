@@ -3,6 +3,7 @@ title: Rychlost a derivace
 author: Robert Mařík
 date: 2023-12-15
 layout: post
+permalink: derivace
 ---
 
 <style>
@@ -36,22 +37,22 @@ Vzhledem k uvedenému si ukážeme zejména hlavní myšlenku a koncepčně obt�
 {% include float_image.html image_path="/images/newton_ice_coffee.jpg" description='Podle nepodložené historky Newtona k jeho teorii inspirovalo jablko, které mu spadlo na hlavu. Stejně tak jej mohlo inspirovat tepelná výměna mezi kávou a okolním vzduchem. Obrázek: Generovaný AI.' %}
 
 
-Uvažujme následující situaci. Teplota studeného nápoje v teplé místnosti roste. Za 10 minut se teplota zvýší z pěti stupňů Celsia na deset stupňů. Naroste tedy o pět stupňů Celsia za 10 minut. Pro posouzení rychlosti ohřevu je přirozené tento přírůstek vztáhnout k nějakému referenčnímu času, nejlépe k jednotce času, tedy k minutě. Pokud navýšení pět stupňů Celsia rozdělíme rovnoměrně na celý časový úsek deseti minut, připadá na každou minutu navýšení o půl stupně Celsia. To snadno zjistíme dělením.
+Uvažujme následující situaci. Teplota studeného nápoje v teplé místnosti roste. Za 10 minut se teplota zvýší ze čtyř stupňů Celsia na deset. Naroste tedy o šest stupňů Celsia za 10 minut. Pro posouzení rychlosti ohřevu je přirozené tento přírůstek vztáhnout k nějakému referenčnímu času, nejlépe k jednotce času, tedy k minutě. Pokud navýšení šest stupňů Celsia rozdělíme rovnoměrně na celý časový úsek deseti minut, připadá na každou minutu navýšení o šest desetin stupně Celsia. To snadno zjistíme dělením.
 
-$$\frac{10^{\circ}\mathrm C-5^\circ \mathrm C}{10 \,\mathrm{min}}=0.5^\circ \mathrm C/\mathrm{min}\tag{1}$$
+$$\frac{10^{\circ}\mathrm C-4^\circ \mathrm C}{10 \,\mathrm{min}}=0.6^\circ \mathrm C/\mathrm{min}\tag{1}$$
 
-Rychlost růstu teploty je půl stupně Celsia za minutu. Tato informace je nesmírně zajímavá. V čem ja zajímavá a co z ní můžeme zjistit?
+Rychlost růstu teploty je šest desetin stupně Celsia za minutu. Tato informace je nesmírně zajímavá. V čem ja zajímavá a co z ní můžeme zjistit?
 
 * Je získaná z jednoduchých dat. Výchozí informací byly dvě teploty a časový interval. To je malé množství informací. Výpočet se tedy dá provést i s málem informací.
 * Je získaná jednoduchými matematickými operacemi. Byla použita jedna operace rozdílu a jedno dělení. Není potřeba žádná specifická činnost, která by znemožnila výpočet automatizovat.
-* Výpočet dává představu, jak rychle děj probíhal. Každou minutu se teplota zvýšila o půl stupně.
-* Výsledek dává nástroj jak odhadnout, co se bude dít dále. Pokud teplota poroste stále stejnou rychlostí, potom například v následujících čtyřech minutách teplota vzroste o dva stupně Celsia.
+* Výpočet dává představu, jak rychle děj probíhal. Každou minutu se teplota zvýšila o šest desetin stupně.
+* Výsledek dává nástroj jak odhadnout, co se bude dít dále. Pokud teplota poroste stále stejnou rychlostí, potom například v následujících čtyřech minutách teplota vzroste o dva stupně Celsia a čtyři desetiny.
 
-  $$0.5^\circ \mathrm C/\mathrm{min} \times 4\,\mathrm {min} = 2 ^\circ\mathrm C\tag{2}$$
+  $$0.6^\circ \mathrm C/\mathrm{min} \times 4\,\mathrm {min} = 2.4 ^\circ\mathrm C\tag{2}$$
 
   Výslednou teplotu určíme jako součet teploty a odhadovaného přírůstku. Za další čtyři minuty tedy teplota bude dvanáct stupňů Celsia.
 
-  $$10^\circ \mathrm C + 0.5^\circ \mathrm C/\mathrm{min} \times 4\,\mathrm {min} = 10 ^\circ\mathrm C+2 ^\circ\mathrm C=12 ^\circ\mathrm C\tag{3}$$
+  $$10^\circ \mathrm C + 0.6^\circ \mathrm C/\mathrm{min} \times 4\,\mathrm {min} = 10 ^\circ\mathrm C+2.4 ^\circ\mathrm C=12.4 ^\circ\mathrm C\tag{3}$$
 
 ## Nedostatky jednoduchého přístupu
 
@@ -92,6 +93,9 @@ Toto je definice derivace, jak se ustálila na své cestě od intuitivního př�
 $$f'(x):=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}.\tag{6}$$
 
 ## Využití derivací v matematických modelech
+
+{% include float_image.html image_path="/images/reseni_ODE.png" description='Řešením modelu, který vyjadřuje skutečnost, že rychlost růstu teploty je úměrná rozdílu teploty zkoumaného objektu a okolí je například následující křivka. Ukazuje, že jak teplota roste, klesá rozdíl mezi teplotou a teplotou okolí a tím pádem i klesá rychlost růstu.' %}
+
 
 S derivací často pracujeme i když derivovanou funkci neznáme. Není to paradox, ale naprosto běžný přístup k formulaci fyzikálních zákonů a jejich matematických modelů. Objasníme si jej v následujícím textu. 
 

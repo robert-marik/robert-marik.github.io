@@ -1,16 +1,14 @@
 ---
-title: Ineženýrská matematika
+title: Inženýrská matematika
 author: Robert Mařík
 date: 2023-02-05
 category: Jekyll
 layout: post
 ---
 
-
 {% include float_image.html image_path="/images/am_logo.jpg" description='Pro popis vlastností v materiálu je zásadní schopnost modelovat transport tekutin a energie materiálem. Na obrázku výzkumá aparatura VCJR v Útěchově.' %}
 
-
-Letní semestr - jaro 2022/2023
+Zimní semestr - podzim 2023/2024
 
 ### Úvodem
 
