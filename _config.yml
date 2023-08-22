@@ -65,7 +65,10 @@ future: true
 collections:
   pages:
     output: true
+    titles: Výuka
   pages-articles:
     output: true
+    titles: Články k výuce
   pages-it:
     output: true
+    titles: Články k využití počítačů
