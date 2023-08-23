@@ -348,3 +348,15 @@ h1, h2 {color: gray}
 }
 
 .predmet h3 {color: green;}
+
+.toc-nadpis {font-weight:bold;}
+
+.toc-nadpis {
+  background-color: lightgray;
+  padding: .5em;
+}
+
+.book-summary ul.summary li.divider {
+  height: 0px;
+  margin: 0px;
+}

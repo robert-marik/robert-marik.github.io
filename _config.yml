@@ -65,10 +65,13 @@ future: true
 collections:
   pages:
     output: true
-    titles: Výuka
-  pages-articles:
+    title: Hlavní součásti
+  pages-articles-mat:
     output: true
-    titles: Články k výuce
+    title: Podpora výuky matematiky
+  pages-articles-obecne:
+    output: true
+    title: Podpora výuky obecně
   pages-it:
     output: true
-    titles: Články k využití počítačů
+    title: Podpora využití počítačů
