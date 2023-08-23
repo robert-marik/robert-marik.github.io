@@ -111,7 +111,7 @@ Používá se běžný lineární zápis, jako na lepších kalkulačkách nebo 
 #### Matematické parametry a proměnné
 
 *    Matematické proměnné a parametry, které můžete použít v odpovědi, jsou zřejmé ze zadání úlohy.
-*    Derivace funkcí zapisujeme buď jako `y'` nebo jako `dy/dx`. Kterou z voleb máte použít bude specifikováno v zadání úlohy. Vztah `dy/dx` je interně zpracováván jako podíl proměnné `dy` a `dx`, proto bude správně interpretován i nesmyslný zápis `1/dx * dy` a naopak nebude správně rozpoznán smysluplný zápis derivace ve tvaru `d/dx y`. V zadání bude napsáno, v jakém tvaru se očekává opdověď. Čtěte pozorně.
+*    Derivace funkcí zapisujeme buď jako `y'` nebo jako `dy/dx`. Kterou z voleb máte použít bude specifikováno v zadání úlohy. V zadání bude napsáno, v jakém tvaru se očekává odpověď. Čtěte pozorně.
 *    Na jménech konstant úměrnosti záleží, jinak systém nezvládne vyhodnotit správnost odpovědi. Jaké jméno máte použít bude v zadání úlohy.
 *    Jestli se očekává či neočekává použití integrační konstanty by mělo být zřejmé ze zadání úlohy. V prvním případě můžete použít `+C` nebo libovolný jiný název integrační konstanty.
 
