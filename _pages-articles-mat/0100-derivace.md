@@ -96,7 +96,7 @@ $$f'(x):=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}.\tag{6}$$
 
 ## Využití derivací v matematických modelech
 
-{% include float_image.html image_path="/images/reseni_ODE.png" description='Řešením modelu (7) je následující křivka. Ukazuje, že jak teplota roste, klesá rozdíl mezi teplotou a teplotou okolí a tím pádem i klesá rychlost růstu.' %}
+{% include float_image.html image_path="/images/reseni_ODE.png" description='Řešením modelu (7) je následující křivka. Ukazuje, že jak teplota roste a rychlost r;stu klesá. To proto, že s růstem teploty klesá rozdíl mezi teplotou a teplotou okolí.' %}
 
 
 S derivací často pracujeme i když derivovanou funkci neznáme. Není to paradox, ale naprosto běžný přístup k formulaci fyzikálních zákonů a jejich matematických modelů. Objasníme si jej v následujícím textu. 
