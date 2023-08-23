@@ -65,7 +65,7 @@ future: true
 collections:
   pages:
     output: true
-    title: Hlavní součásti
+    title: Výuka, věda
   pages-articles-mat:
     output: true
     title: Podpora výuky matematiky
