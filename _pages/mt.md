@@ -51,7 +51,7 @@ dostupnými v 21. století.
 Veškeré informace kromě přednášek a cvičení jsou k dispozici v [Moodle Mendelu, Matematika MTK](https://moodle.mendelu.cz/course/view.php?id=381). Při přihlašování do Moodle použijte Shibboleth login a stejné údaje jako při přihlašování do UIS. Pro zápis do předmětu použijte kód, který bude rozeslán mailem na začátku výuky a sdělen na přednášce. Pozor: bude se lišit pro presenční a kombinovanou formu studia.
 
 
-## Přednášky
+## Přednášky a cvičení
 
 Předmět je rozdělen na 13 přednášek, k přednáškám, jsou cvičení, která dle rozvrhu a státních svátků mohou nabrat až několikatýdení zpoždění.
 
