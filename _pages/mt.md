@@ -53,7 +53,7 @@ Veškeré informace kromě přednášek a cvičení jsou k dispozici v [Moodle M
 
 ## Přednášky a cvičení
 
-Předmět je rozdělen na 13 přednášek, k přednáškám, jsou cvičení, která dle rozvrhu a státních svátků mohou nabrat až několikatýdení zpoždění.
+Předmět je rozdělen na 12 přednášek, k přednáškám, jsou cvičení, která dle rozvrhu a státních svátků mohou nabrat až několikatýdení zpoždění.
 
 {::options parse_block_html="true" /}
 
@@ -87,11 +87,8 @@ rovnic a možnosti jejich numerického řešení.*
 
 1. ![03.jpg](/images/mtk/03.jpg)
 *Další využití derivací, tentokrát zaměřeno na extrémy. Naučíme se
-hledat optimální stavy systému. Ukážeme si příklady v souladu s intuicí
-(pokud chci vyřezat co nejtužší nosník z kulatiny, musím řezat
-obdélníkový profil) i jdoucí proti intuici (tlustší izolace okolo horké
-trubky nemusí znamenat menší tepelné ztráty, existuje takzvaný kritický
-poloměr izolace). Seznámíme se s pojmem gradient, který dokáže
+hledat optimální stavy systému. Například jak vyřezat co nejtužší nosník z kulatiny (musím řezat
+obdélníkový profil). Seznámíme se s pojmem gradient, který dokáže
 identifikovat směr podnětů dávajících do pohybu vedení tepla nebo
 transport látek. A poprvé se seznámíme s bezrozměrnými veličinami, které
 přijdou ke slovu i později.*
@@ -198,7 +195,6 @@ bezrozměrných veličin. To jsme nakousli během semestru a teď si
 dovednosti rozšíříme. Ukážeme si výstupy některých numerických metod.*
 
       * [Přednáška 12](https://robert-marik.github.io/matematika/numerika/) (Vybrané postupy numerické matematiky)
-      * [Cvičení 13](https://robert-marik.github.io/matematika/cviceni/cviceni13.html) (Shrnutí)
 </div>
 
 
