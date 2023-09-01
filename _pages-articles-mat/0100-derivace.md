@@ -1,5 +1,5 @@
 ---
-title: Derivace (snad) jednoduše
+title: Derivace (snad) přirozenou cestou
 author: Robert Mařík
 date: 2003-12-15
 layout: post
