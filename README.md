@@ -34,7 +34,7 @@ Takový analytický výpočet nosníku, užitečný pro strojaře nebo stavaře,
 
 > #### Neučte se matematiku bez souvislostí 
 >
->[V. I. Arnold v zamyšlení O výuce matematiky](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
+>[V. I. Arnold v zamyšlení O výuce matematiky](https://www.math.fsu.edu/~wxm/Arnold.htm)
 >
   * Matematika je součástí fyziky. Fyzika je experimentální věda, část přírodních věd. Matematika je součást fyziky s levnými experimenty.
   * V polovině 20. století proběhl pokus oddělit matematiku a fyziku. Následky se ukázaly jako katastrofické. Celé generace matematiků vyrostly bez ovládnutí poloviny své vědy a s úplnou  ignorací věd ostatních. Začaly studenty učit svoji strašnou scholastickou pseudomatematiku...
