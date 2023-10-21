@@ -75,9 +75,3 @@ collections:
   pages-it:
     output: true
     title: Podpora využití počítačů
-
-utterances:
-  repo: "robert-marik/robert-marik.github.io"
-  issue-term: "pathname"
-  label: "utteranc.es"
-  theme: "github-light"
