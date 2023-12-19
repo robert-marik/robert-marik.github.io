@@ -8,9 +8,9 @@ permalink: /
 {::options parse_block_html="true" /}
 
 <div style="max-width: 50%; float:right; padding-left:20px; padding-down:10px;">
-<img src="/images/deer.jpg" >
+<img src="images/Obalec.jpg" >
 <p style="font-size:75%; font-style:italic;">
-	Příroda je krásná. A matematika pomůže tyto krásy vyjevit nebo lépe pochopit. Foto: Pvp4789, <https://commons.wikimedia.org/wiki/File:Spotted_deer_and_sambar_deer.jpg>
+Příroda je krásná a matematika dokáže odhalit její tajemství. Žádná věda není tak skvělá v odhalování tajemství jako matematika. 😀
 </p>
 </div>
 
