@@ -19,7 +19,8 @@ layout: post
     V současnosti (leden 2023) v textu chybí závěrečné kapitoly, ty
     budou doplněny během semestru.
 -   [JupyterHub server na MENDELU](https://jupyter.mendelu.cz)
--   [Moodle](https://moodle.mendelu.cz/course/view.php?id=631) předmětu obsahuj e podmínky pro ukončení, požadavky na seminární práci apod. 
+-   [Moodle](https://moodle.mendelu.cz/course/view.php?id=631) předmětu obsahuje podmínky pro ukončení, požadavky na seminární práci apod. 
+-   Kurz [Modelování a práce s daty v Pythonu pro začátečníky](https://moodle.mendelu.cz/course/view.php?id=380) je určena především studentům kombinovaného studia, ale mohou využit i studenti presenčního studia.
 
 ## Literatura
 
