@@ -30,7 +30,7 @@ prezentace pro promítání na přednášce.
 
 *lineární algebra, součin matic, transformace souřadnic*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/MatrixMultiplication/&btnI=lucky)
+* [Prezentace](https://user.mendelu.cz/marik/manim/MatrixMultiplication/)
 
 #### Transformace tenzoru malých deformací
 
