@@ -53,6 +53,7 @@ ze sítě mimo MENDELU. V takovém případě použijte
 
 Matematiky moc používat nebudeme, naprostá většina věcí okolo modelů je krásně vysvětlena v publikaci prof. Tkadlece, úzkým hrdlem budou proto asi IT skills.
 
+* Umělá inteligence je skělá pro první návrh jednoduchého kódu, revizi kódu, opravu chyb, návrhy na vylepšení. Je možno používat [chatGPT](https://chat.openai.com) anebo specializovanou službu na programování na ZZZ Code AI, napříkald [https://zzzcode.ai/python/code-explain](vysvětlení kódu) nebo [https://zzzcode.ai/python/code-generator](generátor kódu).
 * Nejlepší tutoriál Pythonu na světě je <https://www.w3schools.com/python/>. Obsahuje i matplotlib, NumPy, Pandas. 
 * Pro LaTeX stačí umět psát základní matematické výrazy. Pomůže například [nápověda pro Wikpedii](https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Matematick%C3%A9_vzorce), která používá stejný mechanismus. Případně [tento přehled](https://user.mendelu.cz/marik/am/slidy/latex/).
 * Nejlepší servery, kam se chodí pro rady ohledně rozbitého a nefungujícího kódu a pro rady jak něco udělat v Pythonu nebo LaTeXu, jsou <https://stackoverflow.com/questions/tagged/python> a <https://stackexchange.com>. Můžete například kopírovat chybové hlášky do Google vyhledávače a preferovat odkazy směřující na tyto servery.
