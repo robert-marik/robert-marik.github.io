@@ -16,10 +16,10 @@ layout: post
 -   Učební text je primárně v [online
     formě](https://robert-marik.github.io/dmp). K dispozici je i verze v
     [PDF](https://user.mendelu.cz/marik/dmp/Dynamicke_modely_populaci_text.pdf).
-    V současnosti (leden 2023) v textu chybí závěrečné kapitoly, ty
+    V současnosti (únor 2024) v textu chybí závěrečné kapitoly, ty
     budou doplněny během semestru.
--   [JupyterHub server na MENDELU](https://jupyter.mendelu.cz)
--   [Moodle](https://moodle.mendelu.cz/course/view.php?id=631) předmětu obsahuje podmínky pro ukončení, požadavky na seminární práci apod. 
+-   Budeme pracovat v systému Jupyter na [JupyterHub serveru MENDELU](https://jupyter.mendelu.cz)
+-   [Moodle](https://moodle.mendelu.cz/course/view.php?id=631) předmětu obsahuje podmínky pro ukončení, rozcestník, požadavky na seminární práci, diskusní fórum  apod. 
 -   Kurz [Modelování a práce s daty v Pythonu pro začátečníky](https://moodle.mendelu.cz/course/view.php?id=380) je určena především studentům kombinovaného studia, ale mohou využit i studenti presenčního studia.
 
 ## Literatura
