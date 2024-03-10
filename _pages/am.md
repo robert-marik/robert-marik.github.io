@@ -98,6 +98,7 @@ difuzi nebo sušení dřeva. Častým praktickým úkolem je modelování
 fyzikálních polí (teploty a vlhkosti) v okolí okna.*
      * [Přednáška](https://robert-marik.github.io/am/03)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni03.html)
+     * [Je náš svět 3D?](https://user.mendelu.cz/marik/am/slovni_ulohy/#parci%C3%A1ln%C3%AD-derivace-vektorov%C3%A9ho-pole)
 1. ![04.jpg](/images/am/04.jpg) *Seznámíme
 se s dalším vektorovým operátorem. Ten nám umožní rozhodnout, zda je
 proudění nebo silové pole popsatelné skalární veličinou. To souvisí s
