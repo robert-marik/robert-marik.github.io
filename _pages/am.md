@@ -1,5 +1,5 @@
 ---
-title: Aplikovaná matematika
+title: Aplikovaná/Inženýrská matematika
 author: Robert Mařík
 date: 2023-02-05
 category: Jekyll
@@ -8,7 +8,7 @@ layout: post
 
 {% include float_image.html image_path="/images/am_logo.jpg" description='Pro popis vlastností v materiálu je zásadní schopnost modelovat transport tekutin a energie materiálem. Na obrázku výzkumá aparatura VCJR v Útěchově.' %}
 
-Letní semestr - jaro a léto 2024
+Zimní semestr - podzim a zima 2024
 
 ### Úvodem
 
@@ -53,7 +53,7 @@ nebo si zopakovat [zde](https://robert-marik.github.io/pages/mt/).
 
 ## Informace
 
-Veškeré informace kromě předášek a cvičení jsou k dispozici v [Moodle Mendelu, Aplikovaná matematika](https://moodle.mendelu.cz/course/view.php?id=634). Při přilašování do Moodle použijte Shidboleth login a stejné údaje jako při přihlašování do UIS. Pro zápis do předmětu použijte kód, který bude rozeslán mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od spolužáků. 
+Veškeré informace kromě předášek a cvičení jsou k dispozici v [Moodle Mendelu, Aplikovaná matematika](https://moodle.mendelu.cz/course/view.php?id=814). Při přilašování do Moodle použijte Shidboleth login a stejné údaje jako při přihlašování do UIS. Pro zápis do předmětu použijte kód, který bude rozeslán mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od spolužáků. 
 
 
 ## Přednášky a cvičení
