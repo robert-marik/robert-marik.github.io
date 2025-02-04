@@ -7,8 +7,7 @@ layout: post
 ---
 
 
-{% include float_image.html image_path="/images/dmp_logo.jpg" description='Liška ostrovní. Příklad živočišného druhu, který se podařilo zachránit před vyhynutím [v rekordně krátkém čase](https://www.nature.org/en-us/about-us/where-we-work/united-states/california/stories-in-california/endangered-island-foxes-break-record-for-fast-recovery/"), během dekády. K tomu byla nutná komplexní znalost ekosystému a analýza, jak se projeví jednotlivé zásahy do vztahů v tomto ekosystému. Zdroj: commons.wikimedia.org.' %}
-
+{% include float_image.html image_path="/images/dmp_logo.jpg" description='Liška ostrovní. Příklad živočišného druhu, který se podařilo zachránit před vyhynutím [v rekordně krátkém čase](https://www.nature.org/en-us/about-us/where-we-work/united-states/california/stories-in-california/endangered-island-foxes-break-record-for-fast-recovery/), během dekády. K tomu byla nutná komplexní znalost ekosystému a analýza, jak se projeví jednotlivé zásahy do vztahů v tomto ekosystému. Zdroj: commons.wikimedia.org.' %}
 
 
 ## Rozcestník předmětu
