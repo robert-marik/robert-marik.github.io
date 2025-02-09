@@ -13,12 +13,9 @@ layout: post
 ## Rozcestník předmětu
 
 -   Učební text je primárně v [online
-    formě](https://robert-marik.github.io/dmp). K dispozici je i verze v
-    [PDF](https://user.mendelu.cz/marik/dmp/Dynamicke_modely_populaci_text.pdf).
-    V současnosti (únor 2024) v textu chybí závěrečné kapitoly, ty
-    budou doplněny během semestru.
+    formě](https://robert-marik.github.io/dmp). PDF verze bude v Moodle.
 -   Budeme pracovat v systému Jupyter na [JupyterHub serveru MENDELU](https://jupyter.mendelu.cz)
--   [Moodle](https://moodle.mendelu.cz/course/view.php?id=631) předmětu obsahuje podmínky pro ukončení, rozcestník, požadavky na seminární práci, diskusní fórum  apod. 
+-   [Moodle](https://moodle.mendelu.cz/course/view.php?id=631) předmětu obsahuje podmínky pro ukončení, rozcestník, požadavky na ukočení, diskusní fórum  apod. 
 -   Kurz [Modelování a práce s daty v Pythonu pro začátečníky](https://moodle.mendelu.cz/course/view.php?id=380) je určena především studentům kombinovaného studia, ale mohou využit i studenti presenčního studia.
 
 ## Literatura
@@ -52,7 +49,7 @@ ze sítě mimo MENDELU. V takovém případě použijte
 
 Matematiky moc používat nebudeme, naprostá většina věcí okolo modelů je krásně vysvětlena v publikaci prof. Tkadlece, úzkým hrdlem budou proto asi IT skills.
 
-* Umělá inteligence je skělá pro první návrh jednoduchého kódu, revizi kódu, opravu chyb, návrhy na vylepšení. Je možno používat [chatGPT](https://chat.openai.com) anebo specializovanou službu na programování na ZZZ Code AI, například [vysvětlení kódu](https://zzzcode.ai/python/code-explain) nebo [generátor kódu](https://zzzcode.ai/python/code-generator).
+* Umělá inteligence je skělá pro první návrh jednoduchého kódu, revizi kódu, opravu chyb, návrhy na vylepšení. Je možno používat [chatGPT](https://chat.openai.com).
 * Nejlepší tutoriál Pythonu na světě je <https://www.w3schools.com/python/>. Obsahuje i matplotlib, NumPy, Pandas. 
 * Pro LaTeX stačí umět psát základní matematické výrazy. Pomůže například [nápověda pro Wikpedii](https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Matematick%C3%A9_vzorce), která používá stejný mechanismus. Případně [tento přehled](https://user.mendelu.cz/marik/am/slidy/latex/).
 * Nejlepší servery, kam se chodí pro rady ohledně rozbitého a nefungujícího kódu a pro rady jak něco udělat v Pythonu nebo LaTeXu, jsou <https://stackoverflow.com/questions/tagged/python> a <https://stackexchange.com>. Můžete například kopírovat chybové hlášky do Google vyhledávače a preferovat odkazy směřující na tyto servery.
