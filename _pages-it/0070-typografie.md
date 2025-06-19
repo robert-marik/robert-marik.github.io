@@ -10,11 +10,17 @@ permalink: typografie
 
 ## Typografické zásady
 
+* Proměnné se zapisují speciálním fontem vyhrazeným pro matematiku, tzv. matematickou kurzívou. Tento font je nutné použít pro odlišení matematických, fyzikálních nebo statistických veličin. (Výjimku mohou tvořit matice nebo vektory, které se někdy zapisují tučným písmem bez kurzívy.)
+  * Příklad: Tíhovou sílu $F_G$ určíme z hmotnosti tělesa $m$ vztahem $$F_G=mg,$$
+    kde $g$ je tíhové zrychlení.
+* Značky fyzikálních veličin, jména funkcí a některé další symboly (například písmeno "d" v diferenciálech) píšeme textovým fontem.
+  * Příklad: Hodnota tíhového zrychlení závisí na zeměpisné šířce, v Česku bereme přibližně $g=9.81\,\mathrm{m}\mathrm{s}^{-2}$.
 * Matematický výraz se ve větě chová jako běžné slovo. 
 * Uvnitř věty nikdy nekončí odstavec a nezačíná odstavec další.
-* Důležité rovnice píšeme na samostatný řádek. Ale ani tehdy nerušíme předchozí pravidlo. Systémy mívají schopnosti vycentrovat rovnici na samostatném řádku i bez ukončení odstavce uvnitř věty. 
+* Důležité rovnice píšeme na samostatný řádek. Ale ani tehdy nerušíme předchozí pravidlo o tom, že uvnitř věty nekončí odstavec a nezačíná nový. Systémy mívají schopnosti vycentrovat rovnici na samostatném řádku i bez ukončení odstavce uvnitř věty. Někdy je vhodné připojit číslo, pomocí kterého se budeme na rovnici odkazovat v dalším textu. Toto číslo se zpravidla zarovnává na pravý okraj.
+  * Pythagorova věta $$a^2+b^2=c^2\tag{1}$$ je jednou z nejužitečnějších geometrických identit.
 * Nezapomínáme tečku na konci věty. I když je posledním "slovem" rovnice.
-* Matematické proměnné píšeme speciálním druhem písma, matematickou kurzívou. Značky fyzikálních veličin, jména funkcí a některé další symboly (například písmeno "d" v diferenciálech) píšeme textovým fontem.
+  * Objem koule o poloměru $r$ je dán vztahem $$V=\frac 43 \pi r^3. \tag{2}$$
 * Mezi číslem a jednotkou a v dalších situacích vkládáme mezery dle zvyklostí a norem a dle možností systému, ve kterém text pořizujeme. 
 
 [Video Nepište texty obsahující matematiku se školáckými typografickými chybami](https://youtu.be/yR57IHcZNyo)
@@ -172,11 +178,12 @@ dokumentu. Při ručním formátování se musí vše procházet a opravovat.
 |Číslo|Špatně|Správně|Vysvětlení|
 |-|----|----|----|
 |1|Derivace rychlosti dinosaura podle délky kroku je \\[\frac{\mathrm dv}{\mathrm dl}=1.336*l^{0.67}.\\]|Derivace rychlosti dinosaura podle délky kroku je \\[\frac{\mathrm dv}{\mathrm dl}=1.336 l^{0.67}.\\]|Špatně je zápis násobení. Násobení zapisujeme hvězdičkou jenom ve vstupech pro počítač. Pro texty určené lidem **hvězdičku nepoužíváme**. Nepíšeme buď nic, nebo `\times` nebo `\cdot`, tj. $1.336\times l^{0.67}$ nebo $1.336\cdot l^{0.67}$.|
-|2|Derivace rychlosti dinosaura podle délky kroku je \\[\frac{\mathrm dv}{\mathrm dl}=1.336 \mathrm l^{0.67}.\\]|Derivace rychlosti dinosaura podle délky kroku je \\[\frac{\mathrm dv}{\mathrm dl}=1.336 l^{0.67}.\\]|Špatně je font pro proměnnou označující délku kroku. Matematické proměnné zapisujeme matematickou kurzívou. To je defaultní font v matematickém prostředí, tedy v praxi to znamená, že **nic ručně nepřepínáme**, pokud si opravdu nejsme jisti, že to je potřeba (jako například u jednotek).|
+|2|Derivace rychlosti dinosaura podle délky kroku je \\[\frac{\mathrm dv}\cdot{\mathrm dl}=1.336 \mathrm l^{0.67}.\\]|Derivace rychlosti dinosaura podle délky kroku je \\[\frac{\mathrm dv}{\mathrm dl}=1.336\cdot l^{0.67}.\\]|Špatně je font pro proměnnou označující délku kroku. Matematické proměnné zapisujeme matematickou kurzívou. To je defaultní font v matematickém prostředí, tedy v praxi to znamená, že **nic ručně nepřepínáme**, pokud si opravdu nejsme jisti, že to je potřeba (jako například u jednotek).|
 |3|Derivace rychlosti dinosaura podle délky kroku je \\[\frac{\mathrm dv}{\mathrm dl}=1.336 l^{0.67}\\]|Derivace rychlosti dinosaura podle délky kroku je \\[\frac{\mathrm dv}{\mathrm dl}=1.336 l^{0.67}.\\]|Špatně je chybějící konec věty. Na konci věty píšeme **tečku**. (Pozor, toto pravidlo nemusí platit v anglickém textu, tam záleží na typografovi publikace.)|
 |4|Jednotka derivace rychlosti dinosaura podle délky kroku je $s^{-1}.$|Jednotka derivace rychlosti dinosaura podle délky kroku je $\mathrm s^{-1}.$|Špatně je font pro zápis jednotky. Úmysl byl zapsat převrácenou hodnotu sekundy, ale zapsána je převrácená hodnota dráhy. Fyzikální jednotky se nepíšou matematickou kurzívou, ta je vyhrazena pro proměnné. Přepínáme do **textového fontu** příkazem `\mathrm`.| 
 |5|Jednotka derivace rychlosti dinosaura podle délky kroku je \\[\mathrm s^{-1}.\\]|Jednotka derivace rychlosti dinosaura podle délky kroku je $\mathrm s^{-1}.$|Špatně je umístění vzorce s jednotkou na samostatný řádek. Velmi krátké vzorce si umístění na **samostatný řádek** zaslouží jenom výjimečně. Například pokud vzorec potřebujeme očíslovat. Krátké matematické výrazy píšeme do textu odstavce.| 
 |6|Derivace rychlosti dinosaura podle délky kroku je: \\[\frac{\mathrm dv}{\mathrm dl}=1.336 l^{0.67}.\\]|Derivace rychlosti dinosaura podle délky kroku je \\[\frac{\mathrm dv}{\mathrm dl}=1.336 l^{0.67}.\\]|Špatně je použití dvojtečky. Snažíme se o co nejhladší začlenění matematických výrazů do textu. Kdyby místo vzorce bylo slovo, tak taky žádnou **dvojtečku nepoužíváme**. Proto není potřeba ji psát ani v situaci, kdy je místo slova vzorec. Co není potřeba psát a nepřispívá k čitelnosti, to ani nepíšeme. (Podobně jako tečka za větou, pravidlo nemusí platit v jiných jazycích a při speciálních požadavcích typografa.)|
 |7|Z Buckinghamova II teorému vyplývá pro kužel s daným úhlem u vrcholu vztah mezi objemem $V$ a výškou $h$ ve tvaru \\[V = kh^3.\\]|Pro kužel s daným úhlem u vrcholu je objem $V$ úměrný třetí mocnině výšky $h$, tj. platí \\[V = kh^3\\] pro vhodnou konstantu $k$.|Špatně je název věty, v názvu není římská dvojka, ale velké řecké písmeno "pí". Obecně platí, že **ve vlastních textech používáme jenom takové informace, o kterých jsme stoprocentně přesvědčeni, že jsou správně.** Pokud si například nejsme jisti názvem věty, v naprosté většině textů je možné se mu vyhnout.|
 |8|$k$ je konstanta úměrnosti.|Veličina $k$ je konstanta úměrnosti.|Není vhodné začínat větu matematickým výrazem. Vždy je možné použít formulaci, kdy **věta začíná běžným slovem**. Poté je možné toto slovo napsat s velkým písmenem na začátku a je zcela zřejmé, že zde začíná nová věta.|
+|9|Z Pythagorovy věty $$a^2+b^2=c^2$$ $\qquad$je možné vypočítat délku odvěsny pomocí přepony a druhé odvěsny.|Z Pythagorovy věty $$a^2+b^2=c^2$$ je možné vypočítat délku odvěsny pomocí přepony a druhé odvěsny.|V ukázce je pod rovnicí další odstavec, obvykle se to prozradí odsazením prvního řádku o odstavcovou zarážku.|
 
