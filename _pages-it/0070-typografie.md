@@ -103,6 +103,8 @@ Pokud dáváme do matematického výrazu text, je nutné jej označit jako
 text. Například hustotu počítáme podle vztahu
 \\[\text{hustota}=\frac{\text{objem}}{\text{hmotnost}}.\\] Někdy je indexem text, například můžeme pracovat s teplotou  venku ($T_{\text{venku}}$).
 
+Tímto způsobem se zapisují veličiny, které mají označení složené z více než jednoho písmene. Elegantnější však je dodržovat to, že pro každou veličinu je zkratka tvořena jedním písmenem. Například místo veličiny $\text{MOE}$ (modulus of elasticity) je lepší psát $E$, případně $E_{\text{MOE}}$, nebo $E_{\text{MOE},3}$ a podobně.
+
 ####  Vysvětlení veličin
 
 Pokud vysvětlujeme veličiny vystupující v rovnici není vhodné používat
