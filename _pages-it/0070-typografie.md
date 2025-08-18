@@ -8,6 +8,7 @@ permalink: typografie
 
 <style>
   .markdown-section ul li ul li {background-color: #eeeeee; padding: 15px; margin:5px; }
+  .red {color:red;}
 </style>
 
 
@@ -16,6 +17,8 @@ permalink: typografie
 * Proměnné se zapisují speciálním fontem vyhrazeným pro matematiku, tzv. matematickou kurzívou. Tento font je nutné použít pro odlišení matematických, fyzikálních nebo statistických veličin. (Výjimku mohou tvořit matice nebo vektory, které se někdy zapisují tučným písmem bez kurzívy.)
   * **Příklad (proměnné matematickým fontem):** Tíhovou sílu $F_G$ určíme z hmotnosti tělesa $m$ vztahem \\[F_G=mg,\\]
     kde $g$ je tíhové zrychlení.
+  * <span class="red">**Špatný zápis:** Tíhovou sílu $F_G$ určíme z hmotnosti tělesa m vztahem \\[F_G=mg,\\]
+    kde g je tíhové zrychlení. </span>
 * Značky jednotek fyzikálních veličin, jména funkcí a některé další symboly (například písmeno "d" v diferenciálech) píšeme textovým fontem.
   * **Příklad (jednotky textovým fontem):** Hodnota tíhového zrychlení závisí na zeměpisné šířce, v Česku bereme přibližně $g=9.81\,\mathrm{m}\mathrm{s}^{-2}$.
   * **Příklad (funkce textovým fontem):** Důsledkem Pythagorovy věty na jednotkové kružnici je identita\\[\sin^2 x+\cos^2 x = 1.\\]
