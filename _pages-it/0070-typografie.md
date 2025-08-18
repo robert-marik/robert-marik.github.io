@@ -17,19 +17,24 @@ permalink: typografie
 * Proměnné se zapisují speciálním fontem vyhrazeným pro matematiku, tzv. matematickou kurzívou. Tento font je nutné použít pro odlišení matematických, fyzikálních nebo statistických veličin. (Výjimku mohou tvořit matice nebo vektory, které se někdy zapisují tučným písmem bez kurzívy.)
   * **Příklad (proměnné matematickým fontem):** Tíhovou sílu $F_G$ určíme z hmotnosti tělesa $m$ vztahem \\[F_G=mg,\\]
     kde $g$ je tíhové zrychlení.
-  * <span class="red">**Špatný zápis:** Tíhovou sílu $F_G$ určíme z hmotnosti tělesa m vztahem \\[F_G=mg,\\]
+  * <span class="red">**Špatný zápis (ve dvou případech není matematický font):** Tíhovou sílu $F_G$ určíme z hmotnosti tělesa m vztahem \\[F_G=mg,\\]
     kde g je tíhové zrychlení. </span>
 * Značky jednotek fyzikálních veličin, jména funkcí a některé další symboly (například písmeno "d" v diferenciálech) píšeme textovým fontem.
   * **Příklad (jednotky textovým fontem):** Hodnota tíhového zrychlení závisí na zeměpisné šířce, v Česku bereme přibližně $g=9.81\,\mathrm{m}\mathrm{s}^{-2}$.
+  * <span class="red">**Špatný zápis (font u fyzikální veličiny):** Hodnota tíhového zrychlení závisí na zeměpisné šířce, v Česku bereme přibližně g=9.81 ms${}^{-2}$.</span>
+  * <span class="red">**Špatný zápis (font u fyzikální jednotky):** Hodnota tíhového zrychlení závisí na zeměpisné šířce, v Česku bereme přibližně $g=9.81\,m\,s^{-2}$.</span>
   * **Příklad (funkce textovým fontem):** Důsledkem Pythagorovy věty na jednotkové kružnici je identita\\[\sin^2 x+\cos^2 x = 1.\\]
+  * <span class="red">**Špatný zápis (funkce jsou špatným fontem):** Důsledkem Pythagorovy věty na jednotkové kružnici je identita\\[sin^2 x+cos^2 x = 1.\\]</span>
 * Matematický výraz se ve větě chová jako běžné slovo, pokud za ním má následovat čárka, následuje za ním čárka. Podobně s tečkou. 
   * **Příklad (čárka před "který", "kde" apod)** Použijeme Pythagorovu větu pro přeponu $c$, která je nejdelší stranou pravoúhlého trojúhelníka. 
   * **Příklad (čárka před "který", "kde" apod):** Použijeme identitu \\[a^2+b^2=c^2, \\] která je známa jako Pythagorova věta. 
+  * <span class="red">**Špatný zápis (chybí čárka):** Použijeme identitu \\[a^2+b^2=c^2 \\] která je známa jako Pythagorova věta.</span>
 * Uvnitř věty nikdy nekončí odstavec a nezačíná odstavec další.
 * Důležité rovnice píšeme na samostatný řádek. Ale ani tehdy nerušíme předchozí pravidlo o tom, že uvnitř věty nekončí odstavec a nezačíná nový. Systémy mívají schopnosti vycentrovat rovnici na samostatném řádku i bez ukončení odstavce uvnitř věty. Někdy je vhodné připojit číslo, pomocí kterého se budeme na rovnici odkazovat v dalším textu. Toto číslo se zpravidla zarovnává na pravý okraj.
   * **Příklad (rovnice s číslem):** Pythagorova věta \\[a^2+b^2=c^2\tag{1}\\] je jednou z nejužitečnějších geometrických identit.
 * Nezapomínáme tečku na konci věty. I když je posledním "slovem" rovnice.
   * **Příklad (tečka na konci věty):** Objem koule o poloměru $r$ je dán vztahem \\[V=\frac 43 \pi r^3. \tag{2}\\]
+  * <span class="red">**Špatný zápis (chybí tečka na konci věty):** Objem koule o poloměru $r$ je dán vztahem \\[V=\frac 43 \pi r^3 \tag{3}\\]</span>
 * Mezi číslem a jednotkou a v dalších situacích vkládáme mezery dle zvyklostí a norem a dle možností systému, ve kterém text pořizujeme. 
 
 [Video Nepište texty obsahující matematiku se školáckými typografickými chybami](https://youtu.be/yR57IHcZNyo)
