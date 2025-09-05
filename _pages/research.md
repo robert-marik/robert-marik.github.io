@@ -374,6 +374,13 @@ differential equations*](http://user.mendelu.cz/marik/talks/2012_CDDEA-terchova.
     constants*](http://user.mendelu.cz/marik/talks/2014_Koyto_RIMS.pdf),
     Research Institute for Mathematical Sciences (RIMS) Kyoto
     University, Kyoto, Japan, November 2014.
+25. The 67th SWST International Convention,  Portorož, Slovenia 2024.
+    [Acoustic tomography for standing
+    trees](http://user.mendelu.cz/marik/talks/Marik_SWST_2024.pdf)
+26. 7-th International Conference “WOOD TECHNOLOGY & PRODUCT DESIGN”. 
+    [Resistograph meets tomograph](http://user.mendelu.cz/marik/talks/Marik_WOOD_2025.pdf)
+    Faculty of Design and Technologies of Furniture and Interior, Ss. Cyril and Methodius University in Skopje, Republic of North Macedonia.
+    
 
 ### Conferences focused on education
 
