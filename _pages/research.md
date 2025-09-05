@@ -378,7 +378,7 @@ differential equations*](http://user.mendelu.cz/marik/talks/2012_CDDEA-terchova.
     [Acoustic tomography for standing
     trees](http://user.mendelu.cz/marik/talks/Marik_SWST_2024.pdf)
 26. 7-th International Conference “WOOD TECHNOLOGY & PRODUCT DESIGN”. 
-    [Resistograph meets tomograph](http://user.mendelu.cz/marik/talks/Marik_WOOD_2025.pdf)
+    [Resistograph meets tomograph](http://user.mendelu.cz/marik/talks/Marik_Ohrid_2025.pdf)
     Faculty of Design and Technologies of Furniture and Interior, Ss. Cyril and Methodius University in Skopje, Republic of North Macedonia.
     
 
