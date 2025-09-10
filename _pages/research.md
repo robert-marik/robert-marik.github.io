@@ -17,7 +17,7 @@ layout: post
     system](http://is.mendelu.cz/lide/clovek.pl?id=3785) and [Google
     Scholar](http://scholar.google.com/citations?user=n1K58IYAAAAJ)
 
-# Last talk
+## Current talk
 
 - [Ohrid html](https://robert-marik.github.io/resistograph_meets_tomograph/talk.html)
 - [Ohrid PDF](https://robert-marik.github.io/resistograph_meets_tomograph/talk.pdf)
