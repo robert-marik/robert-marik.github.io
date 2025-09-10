@@ -24,10 +24,10 @@ layout: post
 
 ## Published research papers
 
-
+1. R. Berezjuk, P. Nop, R. Mařík, R. Gracovský, J. Tippner, Towards more accurate grading: non-destructive methods for assessing low-quality sawlogs, Holzforschung – International Journal of the Biology, Chemistry, Physics and Technology of Wood, Volume 39, 2025, ISSN 0018-3830. <https://doi.org/10.1515/hf-2025-0039>
 1. V. Cristini, J. Tippner, M. Tomšovský, J. Zlámal, R. Mařík, 
    *Acoustic tomography outputs in comparison to the properties of 
-   degraded wood in beech trees.* European journal of wood and wood products. 2022. sv. 80, č. 6, s. 1377--1387. ISSN 0018-3768. URL: https://doi.org/10.1007/s00107-022-01872-w
+   degraded wood in beech trees.* European journal of wood and wood products. 2022. sv. 80, č. 6, s. 1377--1387. ISSN 0018-3768. <https://doi.org/10.1007/s00107-022-01872-w>
 1. B. Vojáčková, J. Tippner, P. Horáček, V. Sebera, L. Praus, R. Mařík, M. Brabec, *The effect of stem and root-plate defects on the tree response during static loading - Numerical analysis*, Urban Forestry & Urban Greening
    Volume 59, April 2021. [online](https://doi.org/10.1016/j.ufug.2021.127002)
 1.  S. Fišnarová, R. Mařík, *Oscillation of second order half-linear neutral differential equations with weaker restrictions on shifted arguments*, Mathematica Slovaca, vol. 70 (2020) No.2, 389-400. ISSN
@@ -378,6 +378,13 @@ differential equations*](http://user.mendelu.cz/marik/talks/2012_CDDEA-terchova.
     constants*](http://user.mendelu.cz/marik/talks/2014_Koyto_RIMS.pdf),
     Research Institute for Mathematical Sciences (RIMS) Kyoto
     University, Kyoto, Japan, November 2014.
+25. The 67th SWST International Convention,  Portorož, Slovenia 2024.
+    [Acoustic tomography for standing
+    trees](http://user.mendelu.cz/marik/talks/Marik_SWST_2024.pdf)
+26. 7-th International Conference “WOOD TECHNOLOGY & PRODUCT DESIGN”. 
+    [Resistograph meets tomograph](http://user.mendelu.cz/marik/talks/Marik_Ohrid_2025.pdf)
+    Faculty of Design and Technologies of Furniture and Interior, Ss. Cyril and Methodius University in Skopje, Republic of North Macedonia.
+    
 
 ### Conferences focused on education
 
