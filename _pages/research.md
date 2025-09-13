@@ -6,10 +6,16 @@ category: Jekyll
 layout: post
 ---
 
--   Qualitative theory of partial and ordinary differential equations,
-    oscillation properties.
--   Qualitative theory of linear and half-linear difference equations.
--   Application of mathematics to selected problems in biology, forestry, urban forestry, material engineering
+-   Current research interest
+    - Arboristics, acoustic tomography
+    - Wood engineering, anizotropic materials
+    - Data processing
+    - Application of mathematics to selected problems in biology, forestry, urban forestry, material engineering
+-   Former reserch interest
+    -   Qualitative theory of partial and ordinary differential equations,
+        oscillation properties.
+    -   Qualitative theory of linear and half-linear difference equations.
+    -   Application of mathematics to selected problems in biology, forestry, urban forestry, material engineering
 -   [Researcher ID page](http://www.researcherid.com/rid/B-1207-2010)
 -   [ORCID 0000-0001-7109-1526](https://orcid.org/0000-0001-7109-1526)
 -   [Scopus Author ID 6602164820](http://www.scopus.com/authid/detail.url?authorId=6602164820).
