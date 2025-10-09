@@ -36,6 +36,9 @@ permalink: typografie
   * **Příklad (tečka na konci věty):** Objem koule o poloměru $r$ je dán vztahem \\[V=\frac 43 \pi r^3. \tag{2}\\]
   * <span class="red">**Špatný zápis (chybí tečka na konci věty):** Objem koule o poloměru $r$ je dán vztahem \\[V=\frac 43 \pi r^3 \tag{3}\\]</span>
 * Mezi číslem a jednotkou a v dalších situacích vkládáme mezery dle zvyklostí a norem a dle možností systému, ve kterém text pořizujeme. 
+* Násobení se nepíše pomocí hvězdičky ani tečky na lince. Nepoužívá se nic (např. $ab$), nebo binární operátor křížek (např. $a\times b$) nebo binární operátor centrovaná tečka (např. $a\cdot b$). Špatné varianty jsou $a\mathrm{x}b$, $a.b$, $a*b$.
+  * **Příklad (násobení):** Kinetická energie tělesa o hmotnosti $m$ pohybujícího se rychlostí $v$ je \\[E=\frac 12 mv^2.\\]
+  * <span class="red">**Špatný zápis (nesmí být hvězdička):** Kinetická energie tělesa o hmotnosti $m$ pohybujícího se rychlostí $v$ je \\[E=\frac 12 * m*v^2.\\]</span>
 
 [Video Nepište texty obsahující matematiku se školáckými typografickými chybami](https://youtu.be/yR57IHcZNyo)
 
