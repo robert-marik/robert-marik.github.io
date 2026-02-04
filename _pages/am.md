@@ -8,8 +8,6 @@ layout: post
 
 {% include float_image.html image_path="/images/am_logo.jpg" description='Pro popis vlastností v materiálu je zásadní schopnost modelovat transport tekutin a energie materiálem. Na obrázku výzkumá aparatura VCJR v Útěchově.' %}
 
-Zimní semestr - podzim a zima 2024
-
 ### Úvodem
 
 Předmět se drží těchto zásad:
@@ -53,7 +51,19 @@ nebo si zopakovat [zde](https://robert-marik.github.io/pages/mt/).
 
 ## Informace
 
-Veškeré informace kromě předášek a cvičení jsou k dispozici v [Moodle Mendelu, Aplikovaná matematika](https://moodle.mendelu.cz/course/view.php?id=814). Při přilašování do Moodle použijte Shidboleth login a stejné údaje jako při přihlašování do UIS. Pro zápis do předmětu použijte kód, který bude rozeslán mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od spolužáků. 
+
+* Texty přednášek a cvičení jsou dostupné na [GitHub Pages, Aplikovaná
+  matematika](https://robert-marik.github.io/am/).
+* Presenční studium: podmínky pro ukončení, ukázkové písemky, přihlašování do
+  domácích úloh jsou k dispozici v [Moodle Mendelu, Aplikovaná
+  matematika](https://moodle.mendelu.cz/course/view.php?id=814). Při
+  přihlašování do Moodle použijte Shibboleth login a stejné údaje jako při
+  přihlašování do UIS. Pro zápis do předmětu použijte kód, který bude rozeslán
+  mailem na začátku výuky a sdělen na přednášce. Můžete si ho i zjistit od
+  spolužáků. 
+* Kombinované studium: podmínky pro ukončení, ukázkové písemky, login a heslo pro
+  přihlašování do
+  domácích úloh sdělí vyučující. 
 
 
 ## Přednášky a cvičení
