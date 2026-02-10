@@ -18,8 +18,7 @@ h4 {clear:both}
 
 #### Maticový součin jako transformace roviny
 
-![](https://user.mendelu.cz/marik/manim/thumbs/MatrixMultiplication.jpg)
-
+![](https://um.mendelu.cz/manim/thumbs/MatrixMultiplication.jpg)
 
 Správné pochopení maticového součinu je důležité pro pochopení, jak
 formulujeme materiálové vztahy pro anizotropní materiály. Nejde přitom o
@@ -30,11 +29,11 @@ prezentace pro promítání na přednášce.
 
 *lineární algebra, součin matic, transformace souřadnic*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/MatrixMultiplication/)
+* [Prezentace](https://um.mendelu.cz/manim/MatrixMultiplication/)
 
 #### Transformace tenzoru malých deformací
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Deformation.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Deformation.jpg)
 
 
 Prezentace ukazuje, že tenzor malých deformací má v různých soustavách
@@ -45,12 +44,12 @@ algebry (bez Mohrovy kružnice a bez vzorců se směrovými kosiny).
 
 *lineární algebra, součin matic, transformace tenzoru*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Deformation/)
+* [Prezentace](https://um.mendelu.cz/manim/Deformation/)
 * [Video](https://youtu.be/6GeNZzUeF6M)
 
 #### Anatomické směry dřeva a vlastní směry matice
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Eigenvectors.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Eigenvectors.jpg)
 
 
 Prezentace podává geometrickou interpretaci vlastních směrů matice. Dále
@@ -59,12 +58,12 @@ v materiálu. Konkrétně ve dřevě.
 
 *lineární algebra, součin matic, vlastní směry a vlastní hodnoty*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Eigenvectors)
+* [Prezentace](https://um.mendelu.cz/manim/Eigenvectors)
 * [Video](https://youtu.be/vfzT25D6Zz8)
 
 #### Rovnice vedení tepla v jedné dimenzi
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Heat.jpg) 
+![](https://um.mendelu.cz/manim/thumbs/Heat.jpg) 
 
 Ve videu je ukázáno, jak probíhá vedení tepla v jedné dimenzi (podél
 tyče, napříč stěnou apod.) a jak umíme principy řídící tento proces
@@ -72,12 +71,12 @@ modelovat pomocí matematických vztahů.
 
 *diferenciální rovnice, parciální derivace, rovnice mateamtické fyziky*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Heat/)
+* [Prezentace](https://um.mendelu.cz/manim/Heat/)
 * [Video](https://youtu.be/1tbe5YUvoqg)
 
 #### Gradient a tok ve dřevě a ortotropních materiálech
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Flow.jpg) 
+![](https://um.mendelu.cz/manim/thumbs/Flow.jpg) 
 
 Prezentace ukazuje, jak se spád teploty projeví na toku tepla. Je
 uvažován dvoudimenzionální případ a materiál s odlišnými vlastnostmi v
@@ -87,12 +86,12 @@ ale tenzory druhého řádu (matice).
 
 *lineární algebra, parciální derivace, gradient, součin matic*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Flow)
+* [Prezentace](https://um.mendelu.cz/manim/Flow)
 * [Video](https://youtu.be/PzFh8f9Qzf8)
 
 #### Konečné diference a simulace Newtonova zákona ochlazování
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Diference.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Diference.jpg)
 
 
 Ve videu jsou shrnuty metody umožňující popisovat rychlost růstu funkce,
@@ -105,12 +104,12 @@ izolovaných bodech, tedy místo derivace použijeme konečné diference.
 
 *diferenciální rovnice, derivace, konečná diference*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Diference)
+* [Prezentace](https://um.mendelu.cz/manim/Diference)
 * [Video](https://youtu.be/r_Ae2mGnfFs)
 
 #### Divergence a rovnice kontinuity
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Divergence.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Divergence.jpg)
 
 
 Ve videu je ukázáno, jak probíhá vedení tepla v jedné dimenzi (podél
@@ -120,12 +119,12 @@ modelovat pomocí matematických vztahů.
 *parciální derivace, divergence, rovnice kontiuity, rovnice matematické
 fyziky*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Divergence/)
+* [Prezentace](https://um.mendelu.cz/manim/Divergence/)
 * [Video](https://youtu.be/Vk8OAq3_40g)
 
 #### Logistický lov
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Logistic.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Logistic.jpg)
 
 
 Prezentace se zabývá logistickou diferenciální rovnicí. Ukazuje, že tato
@@ -137,12 +136,12 @@ stacionární body a jejich stabilitu.
 *diferenciální rovnice, derivace, stabilita stacionárních bodů,
 populační modely*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Logistic)
+* [Prezentace](https://um.mendelu.cz/manim/Logistic)
 * [Video](https://youtu.be/NyLkjOTYzVQ)
 
 #### Model dravce a kořisti
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Predator_prey.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Predator_prey.jpg)
 
 
 Klasický Lotkův Volterrův model dravce a kořisti. Odvození rovnic,
@@ -151,12 +150,12 @@ několik způsobů vizualizace a diskuse, jak parametry ovlivňují chování
 
 *diferenciální rovnice, autonomní systémy, derivace*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Predator_prey)
+* [Prezentace](https://um.mendelu.cz/manim/Predator_prey)
 * [Video](https://youtu.be/zihShrEOJAU)
 
 #### Stacionární body diferenciální rovnice a jejich bifurkace
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Stabilita.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Stabilita.jpg)
 
 
 Diferenciální rovnice jsou základním vyjadřovacím prostředkem pro
@@ -168,12 +167,12 @@ malou změnou podmínek, je shrnuto v prezentaci.
 
 *diferenciální rovnice, bifurkace, stacionární body*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Stabilita/)
+* [Prezentace](https://um.mendelu.cz/manim/Stabilita/)
 * [Video](https://youtu.be/Siu5ZgEA59s)
 
 #### Model populace obaleče
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Obalec.jpg) 
+![](https://um.mendelu.cz/manim/thumbs/Obalec.jpg) 
 
 Diferenciální rovnice je možno použít pro vysvětlení, proč v kanadských
 lesích dochází k periodickému přemnožování obaleče *Choristoneura
@@ -183,12 +182,12 @@ svého nasycení.
 
 *diferenciální rovnice, bifurkace, logistický růst, populační modely*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Obalec/)
+* [Prezentace](https://um.mendelu.cz/manim/Obalec/)
 * [Video](https://youtu.be/iFmQWcR_JX4)
 
 #### Model soupeření jestřábí a holubičí povahy
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Hawk_and_dove_game.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Hawk_and_dove_game.jpg)
 
 
 Diferenciální rovnice je možno použít pro vysvětlení, proč je populace,
@@ -196,12 +195,12 @@ kde mezi sebou jedinci nebojují, ekologicky nestabilní a neudržitelná.
 
 *diferenciální rovnice, bifurkace*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Hawk_and_dove_game/)
+* [Prezentace](https://um.mendelu.cz/manim/Hawk_and_dove_game/)
 * [Video](https://youtu.be/zAzZrIShj9U)
 
 #### Zákon šíření chyb
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Chyby.jpg) 
+![](https://um.mendelu.cz/manim/thumbs/Chyby.jpg) 
 
 Zákon šíření chyb udává, jak se nepřesnosti ve stanovení naměřených
 veličin projeví na nepřesnosti, se kterou je stanovena veličina, kterou
@@ -211,11 +210,11 @@ Zatím není video, jenom prezentace pro promítání na přednášce.
 
 *parciální derivace*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Chyby/)
+* [Prezentace](https://um.mendelu.cz/manim/Chyby/)
 
 #### Model konkurence dvou druhů
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Konkurence_druhu.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Konkurence_druhu.jpg)
 
 
 Diferenciální rovnice a jejich soustavy je možno použít pro vysvětlení
@@ -228,11 +227,11 @@ Zatím není video, jenom prezentace pro promítání na přednášce.
 
 *diferenciální rovnice, populační modely*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Konkurence_druhu/)
+* [Prezentace](https://um.mendelu.cz/manim/Konkurence_druhu/)
 
 #### Transformace diferenciálních rovnic
 
-![](https://user.mendelu.cz/marik/manim/thumbs/ODE_transformace.jpg)
+![](https://um.mendelu.cz/manim/thumbs/ODE_transformace.jpg)
 
 
 Diferenciální rovnice používané k modelování reálných dějů obsahují
@@ -248,11 +247,11 @@ násobku.
 *diferenciální rovnice, transformace, rovnice ochlazování, logistická
 rovnice*
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/ODE_transformace/)
+* [Prezentace](https://um.mendelu.cz/manim/ODE_transformace/)
 
 #### Lineární aproximace v praxi
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Linearni_aproximace.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Linearni_aproximace.jpg)
 
 
 Lineární aproximace je jeden z nejmocnějších inženýrských nástrojů.
@@ -261,35 +260,35 @@ univerzálně platný vzorec pro kinetickou energii redukuje na jednoduchý
 středoškolský, který je sice mnohem jednodušší, ale platí jenom pro
 běžné rychlosti.
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Linearni_aproximace/)
+* [Prezentace](https://um.mendelu.cz/manim/Linearni_aproximace/)
 
 * [Video](https://youtu.be/aOvVJzeWy3o)
 
 #### Vlastní čísla lineárních autonomních systémů
 
-![](https://user.mendelu.cz/marik/manim/thumbs/AS_vlastni_cisla.jpg)
+![](https://um.mendelu.cz/manim/thumbs/AS_vlastni_cisla.jpg)
 
 
 Chování trajektorií v okolí stacionárních bodů lineárního autonomního
 systému je možné odhalit pomocí vlastních čísel. Prezentace (video bude
 následovat) ukazuje, jak na to.
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/AS_vlastni_cisla/)
+* [Prezentace](https://um.mendelu.cz/manim/AS_vlastni_cisla/)
 
 #### Linearizace autonomních systémů
 
-![](https://user.mendelu.cz/marik/manim/thumbs/AS_linearizace.jpg)
+![](https://um.mendelu.cz/manim/thumbs/AS_linearizace.jpg)
 
 
 Lineární aproximace autonomních systémů umožňuje popsat chování řešení.
 To nás zajímá zejména u stacionárních bodů (všude jinde je to triviální
 a trajektorie míří směrem, kterým míří směrové pole).
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/AS_linearizace/)
+* [Prezentace](https://um.mendelu.cz/manim/AS_linearizace/)
 
 #### Křivkový integrál druhého druhu
 
-![](https://user.mendelu.cz/marik/manim/thumbs/integracni_cesta.jpg)
+![](https://um.mendelu.cz/manim/thumbs/integracni_cesta.jpg)
 
 
 Křivkový integrál druhého druhu může a nemusí záviset na integrační
@@ -298,41 +297,41 @@ definovat potenciál (obdoba potenciální energie gravitačního pole) a
 přejít od vektorového popisu k nesrovnatelně jednoduššímu skalárnímu
 ppisu.
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/integracni_cesta/)
+* [Prezentace](https://um.mendelu.cz/manim/integracni_cesta/)
 
 #### Nosník
 
-![](https://user.mendelu.cz/marik/manim/thumbs/beam.jpg) 
+![](https://um.mendelu.cz/manim/thumbs/beam.jpg) 
 
 Odvození rovnice ohybové čáry nosníku a role kvadratického momentu
 průřezu při deformaci.
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/beam/)
+* [Prezentace](https://um.mendelu.cz/manim/beam/)
 
 #### Hlavní myšlenka pro zavedení derivace
 
-![](https://user.mendelu.cz/marik/manim/thumbs/derivace.jpg)
+![](https://um.mendelu.cz/manim/thumbs/derivace.jpg)
 
 
 Definice derivace je založena na tom, že umíme dobře měřit rychlost
 růstu lineární funkce a že nelineární růst je při dostatečném zvětšení
 podobný lineárnímu.
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/derivace/)
+* [Prezentace](https://um.mendelu.cz/manim/derivace/)
 
 #### Derivace a chování funkce
 
-![](https://user.mendelu.cz/marik/manim/thumbs/PrubehFunkce.jpg)
+![](https://um.mendelu.cz/manim/thumbs/PrubehFunkce.jpg)
 
 
 Pomocí derivace dokážeme zjistit, jak rychle funkce roste a také, jak
 rychle se tato rychlost mění.
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/PrubehFunkce/)
+* [Prezentace](https://um.mendelu.cz/manim/PrubehFunkce/)
 
 #### Určitý integrál
 
-![](https://user.mendelu.cz/marik/manim/thumbs/UrcityIntegral.jpg)
+![](https://um.mendelu.cz/manim/thumbs/UrcityIntegral.jpg)
 
 
 Pomocí určitého integrálu zpravidla určujeme veličiny, které jsou
@@ -340,31 +339,31 @@ aditivní, které bychom v případě konstantních podmínek určili prostým
 součinem, ale podmínky konstantní nejsou. Klasickým příkladem je poloha
 pohybu, který probíhá proměnnou rychlostí.
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/UrcityIntegral/)
+* [Prezentace](https://um.mendelu.cz/manim/UrcityIntegral/)
 
 #### Rotace Sarussovým pravidlem
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Curl.jpg) 
+![](https://um.mendelu.cz/manim/thumbs/Curl.jpg) 
 
 Rotace vektorového pole se počítá jako vektorový součin nabla operátoru
 a vektorového pole. Pro zápis je výhodné Sarussovo pravidlo výpočtu
 determinantů.
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Curl/)
+* [Prezentace](https://um.mendelu.cz/manim/Curl/)
 
 #### Směrové pole
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Slope_field.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Slope_field.jpg)
 
 
 Animace tvorby směrového pole a kreslení integrálních křivek do
 směrového pole.
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Slope_field/)
+* [Prezentace](https://um.mendelu.cz/manim/Slope_field/)
 
 #### Spojitost, limita
 
-![](https://user.mendelu.cz/marik/manim/thumbs/Spojitost.jpg)
+![](https://um.mendelu.cz/manim/thumbs/Spojitost.jpg)
 
 
 Limita pro nás bude pomocný nástroj, který umožňuje v některých
@@ -372,7 +371,7 @@ případech dodefinovat nespojité funkce tak, aby se staly spojitými. V
 určitém smyslu nám tam umožní v některých případech dělat dosud zakázané
 operace, jako napříkald dělení nulou.
 
-* [Prezentace](https://user.mendelu.cz/marik/manim/Spojitost/)
+* [Prezentace](https://um.mendelu.cz/manim/Spojitost/)
 
 
 </div>
