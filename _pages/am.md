@@ -85,6 +85,7 @@ parciálními derivacemi, které dokáží zachytit rychlost změn, ať už v
 ke kvantitativnímu popisu přírodních dějů. Jako aplikaci parciálních
 derivací odvodíme rovnici vedení tepla v jedné dimenzi. Tu je možno
 použít například při modelování prostupu tepla stěnou nebo oknem.*
+     * [AI videopodcast](https://youtu.be/XBCS0yVSwbo)
      * [Přednáška](https://robert-marik.github.io/am/01)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni01.html)
 1. ![02.jpg](/images/am/02.jpg) *Gradient
