@@ -85,7 +85,7 @@ parciálními derivacemi, které dokáží zachytit rychlost změn, ať už v
 ke kvantitativnímu popisu přírodních dějů. Jako aplikaci parciálních
 derivací odvodíme rovnici vedení tepla v jedné dimenzi. Tu je možno
 použít například při modelování prostupu tepla stěnou nebo oknem.*
-     * [AI videopodcast](https://youtu.be/XBCS0yVSwbo)
+     * [AI videopodcast](https://youtu.be/ZxaLsLVz51Q)
      * [Přednáška](https://robert-marik.github.io/am/01)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni01.html)
 1. ![02.jpg](/images/am/02.jpg) *Gradient
@@ -98,6 +98,7 @@ přidává fakt, že příroda někdy usměrňuje proudění v materiálech do s
 preferovaných směrů. Jsou to jakési dálnice, které strhávají například
 proudění hmoty nebo tepla. Ve dřevu jsou tyto dálnice poměrně výrazné a
 jsou v podélném směru.*
+     * [AI videopodcast](https://youtu.be/AO_GZ8J4PwE)
      * [Přednáška](https://robert-marik.github.io/am/02)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni02.html)
 1. ![03.jpg](/images/am/03.jpg) *Podrobněji se podíváme
