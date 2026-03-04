@@ -108,6 +108,7 @@ matematický popis libovolného transportního jevu. Toto zahrnuje jako
 speciální případy vedení tepla, proudění mělké nebo podzemní vody,
 difuzi nebo sušení dřeva. Častým praktickým úkolem je modelování
 fyzikálních polí (teploty a vlhkosti) v okolí okna.*
+     * [AI videopodcast](https://youtu.be/ZLRXGCsKbrU)
      * [Přednáška](https://robert-marik.github.io/am/03)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni03.html)
      * [Je náš svět 3D?](https://user.mendelu.cz/marik/am/slovni_ulohy/#parci%C3%A1ln%C3%AD-derivace-vektorov%C3%A9ho-pole)
