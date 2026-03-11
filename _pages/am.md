@@ -122,6 +122,7 @@ rozhodne, zda pole roztáčí objekty, které jsou tímto polem unášeny.
 Takové je třeba rychlostní pole v řece. Praktické využití znají
 například vodáci, kteří najíždí do proudu napříč a proud je sám stočí
 obloučkem do svého směru.*
+     * [AI videopodcast](https://youtu.be/LaIE_QfnO4A)
      * [Přednáška](https://robert-marik.github.io/am/04)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni04.html)
 
