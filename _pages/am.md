@@ -138,6 +138,7 @@ rostlin. Práce souvisí s potenciální energií a proto se dá čekat, že
 bude i souvislost s operátorem rotace, představeným na předchozí
 přednášce. Na takovou souvislost si ovšem budeme muset ještě nějaký ten
 týden počkat.*
+     * [AI videopodcast](https://youtu.be/lsxSxO3pBRA)
      * [Přednáška](https://robert-marik.github.io/am/05)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni05.html)
 1. ![06.jpg](/images/am/06.jpg) *Pokračujeme v rozšiřování integračních možností a naučíme se integrovat přes dvourozměrné množiny. Aplikací je například výpočet charakteristik důležitých pro posouzení odolnosti nosníku vůči
