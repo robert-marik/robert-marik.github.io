@@ -202,7 +202,7 @@ diferenciální rovnice druhého řádu objeví při studiu parciálních
 diferenciálních rovnic, například při studiu rovnice vedení tepla.*
      * [Přednáška](https://robert-marik.github.io/am/11)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni11.html)
-1. ![12.jpg](/images/am/12.jpg) *Ukážeme si základní postupy numerické matematiky a
+1. ![12.png](/images/am/12.png) *Ukážeme si základní postupy numerické matematiky a
 jak se používají pro diskretizaci a nondimenzionalizaci diferenciálních rovnic. Numerické řešení.*
      * [Přednáška](https://robert-marik.github.io/am/12)
      * Cvičení: dle instrukcí vyučujícího
