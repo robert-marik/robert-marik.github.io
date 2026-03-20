@@ -202,8 +202,11 @@ diferenciální rovnice druhého řádu objeví při studiu parciálních
 diferenciálních rovnic, například při studiu rovnice vedení tepla.*
      * [Přednáška](https://robert-marik.github.io/am/11)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni11.html)
-1. Základní postupy numerické matematiky. Diskretizace a nondimenzionalizace diferenciálních rovnic. Numerické řešení.
-     * [Konečné diference](https://robert-marik.github.io/am/01/#numericka-aproximace-derivaci-konecne-diference)
+1. ![12.jpg](/images/am/12.jpg) *Ukážeme si základní postupy numerické matematiky a
+jak se používají pro diskretizaci a nondimenzionalizaci diferenciálních rovnic. Numerické řešení.*
+     * [Přednáška](https://robert-marik.github.io/am/12)
+     * Cvičení: dle instrukcí vyučujícího
+1. * [Konečné diference](https://robert-marik.github.io/am/01/#numericka-aproximace-derivaci-konecne-diference)
 	     * [Konečné diference a řešení DR Eulerovou metodou](https://user.mendelu.cz/marik/manim/Diference/)
 	 * [Nondimenzionalizace](https://robert-marik.github.io/am/08/#transformace-diferencialni-rovnice) obyčejné diferenciální rovnice
 	     * [Nondimenzionalizace v růstových modelech](https://robert-marik.github.io/am/10/#logisticka-diferencialni-rovnice-s-predatory)
