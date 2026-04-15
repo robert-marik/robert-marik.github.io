@@ -180,6 +180,7 @@ které jsou lineární se chovají v jistém smyslu pěkně a mnoho vlastností
 mají podobných. Naprostá většina technicky zajímavých jevů a dějů snese
 lineární aproximaci a tím pádem umožní i jednotný popis řešení tak, jak
 se s ním seznámíme na přednášce.*
+     * [AI videopodcast](https://youtu.be/8LlHYWIjUhw)
      * [Přednáška](https://robert-marik.github.io/am/09)
      * [Cvičení](https://robert-marik.github.io/am/cviceni/cviceni09.html)
 1. ![10.jpg](/images/am/10.jpg) *Poznáme
