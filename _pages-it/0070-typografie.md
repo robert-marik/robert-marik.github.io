@@ -91,9 +91,8 @@ texty psát technicky, je popsáno na stránce [LaTeX](latex).
 * Věta nezačíná číslem ani matematickým výrazem. Pár slov na úvod udělá text čtivější a je zřejmé, kde začíná nová věta.
   * **✔ Správně:** Veličina $k$ je konstanta úměrnosti.
   * <span class="bad">**✘ Špatně:** $k$ je konstanta úměrnosti.</span>
-* Pokud vysvětlujeme veličiny vystupující v rovnici, není vhodné používat pomlčky, ani pomlčky následované slovesem "je". Nejjednodušší je vysvětlení pomocí slovesa "je" jako součást věty. Další možností je výčet nebo tabulka, ale v tomto případě je nutné vyřešit zarovnání.
+* Pokud vysvětlujeme veličiny vystupující v rovnici, není vhodné používat pomlčky, ani pomlčky následované slovesem "je". Nejjednodušší je vysvětlení pomocí slovesa "je" jako součást věty.
   * **✔ Správně (vysvětlení ve větě):** Kinetická energie je \\[E=\frac 12 mv^2,\\] kde $m$ je hmotnost tělesa a $v$ je jeho rychlost.
-  * **✔ Správně (zarovnaný výčet):** Kinetická energie je $E=\frac 12 mv^2$. Význam symbolů je následující. \\[\begin{aligned} E&\quad \text{kinetická energie},\\\\ m&\quad \text{hmotnost tělesa},\\\\ v&\quad \text{rychlost tělesa}.\end{aligned}\\]
   * <span class="bad">**✘ Špatně (pomlčky):** Kinetická energie je \\[E=\frac 12 mv^2,\\] $m$ – je hmotnost tělesa, $v$ – rychlost tělesa.</span>
 * Výčet se píše příkazy pro výčet. Není prostor pro ruční formátování a nepoužívají se tvrdé konce řádku ani odstavce. V Markdownu se výčet píše například pomocí hvězdičky, v LaTeXu pomocí prostředí typu `enumerate`, `itemize`, ..., ve Wordu pomocí odrážek.
 
