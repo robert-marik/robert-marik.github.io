@@ -1,5 +1,5 @@
 ---
-title: fail2ban na Ubuntu
+title: fail2ban
 author: Robert Mařík
 date: 2026-11-20
 layout: post

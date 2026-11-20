@@ -1,5 +1,5 @@
 ---
-title: Python v Dockeru s micromambou
+title: Python v Dockeru
 author: Robert Mařík
 date: 2026-11-20
 layout: post
