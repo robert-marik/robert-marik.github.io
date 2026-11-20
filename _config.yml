@@ -75,3 +75,6 @@ collections:
   pages-it:
     output: true
     title: Podpora využití počítačů
+  pages-navody:
+    output: true
+    title: Návody a taháky

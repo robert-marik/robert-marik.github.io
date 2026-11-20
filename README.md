@@ -28,6 +28,7 @@ Takový analytický výpočet nosníku, užitečný pro strojaře nebo stavaře,
 * [Aplikovaná matematika](/pages/am) a Inženýrská matematika pro první ročníky magisterského studia. Navazuje na předchozí matematiku.
 * [Dynamické modely populací](/pages/dmp). Poprvé se učí od jara 2023. 
 * [Věda, výzkum](/pages/research). Publikace, konference, vědecké počiny.
+* [Návody a taháky](/navody). Git, SSH, fail2ban, uv, Python v Dockeru.
 
 
 ## Zamyšlení
