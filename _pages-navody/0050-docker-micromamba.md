@@ -6,6 +6,9 @@ layout: post
 permalink: navody/docker-micromamba
 ---
 
+> **⚠️ Upozornění:** Tento dokument byl vygenerován umělou inteligencí a může obsahovat chyby. Použití uvedených příkazů je na vlastní nebezpečí.
+{: .block-danger }
+
 Návod na vývojové prostředí pro Python v kontejneru Docker, kde se
 závislosti (včetně balíčků z conda-forge, například GDAL) instalují
 micromambou a kód i data zůstávají na lokálním disku. Předpokládá se

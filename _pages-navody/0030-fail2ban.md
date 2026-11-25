@@ -6,6 +6,9 @@ layout: post
 permalink: navody/fail2ban
 ---
 
+> **⚠️ Upozornění:** Tento dokument byl vygenerován umělou inteligencí a může obsahovat chyby. Použití uvedených příkazů je na vlastní nebezpečí.
+{: .block-danger }
+
 Rychlý přehled instalace, konfigurace, kontroly a reportování nástroje
 fail2ban, který podle záznamů v logu dočasně blokuje IP adresy útočníků
 (typicky při hádání hesel přes SSH). Příkazy počítají s Ubuntu 22.04 /

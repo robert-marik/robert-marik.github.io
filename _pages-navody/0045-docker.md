@@ -6,6 +6,9 @@ layout: post
 permalink: navody/docker
 ---
 
+> **⚠️ Upozornění:** Tento dokument byl vygenerován umělou inteligencí a může obsahovat chyby. Použití uvedených příkazů je na vlastní nebezpečí.
+{: .block-danger }
+
 Přehled instalace Dockeru, nastavení práv uživatele, práce s Docker
 Compose a hlavně uvolňování místa na disku, které Docker rád zabírá.
 Příkazy počítají s Ubuntu 22.04 / 24.04 a spouštěním přes `sudo`.
