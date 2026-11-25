@@ -9,7 +9,7 @@ permalink: navody/docker-micromamba
 Návod na vývojové prostředí pro Python v kontejneru Docker, kde se
 závislosti (včetně balíčků z conda-forge, například GDAL) instalují
 micromambou a kód i data zůstávají na lokálním disku. Předpokládá se
-nainstalovaný Docker s pluginem Compose (`docker compose version`)
+nainstalovaný [Docker](/navody/docker) s pluginem Compose (`docker compose version`)
 a Linux jako hostitelský systém.
 
 ## 1. Princip

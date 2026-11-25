@@ -22,6 +22,8 @@ jako referenční přehled příkazů s vysvětlením.
 * [uv](/navody/uv) – verze Pythonu,
   projekty, závislosti, lock soubor, skripty, nástroje, publikace balíčků,
   Docker a CI.
+* [Docker](/navody/docker) – instalace, skupina `docker`, Docker Compose
+  a uvolňování místa na disku.
 * [Python v Dockeru](/navody/docker-micromamba) – vývojové
   prostředí v kontejneru s kódem a daty na lokálním disku, napojení
   editoru a výkon na Linuxu.
